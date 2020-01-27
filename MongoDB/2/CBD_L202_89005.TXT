@@ -1,0 +1,92 @@
+Tiago Melo, 89005
+
+# 1
+db.rest.find()
+
+# 2
+db.rest.find({}, {restaurant_id: 1, nome: 1, localidade: 1, gastronomia: 1})
+
+# 3
+db.rest.find({}, {_id: 0, restaurant_id: 1, nome: 1, localidade: 1, gastronomia: 1, "address.zipcode": 1  })
+
+# 4
+db.rest.count({localidade:"Bronx"})
+
+# 5
+db.rest.find({localidade:"Bronx"}).limit(5)
+
+# 6
+db.rest.find({"grades.score":{ $gt:85 }}).pretty()
+
+# 7
+db.rest.find(  { "grades" :  { $elemMatch: { "score" : {  $lte:100 , $gte:80 } } } }  ).pretty()
+
+# 8
+db.rest.find({ "address.coord.0" : { $lt: -95.7 } }).pretty()
+
+# 9
+db.rest.find( { $and: [{ "gastronomia": { $ne : "American" } }, { "grades.score": { $gt : 70 } }, { "address.coord.0" : { $lt : -65 } }] } ).pretty()
+
+# 10
+db.rest.find( { "nome" : { $regex : "^Wil.*"}  } , { "restaurant_id" : 1, "nome" : 1, "localidade" : 1, "gastronomia" : 1, "_id" : 0}).pretty()
+
+# 11
+db.rest.find( { "localidade" : "Bronx" ,  $or : [ { "gastronomia" : "American" }, { "gastronomia" : "Chinese" } ] } , { "nome" : 1, "localidade" : 1, "gastronomia" : 1, "_id" : 0}).pretty()
+
+# 12
+db.rest.find( { $or : [ {"localidade" : "Staten Island"}, {"localidade" : "Queens"}, {"localidade" : "Bronx"}, {"localidade" : "Brooklyn"} ] }, { "restaurant_id" : 1, "nome" : 1, "localidade" : 1, "gastronomia" : 1, "_id" : 0} ).pretty()
+
+# 13
+db.rest.find( { "grades": { "$not":{ "$elemMatch": {"score": {$gt:3 } } } } }, {"nome" : 1, "localidade" : 1, "gastronomia" : 1, "_id" : 0}).pretty()
+
+# 14
+db.rest.find( { "grades" : { "$elemMatch" : {  "grade" : "A", "score":10, "date":ISODate("2014-08-11T00:00:00Z")  } } }, {"nome" : 1, "grades": 1, "_id":0}).pretty()
+
+# 15
+db.rest.find( { "grades.1.grade" : "A", "grades.1.date":ISODate("2014-08-11T00:00:00Z") }, {"_id":0, "restaurant_id" : 1, "nome" : 1, "grades":1 ).pretty()
+
+# 16
+db.rest.find( { "address.coord.1":{$gt:42, $lte:52} }, { "restaurant_id":1, "nome":1, "address":1, "_id":0 }).pretty()
+
+# 17
+db.rest.find({}, {"nome":1, "_id":0}).sort({})
+
+# 18
+db.rest.find({}, {"nome":1, "gastronomia":1, "localidade":1, "_id":0}).sort({"gastronomia":1, "localidade":-1})
+
+# 19
+db.rest.find({"gastronomia":{ "$ne": "American"}, "grades.grade":"A"}, {"nome":1, "gastronomia":1, "localidade":1, "grades":1, "_id":0}).sort({"gastronomia":1}).pretty()
+
+# 20
+db.rest.aggregate( [ {$group : {_id : "$localidade", count: {$sum: 1} }}])
+
+# 21
+db.rest.aggregate( [ {"$addFields" : {avg_score: {$avg: "$grades.score"} }}]).pretty() # Calc avg
+db.rest.aggregate( [ {"$addFields" : {avg_score: {$avg: "$grades.score"}} }, {"$match": { "avg_score":{ $gt:30 }} } ]).pretty()
+
+# 22
+db.rest.aggregate( [ {"$addFields" : {score_sum: {$sum: "$grades.score"}} },  {"$match": {"score_sum" : { $gt:70 },  "gastronomia" : "American", "address.coord.0" : { $lt : -65 }  }} ]).pretty()
+
+# 23
+db.rest.aggregate( [ {$group : {_id: "$gastronomia", count: {$sum: 1} }}, { $sort: { "count": -1 } }])
+
+# 24
+db.rest.distinct('gastronomia',  {"address.rua": "Flatbush Avenue" } ).length
+
+# 25
+db.rest.aggregate([{ $group : { _id: "$address.rua", count: {$sum: 1} }}, { $sort: { "count": -1 } }]).pretty()
+
+# 26 - Conte quantas gastronomias diferentes existem
+db.rest.distinct('gastronomia').length
+
+# 27 - Restaurantes que tiveram todas as grades possiveis
+db.rest.find({ "grades.grade" : { $all : ["A","B","C","Z","P"] } } ).pretty()
+
+# 28 - Restaurantes que tiveram apenas A's
+db.rest.find( { "grades": { "$not":{ "$elemMatch": {"grade": {$ne:"A" } } } } } ).pretty()
+
+# 29 - Numero de avaliaçoes por restaurante
+db.rest.aggregate( [ { $unwind : "$grades" } , { $group : { _id : "$nome" , num_avals : { $sum : 1 } } }] ).pretty()
+
+# 30 - Restaurantes que apenas fizeram 2 avaliaçoes
+db.rest.aggregate( [ { $unwind : "$grades" } , { $group : { _id : "$nome" , num_avals : { $sum : 1 } } }, { $match : { num_avals : { $eq : 2 } } } ] ).pretty()

@@ -1,0 +1,30 @@
+## Sorted number of games by date
+db.games.aggregate( [ { $group: { _id : "$date" , number_of_games :  { $sum : 1 }}}, { $sort: { "number_of_games": -1 } }]).pretty()
+
+
+## Max score achieved in a game
+db.games.aggregate( [ { $unwind: "$teams" }, { $group: { _id : "$date" , max :  { $max : "$teams.score" }}}, { $sort: { "max": -1 } }]).pretty()
+
+
+## Average score per team
+db.games.aggregate( [ { $unwind: "$teams" }, { $group: { _id: "$teams.name", avg_score : { $avg : "$teams.score" } } } ]).pretty()
+
+
+## Average Defensive Rebounds per team
+db.games.aggregate( [ { $unwind: "$teams" }, { $group: { _id: "$teams.name", avg_drb : { $avg : "$teams.results.drb" } } } ]).pretty()
+
+
+## Teams with an Average of Turnovers that is no more than 14
+db.games.aggregate( [ { $unwind: "$teams" }, { $group: { _id: "$teams.name", avg_tov : { $avg : "$teams.results.tov" } } }, { "$match" : {"avg_tov" : { $lte : 14 } } } ]).pretty()
+
+
+## Teams that made more than 20 blocks in at least one game 
+db.games.aggregate( [ { $unwind: "$teams" }, { $group: { _id : "$teams.name" , max_blk :  { $max : "$teams.results.blk" }}}, { $match : { "max_blk": { $gt : 20 } } }]).pretty()
+
+
+## Average number of Blocks per player in each team
+db.games.aggregate( [ { $unwind : "$teams" }, { $unwind : "$teams.players" },  { $group:  { _id : "$teams.name" , avg_blk :   { $avg : "$teams.players.blk" } } } ] ).pretty()
+
+
+## Teams that had a player that made more than 15 Offensive rebounds in the same game
+db.games.aggregate( [ { $unwind : "$teams" }, { $unwind : "$teams.players" },  { $group:  { _id : "$teams.name" , max_orb :   { $max : "$teams.players.orb" } } }, { "$match" : { "max_orb" : { $gt : 15 } } } ] ).pretty()

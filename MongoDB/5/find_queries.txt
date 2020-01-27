@@ -1,0 +1,26 @@
+## Each document holds the data for a match between 2 teams
+
+
+# Find every game in which a team from Cleveland played
+db.games.find({ $or : [ { "teams.0.city" : "Cleveland" } , { "teams.1.city" : "Cleveland" } ] }).pretty()
+
+
+# Find every game in which the "Dallas Mavericks" played as visitors
+db.games.find({ $or : [ { "teams.0.name" : "Dallas Mavericks", "teams.0.home" : false } , { "teams.1.name" : "Dallas Mavericks", "teams.1.home" : false } ] }).pretty()
+
+
+# Find every game where the LA Lakers made less than a total of 60 Field Goal Attemps
+db.games.find({  $or : [ { "teams.0.results.fga" : {$lt: 60} , "teams.0.name" : "Los Angeles Lakers"}, { "teams.1.results.fga" : {$lt: 60} ,"teams.1.name" : "Los Angeles Lakers"} ] }).pretty()
+
+
+# Find the games where Mark West made more than 3 blocks
+db.games.find({ $or : [ { "teams.0.players" : { $elemMatch: { "player" : "Mark West" , "blk" : { $gt : 3 } } } }, { "teams.1.players" : { $elemMatch: { "player" : "Mark West" , "blk" : { $gt : 3 } } } } ] }).pretty()
+
+
+# Find every game played between two teams of the same city
+db.games.find({ "teams.0.city" : { $eq: "$teams.1.city" } }).pretty()
+
+
+# Find the games where every player within the same team made no Offensive Rebounds
+db.games.find({ $or : [ { "teams.0.players" : { "$not" : { "$elemMatch" : { "orb" : { $ne : 0 } } } } }, { "teams.1.players" : { "$not" : { "$elemMatch": { "orb" : { $ne : 0 } } } } } ] }).pretty()
+

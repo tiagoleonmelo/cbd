@@ -1,0 +1,30 @@
+Tiago Melo, 89005
+
+# c)
+db.phones.aggregate( [ { $group: { _id: "$components.prefix", count : {$sum:1} }} ]).pretty()
+
+# d)
+$ mongo
+$ load("find_patterns.js")
+$ find_patterns()
+
+find_patterns = function () {
+
+	numeros = db.phones.find().toArray();
+
+	var capicua_count = 0;
+	var capicuas = []
+
+	for(var i = 0; i < numeros.length; i++){
+		var temp = numeros[i]['_id'].toString();
+		if( temp == temp.split("").reverse().join("") ){
+			// is a capicua
+			capicua_count = capicua_count + 1;
+			capicuas.push(temp);
+		}
+	}
+
+	print(capicua_count);
+	print(capicuas);
+	
+}

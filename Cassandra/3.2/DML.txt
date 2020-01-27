@@ -1,0 +1,94 @@
+## ## ## ## ## ## ## ## ## ## ## ## ## 	USERS
+
+CREATE TABLE users (
+    username text PRIMARY KEY,
+    email text,
+    nome text,
+    time_stamp timestamp
+);
+
+## ## ## ## ## ## ## ## ## ## ## ## ## 	VIDEOS
+
+CREATE TABLE videos (
+    id int,
+    vid_publish_time timestamp,
+    vid_author text,
+    vid_caption text,
+    vid_name text,
+    vid_tags set<text>,
+    PRIMARY KEY (id, vid_publish_time)
+) WITH CLUSTERING ORDER BY (vid_publish_time DESC);
+
+CREATE TABLE videos_by_author (
+    vid_author text ,
+    vid_publish_time timestamp,
+    id int,
+    vid_caption text,
+    vid_name text,
+    vid_tags set<text>,
+    PRIMARY KEY (vid_author, vid_publish_time, id)
+);
+
+CREATE TABLE videos_by_tag (
+    tag text PRIMARY KEY,
+    ids set<int>
+);
+
+CREATE TABLE vid_tag_num (
+    tag text PRIMARY KEY,
+    int number_of_tags
+);
+
+## ## ## ## ## ## ## ## ## ## ## ## ## 	COMMENTS
+
+CREATE TABLE comments_by_vid (
+    video_id int,
+    time_stamp timestamp,
+    comment_id int,
+    author text,
+    content text,
+    PRIMARY KEY (video_id, time_stamp, comment_id)
+) WITH CLUSTERING ORDER BY (time_stamp DESC, comment_id DESC);
+
+CREATE TABLE cbd.comments_by_author (
+    author text,
+    time_stamp timestamp,
+    comment_id int,
+    content text,
+    video_id int,
+    PRIMARY KEY (author, time_stamp, comment_id)
+) WITH CLUSTERING ORDER BY (time_stamp DESC, comment_id DESC)	
+
+## ## ## ## ## ## ## ## ## ## ## ## ## 	FOLLOWERS
+
+CREATE TABLE cbd.video_followers (
+    video_id int PRIMARY KEY,
+    followers set<text>
+)
+
+CREATE TABLE cbd.following (
+    user text PRIMARY KEY,
+    comments list<text>,
+    following_vids set<int>
+)
+
+## ## ## ## ## ## ## ## ## ## ## ## ## 	EVENTS
+
+CREATE TABLE cbd.events (
+    user text,
+    video_id int,
+    time_stamp timestamp,
+    event text,
+    segundos_passados int,
+    PRIMARY KEY (user, video_id, time_stamp)
+) WITH CLUSTERING ORDER BY (video_id DESC, time_stamp DESC)
+
+## ## ## ## ## ## ## ## ## ## ## ## ## 	RATINGS
+
+CREATE TABLE cbd.ratings (
+    video_id int PRIMARY KEY,
+    count int,
+    rating int
+)
+
+

@@ -1,0 +1,91 @@
+quit
+import python
+quit
+kill me
+ping
+quit
+redis-server
+quit
+ping
+ps -ef grep redis
+quit
+ps -ef | grep redis
+quit
+ping banana
+set banana amarela
+exists banana
+banana
+SCAN 0
+exists banana
+type banana
+keys *
+del banana
+exists banana
+type banana
+scan 0
+SET book:1 "The Holy Bible"
+GET book:1
+GET book:2
+SET Book:1
+GET Book:1
+SET book:1:readaction 1
+get book:1:readaction
+incr book:1:readaction
+incrby book:1:readaction 42
+decr book:1:readaction
+append book:1 " Second Version"
+get book:1
+mset book:2 "Romeo and Juliet" book:3 "Memorial do Convento" book:4 "1984" book:5 "Lord of the Flies"
+KEYS *
+VALUES *
+mget book:2 book:3 book:4
+incr book:1 "Bible"
+lpush book:1:comment "What a fun read :)"
+lrange book:1:comment 0 -1
+lrange book:1:comment 0 -2
+lrange book:1:comment 0 -1
+lrange book:1:comment 0 2
+lrange book:1:comment 1 2
+lrange book:1:comment 0 -1
+LPUSH book:1:comment "Inspiring"
+lrange book:1:comment 0 -1
+lrange book:1:comment 0 -2
+lrange book:1:comment 0 1
+rpush book:1:comment "I've seen better"
+lrange book:1:comment 0 -1
+rpush lib:1:shelf:1 book:1
+lrange lib:1:shelf:1
+lrange lib:1:shelf:1 0 -1
+hset book:6 name "Spiderman"
+hset book:6 cover "Hard"
+hget book:6
+hget book:6 name
+hget book:6 cover
+lpop book:1:comment
+lrange book:1:comment 0 -1
+lindex book:1:comment 0
+blpop book:1:comment 2
+lrange book:1:comment 0 -1
+brpop book:1:comment 1
+lrange book:1:comment 0 -1
+hmset book:7 name "Wolverine" cover "Soft" artist "Paul Jenny"
+hgetall book:7
+hexists book:7 name
+hlen book:7 name
+hlen book:7 
+hkeys book:7
+keys *
+vals *
+hvals book:7
+hdel book:7 artist
+hvals book:7
+hkeys book:7
+set deti:students tiago joao ze diogo pedro 
+set deti:students "CBD" tiago joao ze diogo pedro 
+set deti:students "CBD"
+SADD deti:students tiago joao ze diogo pedro
+sadd deti:students:1 tiago joao ze diogo pedro
+keys *
+smembers deti:students:1
+get deti:students
+quit

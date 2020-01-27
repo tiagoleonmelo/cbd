@@ -1,0 +1,107 @@
+// NMEC: 89005 //
+
+# Loading CSV
+
+## Importing users
+create constraint on (u:User) assert u.svn_id is unique;
+
+USING PERIODIC COMMIT 500
+load csv with headers from "file:///git_selection.csv" as line
+MERGE (u:User {svn_id : line.svn_id})
+on match set u.svn_id = line.svn_id
+set u.real_name = line.real_name
+
+
+## Importing projects
+create constraint on (p:Project) assert p.project_name is unique;
+
+USING PERIODIC COMMIT 500
+load csv with headers from "file:///git_selection.csv" as line
+MERGE (p:Project {project_name : line.project_name})
+on match set p.project_name = line.project_name
+set p.project_name = line.project_name
+
+
+## Importing organizations
+create constraint on (o:Organization) assert o.org_name is unique;
+
+USING PERIODIC COMMIT 500
+load csv with headers from "file:///git_selection.csv" as line
+MERGE (o:Organization {org_name : line.organization})
+on match set o.org_name = line.organization
+set o.org_name = line.organization
+
+
+## Creating relationships User-Project
+USING PERIODIC COMMIT 500
+load csv with headers from "file:///git_selection.csv" as line
+MATCH (u:User {svn_id: line.svn_id}), (p:Project {project_name: line.project_name})
+CREATE (u)-[:WORKS_ON {role_on_project: line.role_on_project}]->(p)
+
+
+## Creating relationships User-Organization
+USING PERIODIC COMMIT 500
+load csv with headers from "file:///git_selection.csv" as line
+MATCH (u:User {svn_id: line.svn_id}), (o:Organization {org_name: line.organization})
+CREATE (u)-[:WORKS_FOR]->(o)
+
+
+
+# 1
+match (n:User) return n;
+
+# 2
+match (n:User) return n.real_name;
+
+# 3
+match (u:User)-[r]->(p:Project)
+with count(r) as num_edge, u, p
+where num_edge >= 1
+return p;
+
+# 4
+match (n:User)-[r]->(p:Project)
+with count(r) as num_proj, n, p
+return num_proj, n.real_name;
+
+# 5
+match (n:User)-[r]->(p:Project)
+with count(distinct p) as num_proj, n
+return num_proj, n.real_name
+order by num_proj desc;
+
+# 6
+match (n:User)-[r]-(p:Project)
+with count(r) as num_members, p
+return num_members, p;
+
+# 7
+match (n:User)-[r:WORKS_ON {role_on_project:'Committer'}]-(p:Project)
+with count(r) as num_committers, p
+return num_committers, p;
+
+# 8
+match (atm:User {svn_id:'atm'})-[r]-(p:Project)
+match (u:User)-[r1]-(p)
+where u <> atm
+return distinct u.real_name, atm.real_name, p.project_name;
+
+# 9
+match (atm:User {svn_id:'atm'})-[r:WORKS_ON {role_on_project:'PMC'}]-(p:Project)
+match (u:User)-[r1:WORKS_ON {role_on_project:'Committer'}]-(p)
+where u <> atm
+return distinct u.real_name, atm.real_name, p.project_name;
+
+
+
+
+
+
+
+
+
+
+
+
+
+

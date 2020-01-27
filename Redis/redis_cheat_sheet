@@ -1,0 +1,67 @@
+KEY COMMANDS
+	SET key val
+	EXISTS key
+	TYPE key
+	DEL key
+	KEYS pattern
+	SCAN pattern cursor
+
+STRING COMMANDS
+	SET key string optional nx|xx
+	GET key
+	INCR key
+	INCRBY key integer
+	DECR key
+	DECRBY key integer
+	APPEND key string
+	MSET key1 string key2 string
+	MGET key1 key2 key3
+
+LIST COMMANDS
+	LPUSH key value
+	RPUSH key value
+	LRANGE key start end
+	LPOP key
+	RPOP key
+	LINDEX key index
+	LINSERT key BEFORE|AFTER pivot value
+	BLPOP key second delay
+	BRPOP key second delay
+
+HASH COMMANDS
+	HSET key field value
+	HGET key field
+	HMSET key field1 value1 [field2 value2 …]
+	HMGET key field [field2 …]
+	HGETALL key
+	HEXISTS key field
+	HLEN key
+	HKEYS key
+	HVALS key
+	HDEL key field
+	HINCRBY key field increment
+
+SET COMMANDS
+	SADD key member [member …]
+	SMEMBERS key
+	SISMEMBER key member
+	SCARD key
+	SUNION key1 key2 [key3 …]
+	SINTER key1 key2 [key3 …]
+	SDIFF key1 key2 [key3 …]
+
+SORTED SET COMMANDS
+	ZADD key score member [score member …]
+	ZRANGE key start stop [WITHSCORES]
+	ZREVRANGE key start stop [WITHSCORES]
+	ZRANK key start stop [WITHSCORES]
+	ZSCORE key member
+	ZREM key member
+	ZCARD key
+	ZCOUNT key min max
+	ZRANGEBYSCORE key min max [WITHSCORES] [LIMIT offset count]
+
+
+
+
+

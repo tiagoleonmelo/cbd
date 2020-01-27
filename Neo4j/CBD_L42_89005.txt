@@ -1,0 +1,97 @@
+// NMEC: 89005
+
+# 1
+match (director)-[r:ACTED_IN]->(movie)
+match (director)-[t:DIRECTED]->(movie)
+return movie.title, director.name;
+
+# 2
+match (p:Person)-[r:ACTED_IN]->(m:Movie) where m.released >= 2005 return m,p;
+
+# 3
+match (a)-[e]->(b)
+with count(e) as num_edge, a, b
+where num_edge > 1
+return a, b
+
+# 4
+match (reviewer:Person)-[r:REVIEWED]->(m:Movie)
+match (reviewer1:Person)-[t:REVIEWED]->(m:Movie)
+where reviewer <> reviewer1
+return m, reviewer;
+
+# 5
+match (p:Person)-[r:ACTED_IN]->(m:Movie)
+match (p1:Person)-[t:ACTED_IN]->(m)
+where p.name <> p1.name
+return p,p1,m;
+
+# 6
+match (p:Person)-[r:ACTED_IN]->(m:Movie {title : "Apollo 13"})
+with m.released-p.born as age_sum, p, m
+with avg(age_sum) as avg_age
+return avg_age;
+
+# 7
+match (p:Person)-[r:ACTED_IN]->(m:Movie)
+with avg(m.released-p.born) as avg_age, m
+return avg_age, m.title
+order by avg_age desc
+limit 10
+
+# 8
+match (p:Person)-[r:ACTED_IN]->(m:Movie)
+with avg(m.released-p.born) as avg_age, m, collect(p) as actors
+order by avg_age
+limit 1
+return m, actors;
+
+# 9
+match (john:Person {name:"John Cusack"}), (demi:Person {name:"Demi Moore"}), p = shortestPath((john)-[*]-(demi))
+return p
+
+# 10
+match (keanu:Person {name:"Keanu Reeves"}), (tom:Person {name:"Tom Cruise"}), p = shortestPath((keanu)-[*]-(tom))
+return length(p)
+
+# 11
+match (jim:Person), (kevin:Person), p = shortestPath((jim)-[*]-(kevin))
+where jim.name starts with "Jim" and kevin.name starts with "Kevin"
+return length(p)
+order by length(p)
+limit 1
+
+# 12
+match (jim:Person {name:"Jim Cash"}), (kevin:Person), p = shortestPath((jim)-[*..5]-(kevin))
+where kevin.name <> "Jim Cash" and length(p) = 2
+return kevin
+
+# 13
+match (p1: Person), (bacon:Person {name:'Kevin Bacon'}), p = shortestPath((p1)-[*..30]-(bacon))
+where p1 <> bacon
+return length(p)
+order by length(p) desc
+limit 1
+
+# 14
+match (p1: Person), (p2:Person), p = shortestPath((p1)-[*..100]-(p2))
+where p1 <> p2
+return length(p)
+order by length(p) desc
+limit 1
+
+# 15
+match (p1: Person), (p2:Person), p = shortestPath((p1)-[*..10]-(p2))
+where p1 <> p2
+with length(p) as len
+with count(len) as contagem, len
+return len, contagem
+order by len
+
+# 16
+match (p1: Person), (p2:Person), p = shortestPath((p1)-[:ACTED_IN*..10]-(p2))
+where p1 <> p2 with p1, p
+return avg(length(p)) as average_len, p1
+order by average_len
+limit 10
+

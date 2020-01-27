@@ -1,0 +1,621 @@
+## 1
+match (u:User {name: "William"}  )-[:WROTE]->(r:Review) RETURN u,r
+2014-06-30 - Had a great time. The space is perfect. 
+2014-05-27 - My wife and I came down to ATX for the Cap Tex (website hidden) was our first time use Airbnb. I didn't get to meet Linda but her instructions were very clear. Her house was very nice, comfortable, and clean. It was at a good location with healthy food options nearby. We ate at Kerbey's for breakfast, the rest of the time we were closer to downtown. It only a 10-15 min drive to downtown.  I plan to check airbnb first when I travel now.   
+2013-03-14 - This room is gorgeous.  Even better than the pictures show.  The private bath is huge, and the private balcony is a great place to sit and read.  
+
+Alyson is a super host, pro in every way.  She introduced me to a few things I should know about Austin (my first time there) and connected me to some great people, but was great about letting me just be as I stayed there.  
+
+I can't recommend Alyson and her space enough.  A+!  
+2013-03-11 - The cottage is lovely, perfectly private and actually better than what the pictures show.   It's like having your own little hotel room.  
+
+Monica is a professional, as the place was spotless with nice little lotions, shampoos, bottled water and snacks laid out for my arrival.
+
+A+
+2013-03-14 - The house is gorgeous.   The entire place is very comfortable with a spiritual vibe that make it feel healthy just being there.
+
+The kitten who shares the house is super sweet and a great addition to the experience.  
+
+If in Austin, this is a gorgeous place to stay.   
+2014-10-20 - Brooks was great. Everything was as advertized and the place was fantastic. Great location, clean, quiet. Very comfortable.
+2012-03-19 - a fabulous stay! many thanks
+2014-06-10 - This was a great cottage/guest house that Melissa and Dave have. The place was very clean and has lots of privacy. It was walking distance to all the restaurants, coffee, and bars on the east side. The two air conditioning units were huge. The walkway from the front gate to the back house can be a bit dark and they do have lights along the path. Melissa was very attentive and easily reached via emails/texts. My wife and I had a great stay here and will look to come back again for sure!
+2012-01-24 - Had a great time in Austin and highly recommend Lois's place. 
+
+- Lois is a great host. She has a guide to the cottage and her suggestions in Austin. She is warm and welcoming and eager to help, wile at the same time careful about preserving guest's privacy. 
+
+- The space is very cool. The three futons mean that it could sleep a lot of people if necessary, although it is a great size for 2. It is well located, not too far from downtown, but in a quiet neighborhood. A great place to rest. Furthermore, the house definitely channels the "keep Austin weird" vibe, which is really fun. 
+
+I will definitely stay here when I return to Austin. 
+
+2015-08-17 - Lois was very welcoming and hospitable during our stay. She provided a list of restaurants to try and sights to see. We were extrmeley pleased with our stay. The home was fun and eclectic and the neighborhood is close to everything the city has to offer. 
+2014-11-20 - The place is super nice and in a great location. This was my 2nd stay and would stay there again next time I'm in town.
+2013-09-01 - The place is great and relatively quiet for being right down town. And I can't express how great it was to be in Austin for a week on business and to have a kitchen/washer/dryer! 
+
+The location can't be beat. And Steve was a great host. I hope to be staying there again.
+2015-01-23 - As always, this place was great. Great location and a great accommodation. And, as always, the bagels were a nice touch.
+2015-09-13 - The location was great! Awesome place perfect for our weekend. cozy and comfortable place for our group.
+2015-03-22 - Gary and Kelly were wonderful hosts. They graciously accommodated our late arrival when traffic caused us to arrive later than expected, and gave us local suggestions when the weather rained out our original plans.
+
+They have a beautiful home and I wish the weather would have been nicer so we could have enjoyed the outdoor spaces.
+
+Tip: The bed is smaller than a Queen, so it's a tight squeeze for two if one of you is taller than 6ft.
+2014-07-09 - We stayed in Angel's camper on our last day in Austin and it was a really fun experience! The camper is super charming, makes me want to have a camper in my own backyard.
+There's AC in the camper so it's easy to stay cool on a hot day. The shower is located outside but it's pretty hidden and it's all part of the experience.
+The location is perfect for us because we were planning on going to Franklin's the next day and it's only like a 2-3 min drive. I will definitely recommend staying here!
+2014-07-06 - Awesome modern house in East Austin! Lu was really accommodating, gave us a brief history of the area and recommended a bunch of places for us to visit. The room was extremely comfortable and very clean. The 2 big dogs we met were super friendly but also very quiet ੯ੁૂ‧̀͡u\ ੯ੁૂ‧̀͡u\ but you will only see them behind the gate in the backyard when Lu isn't home.
+I would definitely stay with Lu again! 
+2015-05-26 - The Casita was great, better than anticipated. The kitchen was complete with washer/dryer. The location was great. Everything was cleaned and in working order. The host was cordial and helpful.
+
+Did I say it was great?
+2015-11-01 - Treehouse has excellent kitchen/great room area for relaxation. Great house, quiet neighborhood, short ride to everything.
+2015-07-04 - The listing description is accurate. The room is clean.  Coffee is ready to brew. Thank you Brooke.
+2015-02-19 - This place was great! Awesome location and the bikes were fun!
+2015-05-12 - Great location for South Austin activities.  Bed is comfortable and new linens were nice and cool.  Bathroom has new fixtures and lots of hot water with great water pressure.  Will definitely consider staying here again!
+2015-09-21 - Great stay at Ben's place.  Location is nice and quiet with plenty of parking, easy walk to Rainey Street.  Large room with comfortable bed and everything you need.  Bathroom is amazing, with plenty of hot water.   Ben was very responsive to messages, will definitely look for this space again on my next trip to Austin.
+2015-07-03 - Great Location with easy access to restaurants and nearby attractions.  Convenient arrival and departure and Rosa was easy to contact.  The Bungalow provides for a pleasant stay and in a nice neighborhood with approachable neighbors.
+2015-08-11 - After a long drive into Austin, I was greeted with an absolutely beautiful space. This place looked like a 5-star hotel and there was even a welcome basket with goodies!
+
+I was in town working at the Convention Center all weekend and the apartment was within walking distance. There is even a really nice coffee shop basically right across the street. 
+
+I would highly recommend this place for your next vacation! 
+2014-10-27 - The place was great. Spacious. The one potential downside (for some people) was the bathroom was not in the garage apartment, you had to go downstairs, to other side of garage. And shower was small. But definitely no where near a deal breaker for me. It's a great location and would easily book again without hesitation. 
+2015-01-11 - Matt is a fantastic host, we arrived late on Friday night and he very kindly met us and took us up to the apartment - which is LOVELY! Awesome view - even at night! Great facilities, very chic bathroom and a wonderful bed! What more could you want. Also another plus was that it's really, really easy to find.
+The list description was accurate.
+The nighbourhood is quiet, with an out of town feel - up on the hillside. However, it took no time at all to get downtown!
+2015-11-02 - Mary was a wonderful host, and we absolutely loved her house. The location was perfect and the house itself was spacious and beautifully decorated. We had no problems communicating with Mary, and she was very helpful with suggestions for things to do and even offered to give us rides. The next time I'm in Austin I will definitely try to stay here again. Highly recommended.
+2014-12-08 - Marcos is beyond awesome. Great communicator, made me feel like a king, and honestly someone I would call a friend after hanging out and chatting for two nights. This is a cool guy who's had a really interesting life, so if you have the time, you should sit down and get to know him. The location is unbeatable, super clean, safe -- all in all for the money you can't do better. I cannot recommend Marcos enough, he's a real class act. 
+2014-11-03 - My friend and I stayed at Nita's place during the formula 1 racing. The place have plenty of room for both of us. Even though the house is old, it's clean and neat. I had very easy time communicating with Nita. She's very helpful and quick to respond any questions. 
+2015-07-01 - My experience staying with Josh was great! He was accommodating and met all my needs. He let me use his kitchen to cook a meal for my girlfriend on her birthday!! This most definitely earned me some points with her. If you are into outdoor space, he definitely has everything covered there as well. Very cool back yard indeed! I HIGHLY recommend. 
+2014-04-07 - Awesome experience! I booked Terrance's place for a bachelor party weekend for a group of guys.  This place was great. The interior is really nice and the outdoor patio is perfect for relaxing in the hot tub or lounging on the couches.  Huge TV that we were able to watch the NCAA games on.  Located across the street from a supermarket so super convenient in you plan on cooking/grilling.  Terrance was extremely accommodating with special requests.  We could not locate an iron in the house and he was happy to go buy one and bring it to the house. He could not have been a better host.  I would def recommend this place for your visit to Austin! 
+2014-09-01 - The house was wonderful and comfortably slept 5 people. Great BBQ down the street, convenient location. 
+2015-04-21 - We had a great experience. Trey was very accommodating and helpful. The place was clean and as promised. I have no reservations about recommending his place to any future tenants.
+2014-06-30 - We enjoyed our stay at the private guest house. Ana and Griffin were very  accommodating in giving us a tour of the property and allowing us to check in just after 12:00 noon. The property is a separate guest house located in a quiet, established, neighborhood. The free wifi was fast and dependable. The furnishings were comfortable and the kitchen area had everything we needed. A six pack of Beer, water, and snacks were provided. We walked in the neighborhood and felt safe and the neighbors were friendly. It was a short walk to Zilker park and to nearby cafe and drug store. We would stay at this location again. 
+2014-06-30 - The reservation was canceled 122 days before arrival. This is an automated posting.
+2015-09-09 - Andy was very respectful and understanding as he worked with me through my travel difficulties. The place was clean, tidy and contained all the amenities indicated in the listing. I would recommend his place to any and everyone and would consider staying there again in the future.
+2015-04-20 - The place was immaculately clean and well stocked in a quiet location just off S Lamar. The host was very friendly in assiting with arrival logistics and contributed to a very successful and enjoyable stay in Austin.
+2014-04-04 - Convenient location to downtown. Hosts very nice.
+2014-04-05 - Nice and mellow people - great location
+2015-05-19 - Thanks Erin for a wonderful stay! The studio was exactly as described on the listing and just enough space for two people. We found everything to be clean and in working order.
+
+Erin recommended some great places to eat and was overall very accommodating for our stay. The neighborhood was nice and quiet and parking was easy!
+
+I would definitely come again. Thanks!!
+2014-02-17 - Bob was a great host. The house was exactly as described and his hospitality was second to none. The neighborhood was very welcoming with many nearby East 6th establishments that were in walking distance. We hope to be back in the future!
+2015-03-17 - Host was very accommodating! Chips, salsa and water in the fridge upon arrival especially welcome. Cottage was a pleasant 20-minute walk from downtown, with plenty of food options nearby. If you're looking to stay in style, this probably isn't it (although host says a renovation is coming) but for a 1915 home it's well-kept and a good homebase for a weekend in Austin.
+2013-10-08 - We had a great time!  Super value for a festival weekend and we love the area--very centrally located.  We travelled with our 2 kids and there was s plenty of room for all of us.  Sorry we didn't meet you Madge!  We noticed the stickers on the car in the drive and thought we would probably get on well:)  Thanks again.  Billy
+2015-10-18 - Better than advertised.  Stephen made it extremely easy to arrive and leave and the house could not have been better.  We will remember his house next time we come to town with friends.
+2014-10-31 - Fantastic Place in a fantastic location, will definitely stay again and recommend it to anyone wanting to stay in walking distance to the entire city.
+2013-09-16 - Jason's apartment exceeded all expectations. The location and layout are ideal for any traveler.  Walking distance to every downtown location. I will always search availability for this apartment before heading to Austin. 
+2013-11-28 - This place is exactly what my wife and I were looking for. We were able to walk to sixth street or hop in the car and go exploring without any hassles. To us it just doesn't get any better...an awesome place ant an awesome host. We will be back!
+2014-06-01 - Great location, wonderful condo for a weekend in downtown Austin.  Mark was extraordinarily accommodating and responsive.  I can only hope all my AirBnB experiences are as good as this first one.
+2015-05-08 - Great place to stay. Nice and clean, reasonably priced and so close to everything. Really appreciated the bluetooth speakers and that he already had soaps and other bathroom supplies on stock. Also loved being able to walk to Rainey St for the evening. Will definitely stay here again when I am in Austin. 
+2014-11-02 - John was such a great host! He made sure everything was in order the day before check in and allowed us to check in early on the day of our arrival. His place was fantastic. The kingsize bed in the master was extremely comfortable and the house came with all the amenities one is looking for when traveling. The SoCo location was perfect and easy to walk to all of the shops and restaurants in the area. I would highly recommend staying at John's place!
+2015-02-09 - Wonderful neighborhood is a quiet community. The Vaughns are very friendly and communicative. We would recommend them to anyone looking for a place in Austin.
+2014-11-21 - The reservation was canceled the day before arrival. This is an automated posting.
+2015-03-03 - We really enjoyed our stay. The room was clean and comfortable. We were very busy in and out the whole 3 days we stayed in Austin, but Erica was always very helpful and responsive whenever we had any needs. This is a great great option if you want your own tiny private guest house. Also an awesome value for what you are getting.
+2015-09-21 - Charla provides an adorable home in one of the best Austin neighborhoods. Her home was neat and tidy and plenty comfortable. She was available to answer all of our questions and was quite hospitable. 
+2015-08-24 - The host canceled this reservation 25 days before arrival. This is an automated posting.
+2015-05-19 - Everything was clean, comfortable, easy and very accommodating. I hope the soaring hawk over the back 40 is a permanent resident. 
+2015-08-17 - I stayed in Daniel's studio for three nights while visiting relatives nearby.  The apartment is just as described on the website.  He met me at the door, showed me the unit, and was responsive when I had questions.  The Murphy bed is easy to use and comfortable.  The room is large enough that it can be left down if desired, but it was so easy to put back up, that's what I did.  The bathroom is small, but functional.  The location is great for access to south Austin activities.  I liked being able to walk two blocks to the neighborhood market for just about anything.
+2015-10-06 - Daniel went above and beyond. Welcomed us with a full fridge of snacks and a bottle of wine (all complimentary). He offered us ride when we went out and even made a fresh fruit salad for us one morning. All this and he was still a perfect non-intrusive host. The accommodations were clean and comfortable and the location could not be beat. In all an ideal place.  
+2015-10-04 - She personalized the room we rented--we had nameplates on the door, and that was a cute touch.  The room was exactly as listed...perfect.  The neighborhood is close to downtown Austin, and felt very safe, quiet.
+2014-08-16 - A top Airbnb property for us, an older couple visiting children who live in far south Austin. Sher's location is well within a neighborhood setting, with the quietness this brings,but quickly accessible to I35 via William Cannon, a major E-W traffic artery. 
+
+Sher and her trusty dog Joe are delightful hosts. The room and private bath were immaculate, the bed fantastic. And Sher happily helped us with a minor automobile malfunction the night we arrived. The off-street parking guarded by a closed gate contributed to a sense of well-being. 
+
+We look forward to another visit to the kids in the fall, and we'll be lodging with Sher. What a delightful find for us!
+2015-09-07 - Awesome apartment in a great area! I definitely will stay here again.  
+Communication with Sarah was top notch. 
+2014-12-18 - Awesome spot in a great part of Austin. 
+2013-08-13 - The place was GREAT! Drew and Simone are wonderful hosts and it was a pleasure to get to know their family. Brigada!!
+2013-07-16 - Second time I've stayed here. Very peaceful and the place is great. Susan is a wonderful host. I would stay here every time I come to Austin. 
+2014-08-03 - Bryce and Rachael are great hosts and their place is fantastic.  We weren't in town for long so we spent most of our time exploring Austin (walking almost everywhere).  The brief time we were in their house was great.  Super clean and the AC worked great which we appreciated given that it was in the upper 90's outside.  They were very prompt with communication and responding to questions.  I had planned on an air mattress being in the apartment for the second night but noticed it wasn't there upon my arrival (miscommunication on my part).  I messaged them that night and they brought it over (and set it up!) the next morning while I was out and about.  Could not have asked for better service.  They also provided ample recommendations on restaurants and shops to see in Austin (bike shops, tacos places, you name it).  Highly recommended.
+2014-12-31 - We had a wonderful experience with Bryce and Rachael! They had a very nice, clean house located in an awesome section of Austin. They were always prompt to answer any questions that we had and even left some local beer in the fridge for us when we arrived. We recommend this location for anyone visiting austin, it could not have been a better experience!
+2015-08-31 - Great place! Will stay here again.
+2014-10-28 - Great experience. Great location in a cool neighborhood. Walking distance to everything. The beer, water, chips, and salsa were a nice touch. I would highly recommend staying with Robert.
+2015-08-17 - Andrea was a wonderful host. She made sure we felt at home. She was very kind and helped us get settled in. Gave us good directions to her apartment and even let us have access to snacks in her fridge. She also game my mother some mint water to sooth her weak stomach after the long drive. By far the best experience I could've imagined being my first time to travel through Airbnb.
+2014-04-07 - Great place.  Absolutely loved it, everyone did.  Presentation was extremely professional!  Thanks again Joseph.
+2014-10-28 - This was our first Airbnb stay, and we had a great time. Everything was comfortable and clean, the location was fairly convenient to places we needed to get, and Denise was communicative and helpful, both ahead of time and during the stay. We would absolutely consider staying here again next time we have occasion to visit Austin.
+
+The house was well curated, and while we didn't make much use of the computer, iPad, TV, Sonos, etc., it was great having them available. There were some great magazines around, many of them food-related, and Denise provided some useful local dining recommendations. The kitchen was adequately stocked and functional, and sleeping arrangements worked out well for us and our 13 month old.
+2015-06-26 - Quick response by my host on a last minute basis enabled me to book the cottage for two nights.  Comfortable, clean and nicely appointed one bedroom cottage.  Easy walking distance to the restaurants and bars on South Congress.
+2015-02-21 - This was a great stay.  Dewey was extremely responsive, and the room was very pleasant and comfortable.  The location is ideal too in a nice neighborhood a short distance from downtown.  Highly recommend. 
+2015-07-13 - This was my first time using Air BnB and I could not have asked for a better experience! Georgia was great and the house was amazing - there was more room than I expected from the pictures! It was in a good location and the kitchen and bathrooms were stalked with all the essentials. Would highly recommend this place! 
+2015-02-05 - All of the other positive reviews were accurate. The studio was incredibly clean, the location was great and there were nice goodies. Between nice towels, a comfortable bed, coffee in the fridge and some beer - Sovay is an incredible host. I filled out the form to rent the same day and she was very accommodating to get it done easily and quickly and it was so clean when I came. There were a bunch of bathroom essentials in case you left something and for folks from outside of Texas there were some books on Texas and things to do.
+2015-08-30 - Lovely (and clean!) house in a great location. Stephanie and her roommate were wonderful hosts and I was sad to leave.
+2015-05-19 - Awesome and conveniently located! Thanks for having us!  
+2015-05-29 - The stay was exactly as listed and the host was very helpful in recommending a few places to visit during our stay. It was close enough to get anywhere within thirty minutes yet quiet enough to have a relaxing vacation.  Several really good restaurants are in the area as well, including one charcoal grilled chicken one that changed my life. Would definitely stay again. 
+2014-04-28 - This place is awesome and tony is an amazing host, we really couldn't have asked for anything more!
+
+the loft itself was SUPER awesome and had way more than enough room to accommodate our stay. We had a group of 6 and we all loved the space so much, especially the deck upstairs, which is were we spent quite sometime enjoying the Austin weather before it got too hot!
+
+The space is literally a 10 mins drive to everything fun, as well as tons of restaurants and convenience stores. 
+
+We were provided with so many amenities and tony was extremely attentive to our needs. My whole group has decided that this is officially our "go-to" place whenever we decide to visit Austin again!
+
+
+
+2015-10-07 - Duane and Maya were gracious hosts! 
+They stayed in contact with us the entire time before and during our trip! We felt right at home and would gladly return to this space. 
+The space itself was very clean and was everything that we could ask for. 
+Overall, everything was extremely accessible and we would definitely recommend the space to everyone! 
+2015-05-15 - Sam was a very welcoming host. We didn't see him much but he was prompt with his responses and was readily available. The Airstream was such a perfect place to stay. The right amount of room for two people and it was stocked with everything to make the stay comfortable. It even held up nicely throughout all of the storms. The location is ideal if you are interested in the hip East 6th bar scene and we actually found the area to be very quiet and walkable. I'd recommend the Airstream for those who are slightly more adventurous, but still would like a nice, clean, and cozy place to stay.
+2014-01-09 - Terrance's place was cozy, and nicely decorated with a candy theme. Nice stereo and TV available for use.
+
+We had 6 people in there with 4 sleeping in inflatable beds and a couch. The location is very good and we got an amazing value.
+
+The main bed is big and extremely comfortable. Can probably fit 3 people.
+
+The heating/cooling system is all digital and the best i've seen anywhere. Easy to use and I believe it could even be controlled remotely.
+
+Kitchen was a good size, all appliances working correctly and has a bar with 3 stools. Very good setup.
+
+There is also a nice desk to work out of with plenty of electric outlets, comfortable desk chair with wheels with adjustable height. And a window next to it for natural light coming in.
+
+There was a washer and drier available for use. It came in VERY handy!
+
+All closets were locked/taken, so if you are traveling with a lot of stuff, your clothing will need to stay in your bags. Other than that the place is highly recommended.
+
+Terrance is very responsive to all requests and always checking via email if we needed anything. We were left all to ourselves and check-in check-out was a breeze.
+
+
+2015-07-02 - Terrance was very welcoming!  Everything was as described in the listing.  Terrance was flexible with our needs, and he made sure we had a good experience.  The neighborhood was quiet, and everything was close by!
+2015-04-04 - Wonderful people with a wonderful house. An incredible trip made even better with the help of the quaint atmosphere provided from the house, neighborhood, and surrounding community.
+2014-04-07 - Mara was great to work with and very responsive to any questions. She made our first AirBNB stay a success! 
+
+The apartment is very nice, clean and has a very convenient location. We got to town around 1 and were able to go to Banger's, Zilker Botanical Garden, the State Capitol, and an Alamo Drafthouse show without ever really feeling rushed or inconvenienced. 
+
+We will definitely look her up again the next time we travel to Austin!
+2015-04-03 - This place is pure magic!  I felt like I was living inside a ride at a David Lynch inspired theme park.  I cannot recommend a stay in "The Mansion" more and am eager to come back.  Sara was super-fast with communication and accommodation; great host and experience all around.  
+2015-09-28 - Great location and great place!
+2014-08-06 - Jenn is a wonderful host who made me feel right at home.
+She let me set the tone for interaction as i was working during the day I was most grateful for her consideration
+Stores are within walking distance and my room was neat and clean.
+The bed was most comfortable and I slept great
+There are two cats and a dog who are very well behaved so take that into consideration
+2014-05-27 - Great place to stay. Tony very helpful re what to do in the real Austin. HEB very close, buses in to town very close 
+2015-09-14 - Beautiful place, very relaxing, perfect location, and super attentive and accommodating host.
+2015-08-03 - Terrance was a wonderful host. He was very helpful through the entire process and very quick to respond to any question or concern. The descriptions and pics of the condo were right on the money! Everything about our trip was great!
+2014-10-20 - Carrie was very friendly and accommodating, bed was huge and very comfortable. Her fantastic recommendations for places to see in Austin made our stay an excellent three days.
+2014-07-28 - Our overall experience with this location was fantastic! The hosts were very prompt in all communications and were waiting to let us in and show us around as soon as we arrived. 
+The house is perfect inside and out. The entire back yard is covered with the shade of beautiful oak trees that allow for enjoyable rocking chair time at any point in the day. The porch came fully equipped with an outside eating table and grill for an outside dinner. To top of the backyard, there is a wonderful outdoor shower, offering perfect privacy paired with this gorgeous backyard. 
+Inside, the house is bright, cool, and comfortable. The kitchen came equipped with dishes, coffee pot, blender, and other basic cooking utensils and complementary coffee, tea, and sweeteners.  With the TV in the living room there was a basket full of movies to satisfy your late night show cravings. My favorites inside this house were definitely the bed and the shower! The beds were extremely comfortable, firm but with a great memory foam topper, and the shower has amazing water pressure, perfect for a refreshing morning! 
+Aside from how great this spot is inside and out, you could not ask for a better location in Austin! It was less than a five minute drive to Barton Springs and would be a fun walk if you were so inclined. Traveling downtown for the evening our one way cab fair was less than $10! We were also able to walk to a nice convenience store close by to stock up on snacks and basic foods for the weekend. The accessibility to everything Austin from this house is perfect!
+If you are traveling to Austin, this is where you want to stay!
+2014-10-28 - Ben made us feel welcome from the moment we got there by making it easy for us to pick up our keys, sending kind words of encouragement for us and our short film at Austin FIlm Festival, and just being a great guy. I really appreciate his combination of warmth and professionalism. 
+2015-04-14 - Really enjoyed our stay over the Motogp weekend.  Nice place and a good location.  Nice coffee just a short walk away.
+2015-03-10 - Ruth's home was very cheerful and welcoming. She accommodated out needs for check in and check in out, and left us a bottle of wine, toiletries, and other sundries upon arrival. The neighborhood was very nice. Within walking distance there were restaurants, a coffee shop, and an eccentric convenience store with an excellent selection of craft beer and wine. We enjoyed staying a bit removed from the action of downtown, and cheap and easy bus travel made getting into the thick of things easy. 
+2015-03-22 - Edna was communicative from the outset - helpful, polite and patient.
+
+We were met by her friend Cesar within 5 minutes of our arrival who showed us around and made us feel very welcome. Edna's instructions encouraging us to help ourselves to coffee, food from the fridge etc. was also much appreciated after a long journey from the UK.
+
+The house was very clean and tidy, with access to clean towels. The beds were clean and comfortable, and a nice balcony out the back gave us time to unwind in the evening.
+
+The house is in a quiet neighbourhood - so supplied quiet relief from the throngs of people downtown at SXSW - but only about 10 minutes at the most in a cab to downtown. It took us 15 minutes to get from Austin Bergstrom Airport, so the location is great.
+
+Thanks Edna for a very comfortable stay! See you next year!
+2015-06-01 - My friend and I had an amazing time at Joe & Bella's. The setup was great. Our guest cabin was quiet and discrete. The room had everything we needed in it. The weather didn't quite cooperate the weekend we we there so we really appreciated the cable TV service. I would definitely stay at Joe & Bella's again. 
+2015-05-27 - My wife & I stayed in this condo for about 8 days - we had a great time.  It's a good size, has a sufficiently equipped kitchen, etc.  Internet speeds were great and the neighborhood was nice and several food and grocery options were within walking distance.  We definitely recommend this place!
+2015-02-02 - Nice people.  Comfortable bed.  Very sweet dog and cats.
+2013-04-10 - Safe, secure, and private. No compliants, hope he will have us next year. Nuff said, thank-you Chris. William&Jeannine.
+2015-08-28 - This was one of the best housesI have stayed for a while. A super couple, in a super place. Wish more people like them around. They know when to engage with guests and when to leave alone. Thank you
+2015-10-19 - I had the most fun one could have in a long time. Great group of comers and go'ers, but so much fun. Thank you guys, for contributing to a great fun filled weekend
+2014-12-07 - The apartment was great, we only stayed one night. Great location, we were able to get to everything. We will stay at the Cross" again. Great value, great host. Thanks again Benjamin.
+2015-08-11 - Wonderful flat in an excellent locale. Would definitely stay there again.
+2015-03-03 - Very nice stay at Nav's AirBNB.  Was easy to locate his place (he provided text and email) and was a VERY nice home!!!  Beautiful colors and perfectly decorated!  Would definitely recommend his home to anyone!  
+2014-03-13 - Chris's apartment was wonderful, spacious, and had everything our group of three could possibly have asked for. Chris made checking in a breeze and was very helpful in offering local food recommendations. Do eat/drink at the nearby Whip-In Parlour Cafe if you have the chance - It's also a great place to wait for a cab.
+
+The condo is very well located in Austin. It was perfect for our six day stay during SXSW 2014. The Travis Heights neighbourhood is just a quick cab ride from downtwon and very easy to get to and from (even when taxis are in short supply during South by). We'd love to stay here again next year!
+2015-09-08 - The location and place was great. Logan was very friendly and helpful. Very flexible on times of arrival and departure. Helped with any information we needed. House is very comfortable and had everything we needed to have a farewell get together. The price is reasonable and real close distance to downtown. The projector was good to use while we were just chilling at the house. Plenty of sleeping arrangements. I would gladly stay here again. 
+2015-04-12 - Great experience.  Nice location.  Warm house with nice hosts.  Comfortable bed and pillows with nice sheets and towels in the bathroom.  Great setup. 
+2015-07-20 - Steve's house and location were excellent.  The grounds are beautiful.  Its far enough out to feel away from everything but still a close trip to the city to be able to explore all that Austin has available.  Steve communicates well and is available for questions.  
+2015-02-15 - Angela and her two friendly cats could not be more cordial and lovely hosts. The space was very comfortable for the two of us, and the private bathroom is particularly welcome. Location wise there were many great eating options nearby, and it was also a nice area for a walk in the evening. Downtown Austin is easily accessible with several frequent bus services.
+2013-10-27 - Clean and comfortable room/bath as a separate lockout from the main house.  Nice neighborhood on the west side of Austin, about five minutes from downtown.  There is a pool and shady patio area in the back courtyard. The unit has a mini-fridge, but no microwave or kitchen facilities.  Overall, a pleasant place to stay in Austin.
+2015-10-17 - Had a great time. Tiny Pad is super neat.  Denise is great.  Great location within walking distance to cool stuff. 10/10 would stay again.
+2014-10-12 - Rachel was accommodating, friendly and her house was beautiful. It was a great location, quiet, great views and walking distance to ACL, restaurants and downtown. The house was a quirky, cozy space, which was well maintained and clearly cared for. I had a great weekend in Austin and left wanting more. 
+2014-04-10 - We only stayed at Angel's for one night and met her just briefly, but everything was organized wonderfully. She is an expert airbnb host. Thanks Angel!!
+2015-08-20 - Good contact from host in advance. Flexible as we arrived late and also offered some well bottled water on arrival-very welcome considering the heat. 
+
+Unfortunately, it went downhill from there...seems a small party started up in room next to us (same house) about 1am and did not finish until 6am. Tried to contact host during night and also next day but no answer at any point. Very little sleep and felt unsafe - someone tried to open a locked door which adjoined our room and room with party. 
+
+I had no response to two messages from when party started until checking out. I would have like to have spoke directly with host prior to leaving the following day at 1pm but I was told by person cleaning house that the host was still in bed.  I asked if cleaner if he could ask host to contact me by end of day to discuss. Never heard from host.
+
+If you up for a late night party this may be for you otherwise I would avoid at all costs. Very disappointing experience.
+
+
+2015-05-23 - Rebecca was AMAZING. 
+
+She was gracious enough to accept me on a very short notice and she went out of her way to make me feel at home. The room was nice and I slept like a rock.
+
+The house was just as described (including some incredible artwork that she does) and I couldn't have asked for a better time. Rebecca is a witty, smart, and wonderful person. Highly recommend!
+2015-05-06 - Nice, private room in a modern, secure apartment complex. Comfortable bed. Pool and quite well-equipped fitness room available for your use. Sometimes Heidi will have another guest that will share the bathroom, but I didn't find that a problem. She was very communicative and helpful, but not at all intrusive. The kitties have distinct personalities and were pleasant to have around. A real bargain. I would definitely stay here again! 
+2014-06-16 - Chloe was very accommodating - whenever we had a question about anything she got back to us right away, making everything very easy.
+
+Property was great...loved the backyard area. 
+2014-06-14 - The only thing better than staying in the Vintage Airstream was having Marcella as our host!  The Airstream was cozy, comfortable, air-conditioned, full of amenities, and close to downtown (15 minutes by bus).  But what was really impressive is when Marcella texted us to let us know there was a tornado warning while we were downtown, making sure we were safe.
+
+We loved our stay in Marcella's Airstream and plan on visiting again soon.
+2014-11-06 - I had such an amazing time. I can't wait to come back again! The airstream was beautiful, and I loved all the animals. Thank you so much for everything!
+2015-09-07 - Dana was so wonderful. She was very accommodating and just very sweet. If I'm ever back in town, I would love to stay with her again. Her dog has quite the personality when she warms up to you. Thanks for being such a good host!
+2013-07-21 - Great place in a quiet neighborhood, great place to get away and relax.  My friend loved it , Amy was a great host.  Highly recommend!
+
+2014-06-21 - What a fantastic place to stay when your in Austin, super nice host. Great little cottage, secluded and private. 
+2015-03-08 - The host was great! She helped us out with the area. The place is in walking distance to shops, food, coffee and bars.
+2015-09-11 - A great little cottage, good location, there was beer in the fridge.
+2015-11-05 - Awesome first Airbnb experience! Both the cottage and its location are top notch. Jeff was a great host who was a pleasure to deal with and provided prompt answers to all of our newbie questions. 10/10 would stay again. 
+2014-06-05 - Our stay at Suite Spot in the Zilker neighborhood was great! Amber was an incredibly gracious host, coming outside when we arrived to warmly greet us and give suggestions of things to do in the neighborhood. She also kindly let us use a couple of bikes to explore Austin's awesome network of biking trails. The room itself was perfect. It was clean and impeccably furnished with an assortment of tea and coffee to get us moving in the morning. There was also a fantastic sitting area right out on our private porch with a bbq grill! Of course, if you don't want to cook your own meal on the grill, the suite is within a short walk from an assortment of restaurants and bars. All in all, we really can't think of anything we would change and would love to return sometime!
+2015-10-13 - Nick and Karen's place was in a great spot right by tons of food and shopping on South Congress. Also walkable to 1st street and Zilker Park, which was perfect for my ACL weekend.
+
+The place was very clean and they even had some snacks and Topo Chico (the best bubbly water ever) waiting for me on my arrival.
+
+Nick was always responsive and very friendly via text.
+2015-05-22 - The host canceled this reservation 14 days before arrival. This is an automated posting.
+2015-08-23 - JJ was an excellent host. He was very welcoming and let me use all of the facilities, from the kitchen to the TV to the pool. The whole family was very nice, too. I would highly recommend this house.
+2015-03-18 - I felt very welcome by the host. I had the opportunity to talk shop with Ben a bit. The dog warmed up to me and the cats were very curious. Enjoyed my stay.
+
+## 2
+match (l:Listing)-[n:IN_NEIGHBORHOOD]->(neigh:Neighborhood { name: "East Riverside"}) where l.price < 100 return l, neigh;
+Your Southern Retreat 9077783
+Private room next to downtown! 8134325
+Awesome room in great location 8829151
+Very cute and modern apartment 5361516
+Great private room close to town 7622463
+SXSW - Room in Lovely Apartment! 324605
+Stay at the "Love Shack" Bungalow 7903047
+Clean Apartment in Heart of Austin 8072229
+APARTMENT ROOM W PRIVATE BATHROOM 8557322
+Modern House (Females Only) 7994006
+ATX Apartment 2 Miles From Downtown 8721130
+Downtown, SoCo, Zilker! So Close 5490879
+Private One Bedroom in E Austin! 8507040
+Spacious 1 Bedroom Condo/Townhouse! 8444071
+Comfortable room close to downtown! 5934125
+Austin Apartment near downtown 8126954
+Minutes from trail and downtown 6597784
+Cozy Bedroom, Private Bathroom 7578010
+Riverside Rad Pad 2478886
+Bedroom close to Downtown ATX 2470492
+Room in 3/2 5 min from DT 6142572
+Room/Bike/Pool on Town Lake Trail 400517
+Tech and Entrepreneur House 5441730
+Small Apartment Close to Downtown  5046147
+New 2BD/2BA near DT (great for F1) 8596124
+Charming Townhome 6330479
+CityView Apartment in Austin TX 7638756
+Sweet House Close To Downtown   966601
+Great Room Mins to Downtown 2249281
+Lofty SouthEast Home 1048859
+Walk downtown - Hike n Bike trail 6199492
+Private Room w Bath Close to dwntwn 4496516
+1 BR+Private Bath-Quiet but Close! 5316821
+Hip Complex Close to Downtown 5537445
+Sweet Sanctuary in Great Location 7574264
+Walk to Downtown / Lady Bird Lake 5534198
+Beautiful East Riverside Flat  3860937
+Private Room/5 miles from DT 783943
+Entrepreneur and Tech House 5316929
+Artistic Pad/ Trendy ATX Area. 8761954
+East Side Condo Room Available 5618773
+Private Room & Bath Near Everything 5506227
+SXSW! Not heaven, but cheap. (1) 5652198
+Bed or couch 8519971
+Lg. bdrm/private bath - central ATX 8649371
+Detached Studio w/ Full Bath 969135
+Cool SXSW rooms for rent 5358669
+Tiny House Privacy near Downtown 658102
+WALK TO TOWN LAKE ! 8810945
+Couch\air mattress in living room 8188915
+Cool Spot in a Chill Place 5447230
+4 Nice Couches, 2 mi from DT (SX) 5614592
+BR w/ pvt bath minutes to downtown 2948580
+Close to SoCo, DT, Zilker, Barton! 8714221
+Euro Hostel/Dorm Style by Downtown 7402917
+SXSW room for rent for rent! 5571606
+SunnyPrivate Spacious Flat wParking 1317291
+Modern 2BR South Austin Loft Condo! 8255065
+Room Close to downtown  379988
+A Nerd's Dreamscape 8289314
+ACL Riverside Secret Beach Dtown 8781536
+ACL, SoCo, Downtown, Lake! So close 5511174
+perfect lake view and in downtown 8611833
+Central Austin boardwalk 4092417
+Walk to Rainey St Towne Lake & more 7771763
+Couch near DOWNTOWN/6th/ZILKER PARK 7824307
+Charming Bed/Bath in Hot East ATX! 8556668
+Spacious 1BD - 3/4 bath & WIFI! 5914857
+FFF-PRIME Loc 10minbike FUNFUNFUN 7020511
+Style & Convenience in ATX! 8308227
+Cute Modern Apartment 7583880
+1 BD w/private BA and closet 7791273
+Modern Studio by DT with Balcony 4829639
+Private Room/Shared BATH NearDwnTwn 2138579
+Private 1 br apt, 5 min from DT ATX 8631967
+Airport F1 COTA SXSW ACL Downtown 378626
+Cute apartment near SOCO 8173459
+Room in great Austin location 8596056
+Private room/br in cool apt near DT 7422090
+PRIVATE ROOM! CLEAN & COMFORTABLE 787463
+East Austin Stylish Studio 4142257
+East Riverside Condo 5581461
+Renovated 2 Bed in Popular East ATX 8069972
+Large room minutes from downtown 2453663
+RM W/KING  CLOSE TO DOWNTOWN!!!! 953345
+Entire clean studio with queen bed 8598030
+Bohemian Chic Private room 8016449
+Walk to Downtown-On the River 966026
+Cozy 1 Bedroom Studio Apt! 2464818
+2nd Floor Studio looks over DT ATX 221348
+Cozy Space Close to City 8421657
+Private guestroom, 1.5 mi to DT 5484573
+2Bed/2Bath! Mins to Downtown! Pool! 2028500
+Cozy, Quaint Apartment 9149977
+Euro Hostel/Dorm Style by Downtown 6403925
+Cozy Apartment 5 Minutes from DT 7870808
+One Room For 2- Fun, Fun, Fun Fest 8615214
+Large Master Bedroom & Master Bath 8171923
+Luxury Apt 4 Minutes from Downtown 5970668
+Mid Mod Studio 4 mi from Downtown 8289304
+Room in East Austin home, near DT 969592
+Modern Apartment close to Downtown 8293552
+Cozy, Quiet Rm close to Downtown 2210796
+Come stay in May 5211601
+SXSW Private Room  4256862
+Clean Loft in Townhouse-Parking 3828744
+SXSW Month Walk to Downtown 2010160
+Modern Riverside/Boardwalk ACL 4279491
+Unique East Riverside Apartment 8650950
+Cozy apartment close to downtown! 6964491
+East Austin Condo 2 bed / 2 bath 8209624
+Bedroom in Artsy Duplex! 5474538
+Clean & Convenient Apt. With Pool 5315643
+Quaint Apartment Near Downtown 4144319
+Winter friendly apt 5min downtown 5715912
+Private Room on Town Lake Boardwalk 7620140
+Euro Hostel/Dorm Style by Downtown 5629660
+Clean, Attractive Apartment Complex 9201675
+Great spot for a quick trip to ATX! 7912794
+Large Private room  in E. Austin 8593785
+Artsy Austinite's Apartment 6449935
+Beautiful East Austin Condo 9032094
+The Loft 5372075
+Metropolis 8002319
+PRIVATE ROOM! 5 mi. To DT 490139
+Private Room/Bathroom near downtown 4366112
+Downtown Garage Studio w/2 Bikes 973313
+Sunny Treehouse, Near Downtown! 6248386
+Private Apartment☀️Near Everything! 8310170
+South Shore Condo rent by the month 720315
+Private bedroom in East Austin 1909811
+Modern style apartment, close to dt 6453354
+Modern bedroom Near Downtown 8628437
+Madeleine Room - Central Austin 79165
+Apt is super close to downtown! 5018041
+Studio APT 2.5 miles from Downtown 9043459
+Hip, Eastside, Southshore Condo 1972028
+Excellent, clean, stylish, CENTRAL. 7716273
+Super Close to Town Lake & Downtown 6876610
+Apartment VERY Close to Downtown 9210649
+Euro Hostel/Dorm Style by Downtown 8554604
+Woodland Studio Lodging 8502
+Downtown - 5 Minute Drive East 8501894
+Trendy apartment 7 minutes from DT 5374823
+Master Bedroom w/ Private Bath!  1391406
+Summer CENTRAL ATX utilities incl. 5616618
+Cozy room, Private pool, SoCentral 8031278
+
+## 3
+ match (l:Listing)-[r:IN_NEIGHBORHOOD]->(n:Neighborhood)
+                with count(r) as num_listings, n
+                return n, num_listings
+                order by num_listings desc
+                limit 15;
+            
+Neighborhood ID: 78704 | Number of listings: 1601
+Neighborhood ID: 78702 | Number of listings: 797
+Neighborhood ID: 78703 | Number of listings: 419
+Neighborhood ID: 78741 | Number of listings: 414
+Neighborhood ID: 78745 | Number of listings: 328
+Neighborhood ID: 78751 | Number of listings: 251
+Neighborhood ID: 78705 | Number of listings: 242
+Neighborhood ID: 78746 | Number of listings: 182
+Neighborhood ID: 78723 | Number of listings: 172
+Neighborhood ID: 78701 | Number of listings: 153
+Neighborhood ID: 78757 | Number of listings: 119
+Neighborhood ID: 78731 | Number of listings: 110
+Neighborhood ID: 78722 | Number of listings: 104
+Neighborhood ID: 78756 | Number of listings: 91
+Neighborhood ID: 78721 | Number of listings: 90
+
+## 4
+ match (h:Host)-[r:HOSTS]->(l:Listing)
+                with count(r) as lists_hosted, h
+                where lists_hosted > 20
+                return h, lists_hosted
+                order by lists_hosted desc
+            
+Erica	| 127
+Bo	| 42
+Martin	| 26
+
+## 5
+ match (rev:Review)-[r]->(l:Listing)
+                match (l)-[has:HAS]->(a:Amenity)
+                with count(r) as num_rev, a
+                return a, num_rev
+                order by num_rev desc
+                limit 10;
+            
+Air Conditioning
+Heating
+Wireless Internet
+Free Parking on Premises
+Kitchen
+Internet
+Essentials
+Smoke Detector
+TV
+Shampoo
+
+## 6
+ match (h:Host)-[r:HOSTS]->(l:Listing)
+            match (review:Review)-[rev:REVIEWS]->(l)
+            with count(rev) as total_rev, h
+            with avg(total_rev) as avg_rev, h
+            return h, avg_rev
+            order by avg_rev desc
+            limit 15;
+        
+Erica 1026.0
+Angel 709.0
+Crystal 641.0
+Julia 516.0
+Joe & Bella 515.0
+Ryan 489.0
+Sovay 489.0
+Kristen 484.0
+Alexandria 452.0
+Marcella 419.0
+Chris 350.0
+SoCoBnB /Matt 342.0
+Lois 325.0
+Sylvia 314.0
+Gwen & Richard 313.0
+
+## 7
+ 
+                match (u:User { name:"Jolie" }), (n:Neighborhood { name:"Hancock"}), p = shortestPath((u)-[*..4]-(n))
+                return p
+                order by length(p)
+                limit 1
+            
+( Jolie 10868 ) - 3 -> ( Hancock 5995 )
+
+## 8
+ match (h:Host)-[r:HOSTS]->(l:Listing)
+                match (rev:Review)-[review:REVIEWS]->(l)
+                match (l)-[am:HAS]->(a:Amenity {name:"Gym"})
+                with count(rev) as no_reviews, h
+                where no_reviews > 10
+                return h, no_reviews
+                order by no_reviews desc;
+            
+Host Name: Duane 	| Host ID: 7902251
+Host Name: Jeddy 	| Host ID: 4913398
+Host Name: Chris 	| Host ID: 1648227
+Host Name: Michelle And Usbaldo 	| Host ID: 2921605
+Host Name: Michele 	| Host ID: 456230
+Host Name: Heidi 	| Host ID: 22065474
+Host Name: Leia & Keri 	| Host ID: 3434065
+Host Name: Corley 	| Host ID: 4597887
+Host Name: Ruba 	| Host ID: 4067444
+Host Name: Caeriel 	| Host ID: 13246317
+Host Name: Tiffany 	| Host ID: 9328226
+Host Name: Isaiah 	| Host ID: 13585557
+Host Name: Amber 	| Host ID: 16136569
+Host Name: Katie 	| Host ID: 1715190
+Host Name: Terrance 	| Host ID: 1739801
+Host Name: Pixie 	| Host ID: 21607195
+Host Name: Lindsey 	| Host ID: 3323899
+Host Name: Casey 	| Host ID: 695021
+Host Name: Houston 	| Host ID: 22173222
+Host Name: Ryan 	| Host ID: 4929310
+Host Name: Sofia 	| Host ID: 21597290
+Host Name: Kenneth 	| Host ID: 24692655
+Host Name: Heather 	| Host ID: 4689326
+Host Name: Kendal 	| Host ID: 16154063
+Host Name: Adan 	| Host ID: 21218778
+Host Name: Nicky 	| Host ID: 1927941
+Host Name: Paul 	| Host ID: 5216130
+Host Name: Tony 	| Host ID: 60655
+Host Name: Sommer 	| Host ID: 23878047
+Host Name: Edward 	| Host ID: 29175568
+Host Name: Ruby 	| Host ID: 14339988
+Host Name: John 	| Host ID: 2109040
+Host Name: Heather Denise 	| Host ID: 12191716
+Host Name: Ryan 	| Host ID: 27792624
+Host Name: Daniel 	| Host ID: 30872342
+Host Name: Dan 	| Host ID: 21966983
+Host Name: Amy 	| Host ID: 2189681
+Host Name: Carmelita 	| Host ID: 800779
+Host Name: Stephanie & Nick 	| Host ID: 731142
+Host Name: Mike 	| Host ID: 6169415
+Host Name: Jennifer 	| Host ID: 10803624
+Host Name: Lena 	| Host ID: 37039529
+Host Name: Josh 	| Host ID: 9796520
+Host Name: Ivan 	| Host ID: 11484127
+Host Name: Marc & Tatiana 	| Host ID: 6723993
+Host Name: Rob 	| Host ID: 27384354
+Host Name: Dylan 	| Host ID: 12484630
+Host Name: Elizabeth 	| Host ID: 11802548
+Host Name: Kimberly 	| Host ID: 2537679
+Host Name: Mike 	| Host ID: 5259596
+Host Name: Jaclyn 	| Host ID: 17014146
+Host Name: Shauna Lynn 	| Host ID: 1035843
+Host Name: Joa 	| Host ID: 23938358
+Host Name: Darryl 	| Host ID: 15195135
+Host Name: Ashley 	| Host ID: 28788505
+Host Name: Samuel 	| Host ID: 15423700
+Host Name: Victor 	| Host ID: 18526854
+Host Name: Gretchen 	| Host ID: 2200336
+Host Name: Nat 	| Host ID: 406286
+Host Name: Neil 	| Host ID: 26496680
+Host Name: Raymond 	| Host ID: 5578559
+Host Name: Alex 	| Host ID: 10858607
+Host Name: Josh And Ashley 	| Host ID: 21731798
+Host Name: Maria 	| Host ID: 16114855
+Host Name: Dai 	| Host ID: 1187493
+Host Name: Kyle 	| Host ID: 38399186
+Host Name: Nathan 	| Host ID: 11774534
+Host Name: Brooke 	| Host ID: 14157482
+Host Name: Jeri 	| Host ID: 2219677
+Host Name: Miles 	| Host ID: 22857707
+Host Name: Cullen 	| Host ID: 12898120
+Host Name: Wes 	| Host ID: 1652877
+Host Name: Geoff 	| Host ID: 3378401
+Host Name: Julie 	| Host ID: 14168190
+Host Name: Ilia 	| Host ID: 10850904
+Host Name: Marina 	| Host ID: 6531223
+Host Name: Chelsea 	| Host ID: 2899150
+Host Name: Mackenzie 	| Host ID: 47037305
+Host Name: Omar & Leilani 	| Host ID: 40700179
+Host Name: Anjali 	| Host ID: 16286482
+Host Name: Veronica 	| Host ID: 14561721
+Host Name: Jill 	| Host ID: 14880215
+Host Name: B Kay 	| Host ID: 3702973
+Host Name: Varun 	| Host ID: 32138083
+Host Name: Kelly & Kenneth 	| Host ID: 5239645
+Host Name: Melissa 	| Host ID: 24941801
+Host Name: Gayle 	| Host ID: 9122636
+
+## 9
+ match (n:Host)-[r:HOSTS]->(l:Listing)
+                with count(r) as num_l, count(distinct n) as hosts
+                with num_l * 1.0 / hosts as res
+                return res;
+            
+1.2594431254047054
+
+## 10
+ match (h:Host)-[r:HOSTS]->(l:Listing)
+                match (rev:Review)-[review:REVIEWS]->(l)
+                with count(rev) as total_reviews, h
+                return h, total_reviews
+                order by total_reviews desc
+                limit 15;
+            
+Erica : 1026
+Angel : 709
+Crystal : 641
+Julia : 516
+Joe & Bella : 515
+Ryan : 489
+Sovay : 489
+Kristen : 484
+Alexandria : 452
+Marcella : 419
+Chris : 350
+SoCoBnB /Matt : 342
+Lois : 325
+Sylvia : 314
+Gwen & Richard : 313

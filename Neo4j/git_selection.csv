@@ -1,0 +1,2791 @@
+num,svn_id,real_name,project_name,role_on_project,organization
+380,aa0380,Aaron Mulder,Apache Geronimo,Committer,IBM
+2234,ammulder,Aaron Mulder,Geronimo,NA,Chariot Solutions
+7,ammulder,Aaron Mulder,ActiveMQ,Committer,Chariot Solutions
+912,ammulder,Aaron Mulder,Apache ActiveMQ,Committer,Chariot Solutions
+1206,ammulder,Aaron Mulder,Apache Camel,Committer,Chariot Solutions
+1903,ammulder,Aaron Mulder,ActiveMQ,NA,Chariot Solutions
+2120,ammulder,Aaron Mulder,Camel,NA,Chariot Solutions
+1322,ammulder,Aaron Mulder,Apache Geronimo,Committer,Chariot Solutions 
+194,ammulder,Aaron Mulder,Apache Camel,Committer,Chariot Solutions 
+442,atm,Aaron T. Myers,Apache Hadoop,PMC,Cloudera
+477,atm,Aaron T. Myers,Apache Hadoop,Committer,Cloudera
+2305,atm,Aaron T. Myers,Hadoop,NA,Cloudera
+1422,atm,Aaron T. Myers,Apache Hadoop,PMC,Cloudera 
+1464,atm,Aaron T. Myers,Apache Hadoop,Committer,Cloudera 
+625,ab0625,Abe White,Apache OpenJPA,PMC,Oracle Corporation
+633,ab0633,Abe White,Apache OpenJPA,Committer,Oracle Corporation
+1632,ab1632,Abe White,Apache OpenJPA,Committer,Oracle Corporation 
+1651,ab1651,Abe White,Apache OpenJPA,PMC,Oracle Corporation 
+2578,ab2578,Abe White,OpenJPA,NA,Oracle
+2714,abe,Abraham Elmahrek,Sqoop,NA,Cloudera
+2715,afine,Abraham Fine,Sqoop,NA,Cloudera
+2182,Army Brown,abrown,Db,NA,The Apache Software Foundation
+1595,anierbeck,Achim Nierbeck,Apache Karaf,NA,Inovex
+1026,ad1026,Adam Wojtuniak,Apache Aries,Contributor,Ericsson
+2049,ad2049,Adam Wojtuniak,Aries,NA,Ericsson
+47,ad0047,Adam Wojtuniak,Apache Aries,Contributor,Ericsson
+800,adriancole,Adrian Cole,Apache Whirr,PMC,Cloud Conscious
+813,adriancole,Adrian Cole,Apache Whirr,Committer,Cloud Conscious
+1841,adriancole,Adrian Cole,Apache Whirr,committer,Cloud Conscious
+1855,adriancole,Adrian Cole,Apache Whirr,PMC,Cloud Conscious
+292,adrian,Adrian Sutton,Apache Commons HTTP Client,Committer,Intencha
+1292,adrian,Adrian Sutton,Apache Commons HTTP Client,Committer,Intencha 
+90,azeez,Afkham Azeez,Apache Axiom,Committer,WSO2
+114,azeez,Afkham Azeez,Apache Axis,Committer,WSO2
+771,azeez,Afkham Azeez,Apache Synapse,Committer,WSO2
+1076,azeez,Afkham Azeez,Apache Axiom,Committer,WSO2
+1101,azeez,Afkham Azeez,Apache Axis2,Committer,WSO2
+1766,azeez,Afkham Azeez,Apache Synapse,Committer,WSO2
+2729,azeez,Afkham Azeez,Synapse,NA,WSO2
+2453,aihuaxu,Aihua Xu,Hive,NA,Cloudera
+2214,ajayyadava,Ajay Yadava,Falcon,NA,Inmobi
+1967,ajit,Ajit Kumar,Ambari,NA,Hortonworks
+102,ajith,Ajith Ranabahu,Apache Axiom,Committer,WSO2
+134,ajith,Ajith Ranabahu,Apache Axis,Committer,WSO2
+1088,ajith,Ajith Ranabahu,Apache Axiom,Committer,WSO2
+1121,ajith,Ajith Ranabahu,Apache Axis2,Committer,WSO2
+1207,ay,Akitoshi Yoshida,Apache Camel,Committer,SAP
+2121,ay,Akitoshi Yoshida,Camel,NA,SAP
+48,al0048,Alan Cabrera,Apache Aries,Contributor,LinkedIn
+337,al0337,Alan Cabrera,Apache Geronimo,PMC,Chariot Solutions
+381,al0381,Alan Cabrera,Apache Geronimo,Committer,Chariot Solutions
+1027,al1027,Alan Cabrera,Apache Aries,Contributor,LinkedIn
+2050,al2050,Alan Cabrera,Aries,NA,LinkedIn
+658,gates,Alan Gates,Apache Pig,PMC member,HortonWorks
+671,gates,Alan Gates,Apache Pig,Committer,HortonWorks
+872,gates,Alan Gates,Apache HCatalog,Committer,Hortonworks
+873,gates,Alan Gates,Apache HCatalog,PPMC,Hortonworks
+886,gates,Alan Gates,Apache HCatalog,Mentor,Hortonworks
+2112,gates,Alan Gates,Calcite,NA,Hortonworks
+2422,gates,Alan Gates,Hive,NA,Hortonworks
+2512,gates,Alan Gates,Knox,NA,Hortonworks
+2568,gates,Alan Gates,Oozie,NA,Hortonworks
+2611,gates,Alan Gates,Pig,NA,HortonWorks
+1175,gates,Alan Gates,Apache Bigtop,committer,Yahoo! 
+1189,gates,Alan Gates,Apache Bigtop,mentor,Yahoo! 
+1547,gates,Alan Gates,Apache Hive,Committer,Hortonworks
+1663,gates,Alan Gates,Apache PIG,PMC member,HortonWorks 
+49,al0049,Alan Keane,Apache Aries,Contributor,Ericsson 
+1028,al1028,Alan Keane,Apache Aries,Contributor,Ericsson
+2051,al2051,Alan Keane,Aries,NA,Ericsson
+50,al0050,Alasdair Nottingham,Apache Aries,PMC,IBM
+1029,al1029,Alasdair Nottingham,Apache Aries,PMC,IBM
+2052,al2052,Alasdair Nottingham,Aries,NA,IBM
+626,al0626,Albert Lee,Apache OpenJPA,PMC,IBM Corporation
+634,al0634,Albert Lee,Apache OpenJPA,Committer,IBM Corporation
+1633,al1633,Albert Lee,Apache OpenJPA,Committer,IBM Corporation 
+1652,al1652,Albert Lee,Apache OpenJPA,PMC,IBM Corporation 
+2579,al2579,Albert Lee,OpenJPA,NA,IBM
+469,tucu,Alejandro Abdelnur,Apache Hadoop,PMC,Cloudera
+521,tucu,Alejandro Abdelnur,Apache Hadoop,Committer,Cloudera
+2360,tucu,Alejandro Abdelnur,Hadoop,NA,Cloudera
+2569,tucu,Alejandro Abdelnur,Oozie,NA,Cloudera
+1167,tucu,Alejandro Abdelnur,Apache Bigtop,committer,Cloudera 
+1455,tucu,Alejandro Abdelnur,Apache Hadoop,PMC,Cloudera 
+1517,tucu,Alejandro Abdelnur,Apache Hadoop,Committer,Cloudera 
+1968,alejandro,Alejandro Fernandez,Ambari,NA,Hortonworks
+106,alek,Aleksander Slominski,Apache Axiom,Committer,Indiana University Extreme! Co
+141,alek,Aleksander Slominski,Apache Axis,Committer,Indiana University Extreme! Co
+1092,alek,Aleksander Slominski,Apache Axiom,Committer,Indiana University Extreme! Co
+1128,alek,Aleksander Slominski,Apache Axis2,Committer,Indiana University Extreme! Co
+1945,aslom,Aleksander Slominski,Airavata,NA,IBM
+943,akovalenko,Aleksandr Kovalenko,Apache Ambari,PMC,Hortonworks
+1971,akovalenko,Aleksandr Kovalenko,Ambari,NA,Hortonworks
+2282,apresta,Alessandro Presta,Giraph,NA,Facebook
+944,alexantonenko,Alex Antonenko,Apache Ambari,PMC,Hortonworks
+1972,alexantonenko,Alex Antonenko,Ambari,NA,Hortonworks
+1006,al1006,Alex Moundalexis,Apache Accumulo,Contributor,Cloudera
+1887,al1887,Alex Moundalexis,Accumulo,NA,Cloudera
+2724,posix4e,Alex Newman,Sqoop,NA,WANdisco
+543,alexparvulescu,Alex Parvulescu,Apache Jackrabbit,Committer,Adobe
+2459,alexparvulescu,Alex Parvulescu,Jackrabbit,NA,Adobe
+1557,alexparvulescu,Alex Parvulescu,Apache Jackrabbit,Committer,Adobe
+1877,shralex,Alex Shraer,Apache Zookeeper,Committer,Google
+2786,shralex,Alex Shraer,Zookeeper,NA,Google
+542,alexkli,Alexander Klimetschek,Apache Jackrabbit,Committer,Adobe
+2458,alexkli,Alexander Klimetschek,Jackrabbit,NA,Adobe
+1556,alexkli,Alexander Klimetschek,Apache Jackrabbit,Committer,Adobe
+366,al0366,Alexy Petrenko,Apache Geronimo,Committer,IBM
+1368,alfonsonishikawa,Alfonso Nishikawa,Apache Gora,Committer,Indra
+1382,alfonsonishikawa,Alfonso Nishikawa,Apache Gora,PMC,Indra
+2288,alfonsonishikawa,Alfonso Nishikawa,Gora,NA,Indra
+1741,aheimoz,Alison Heimoz,Apache Sling,Technical Writer,Adobe 
+478,aw,Allen Wittenauer,Apache Hadoop,Committer,LinkedIn
+1465,aw,Allen Wittenauer,Apache Hadoop,Committer,LinkedIn 
+475,amarrk,Amar Ramesh Kamat,Apache Hadoop,Committer,Yahoo!
+1461,amarrk,Amar Ramesh Kamat,Apache Hadoop,Committer,Yahoo! 
+441,amareshwari,Amareshwari Sriramadasu,Apache Hadoop,PMC,InMobi
+474,amareshwari,Amareshwari Sriramadasu,Apache Hadoop,Committer,InMobi
+535,amareshwari,Amareshwari Sriramadasu,Apache Hive,Committer,InMobi
+2207,amareshwari,Amareshwari Sriramadasu,Falcon,NA,InMobi
+2301,amareshwari,Amareshwari Sriramadasu,Hadoop,NA,InMobi
+2430,amareshwari,Amareshwari Sriramadasu,Hive,NA,InMobi
+1421,amareshwari,Amareshwari Sriramadasu,Apache Hadoop,PMC,InMobi 
+1460,amareshwari,Amareshwari Sriramadasu,Apache Hadoop,Committer,InMobi 
+1534,amareshwari,Amareshwari Sriramadasu,Apache Hive,Committer,InMobi
+1946,amilaj,Amila Jayasekara,Airavata,NA,Indiana University
+1742,amitgupt,Amit Gupta,Apache Sling,Java Developer,Adobe 
+2460,amitj,Amit Jain,Jackrabbit,NA,Adobe
+2376,acube123,Amitanand S. Aiyer,HBase,NA,Facebook
+1396,acube123,Amitanand S. Aiyer,Apache HBase,Committer,Facebook 
+1168,arcilla,Andre Arcilla,Apache Bigtop,committer,Yahoo! 
+2122,acosentino,Andrea Cosentino,Camel,NA,Red Hat
+2496,acosentino,Andrea Cosentino,Karaf,NA,RedHat
+2660,acosentino,Andrea Cosentino,ServiceMix,NA,Red Hat
+2760,andreapatricelli,Andrea Patricelli,Syncope,NA,Tirasa
+1802,an1802,Andrea Patricelli,Apache Syncope,Contributor,Tirasa 
+741,an0741,Andrea Zoppello,Apache ServiceMix,Contributor,Engineering Ingegneria Informa
+2692,an2692,Andrea Zoppello,ServiceMix,NA,Engineering Ingegneria Informa
+1728,an1728,Andrea Zoppello,Apache ServiceMix,Contributor,Engineering Ingegneria Informa
+697,andreas,Andreas Oberhack,Apache ServiceMix,Committer,Softwarefabrik GmbH
+2661,andreas,Andreas Oberhack,ServiceMix,NA,Softwarefabrik GmbH
+1682,andreas,Andreas Oberhack,Apache ServiceMix,Committer,Softwarefabrik GmbH 
+798,asavu,Andrei Savu,Apache Whirr,PMC,Cloudsoft
+810,asavu,Andrei Savu,Apache Whirr,Committer,Cloudsoft
+1844,asavu,Andrei Savu,Apache Whirr,committer,Cloudsoft
+1858,asavu,Andrei Savu,Apache Whirr,PMC,Cloudsoft
+1186,asavu,Andrei Savu,Apache Bigtop,committer,Facebook 
+2757,ashakirin,Andrei Shakirin,Syncope,NA,Talend
+1797,ashakirin,Andrei Shakirin,Apache Syncope,committer,Talend 
+812,abayer,Andrew Bayer,Apache Whirr,Committer,Cloudera
+1842,abayer,Andrew Bayer,Apache Whirr,committer,Cloudera
+1856,abayer,Andrew Bayer,Apache Whirr,PMC,Cloudera
+2222,abayer,Andrew Bayer,Flume,NA,Cloudera
+2713,abayer,Andrew Bayer,Sqoop,NA,Cloudera
+1169,abayer,Andrew Bayer,Apache Bigtop,committer,Cloudera 
+2629,afchung90,Andrew Chung,REEF,NA,Microsoft
+2024,an2024,Andrew Grande,Ambari,NA,Hortonworks
+412,ahart,Andrew Hart,Apache Gora,Committer,NASA JPL
+1367,ahart,Andrew Hart,Apache Gora,Committer,NASA JPL
+1381,ahart,Andrew Hart,Apache Gora,PMC,NASA JPL
+2287,ahart,Andrew Hart,Gora,NA,NASA JPL
+694,gatfora,Andrew K Gatford,Apache Sandesha,Committer,IBM
+1679,gatfora,Andrew K Gatford,Apache Sandesha,Committer,IBM
+941,aonishuk,Andrew Onischuk,Apache Ambari,Committer,Hortonworks
+1969,aonishuk,Andrew Onischuk,Ambari,NA,Hortonworks
+51,an0051,Andrew Osborne,Apache Aries,PMC,IBM
+1030,an1030,Andrew Osborne,Apache Aries,PMC,IBM
+2053,an2053,Andrew Osborne,Aries,NA,IBM
+422,apurtell,Andrew Purtell,Apache Hbase,Committer,Intel
+799,apurtell,Andrew Purtell,Apache Whirr,PMC,Trend Micro
+811,apurtell,Andrew Purtell,Apache Whirr,Committer,Trend Micro
+1843,apurtell,Andrew Purtell,Apache Whirr,committer,Trend Micro
+1857,apurtell,Andrew Purtell,Apache Whirr,PMC,Trend Micro
+1181,apurtell,Andrew Purtell,Apache Bigtop,committer,Intel 
+1397,apurtell,Andrew Purtell,Apache HBase,Committer,Intel 
+2540,arobinson74,Andrew Robinson,MyFaces,NA,Oracle
+2364,wang,Andrew Wang,Hadoop,NA,Cloudera
+1519,wang,Andrew Wang,Apache Hadoop,Committer,Cloudera 
+939,ababiichuk,Andrii Babiichuk,Apache Ambari,PMC,Hortonworks
+1965,ababiichuk,Andrii Babiichuk,Ambari,NA,Hortonworks
+942,atkach,Andrii Tkach,Apache Ambari,PMC,Hortonworks
+1970,atkach,Andrii Tkach,Ambari,NA,Hortonworks
+236,an0236,Andrus Adamchik,Apache Click,PMC Member,ObjectStyle
+238,an0238,Andrus Adamchik,Apache Click,Committer,ObjectStyle
+1238,an1238,Andrus Adamchik,Apache Click,PMC Member,ObjectStyle 
+411,ab,Andrzej Bialecki,Apache Gora,Committer,Getopt
+472,ab,Andrzej Bialecki,Apache Hadoop,Committer,Getopt
+1366,ab,Andrzej Bialecki,Apache Gora,Committer,Getopt
+1380,ab,Andrzej Bialecki,Apache Gora,PMC,Getopt
+2286,ab,Andrzej Bialecki,Gora,NA,Getopt
+2298,ab,Andrzej Bialecki,Hadoop,NA,Getopt
+1458,ab,Andrzej Bialecki,Apache Hadoop,Committer,Getopt 
+616,andys,Andy Schwartz,Apache MyFaces,committer,Oracle
+832,andys,Andy Schwartz,Apache Tobago,committer,Oracle
+1621,andys,Andy Schwartz,Apache MyFaces,committer,Oracle
+2553,andys,Andy Schwartz,MyFaces,NA,Oracle
+1808,andys,Andy Schwartz,Apache Tobago,committer,Oracle 
+544,angela,Angela Schreiber,Apache Jackrabbit,Committer,Adobe
+2461,angela,Angela Schreiber,Jackrabbit,NA,Adobe
+1558,angela,Angela Schreiber,Apache Jackrabbit,Committer,Adobe
+2570,angeloh,Angelo Huang,Oozie,NA,independent
+2607,niket486,Aniket Mokashi,Pig,NA,Google
+1659,aniket486,Aniket Mokashi,Apache PIG,Committer,Twitter 
+2598,an2598,Ankit Singhal,Phoenix,NA,Hortonworks
+137,u137,Ann Robinson,Apache Axis,Committer,IBM
+1124,u1124,Ann Robinson,Apache Axis2,Committer,IBM
+2639,an2639,Anne Yu,Sentry,NA,Cloudera
+2599,an2599,Anoop Sam John,Phoenix,NA,Intel
+2377,anoopsamjohn,Anoop Sam John,HBase,NA,Intel
+1398,anoopsamjohn,Anoop Sam John,Apache HBase,Committer,Intel 
+774,antelder,Ant Elder,Apache Synapse,Committer,IBM
+1769,antelder,Ant Elder,Apache Synapse,Committer,IBM
+2732,antelder,Ant Elder,Synapse,NA,IBM
+990,antoine,Antoine Levy-Lambert,Apache ANT,PMC,Agilebuild
+2123,astefanutti,Antonin Stefanutti,Camel,NA,Red Hat
+2565,asanso,Antonio Sanso,Oltu,NA,Adobe
+1743,asanso,Antonio Sanso,Apache Sling,Java Developer,Adobe 
+2300,adhoot,Anubhav Dhoot,Hadoop,NA,Cloudera
+2632,anupam,Anupam,REEF,NA,Microsoft
+111,an0111,Anushka Kumara,Apache Axiom,Contributor,Lanka Software Foundation / Un
+155,an0155,Anushka Kumara,Apache Axis,Contributor,Lanka Software Foundation / Un
+1098,an1098,Anushka Kumara,Apache Axiom,Contributor,Lanka Software Foundation / Un
+1142,an1142,Anushka Kumara,Apache Axis2,Contributor,Lanka Software Foundation / Un
+2297,apgiannakidis,Apostolos Giannakidis,Gora,NA,Oracle
+1973,avijayan,Aravindan Vijayan,Ambari,NA,Hortonworks
+545,ard,Ard Schrijvers,Apache Jackrabbit,Committer,Hippo
+2462,ard,Ard Schrijvers,Jackrabbit,NA,Hippo
+1559,ard,Ard Schrijvers,Apache Jackrabbit,Committer,Hippo
+2302,arp,Arpit Agarwal,Hadoop,NA,Hortonworks
+1462,arp,Arpit Agarwal,Apache Hadoop,Committer,Hortonworks 
+2025,arpit,Arpit Gupta,Ambari,NA,Hortonworks
+476,arpit,Arpit Gupta,Apache Hadoop,Committer,Hortonworks
+2303,arpit,Arpit Gupta,Hadoop,NA,Hortonworks
+1463,arpit,Arpit Gupta,Apache Hadoop,Committer,Hortonworks 
+940,abaranchuk,Artem Baranchuk,Apache Ambari,Committer,Hortonworks
+1966,abaranchuk,Artem Baranchuk,Ambari,NA,Hortonworks
+1904,artnaseef,Arthur Naseef,ActiveMQ,NA,Savoir Technologies
+840,ryman,Arthur Ryman,Apache Woden,Committer,IBM
+1869,ryman,Arthur Ryman,Apache Woden,Committer,IBM 
+440,acmurthy,Arun C Murthy,Apache Hadoop,PMC,Hortonworks
+473,acmurthy,Arun C Murthy,Apache Hadoop,Committer,Hortonworks
+2299,acmurthy,Arun C Murthy,Hadoop,NA,Hortonworks
+1420,acmurthy,Arun C Murthy,Apache Hadoop,PMC,Hortonworks 
+1459,acmurthy,Arun C Murthy,Apache Hadoop,Committer,Hortonworks,acmurthy 
+2640,ar2640,Arun Suresh,Sentry,NA,Microsoft
+2304,asuresh,Arun Suresh,Hadoop,NA,Cloudera
+786,asanka,Asanka Abeysinghe,Apache Synapse,Committer,WSO2
+1781,asanka,Asanka Abeysinghe,Apache Synapse,Committer,WSO2
+2744,asanka,Asanka Abeysinghe,Synapse,NA,WSO2
+783,asankha,Asankha Perera,Apache Synapse,Committer,AdroitLogic
+1778,asankha,Asankha Perera,Apache Synapse,Committer,AdroitLogic
+2741,asankha,Asankha Perera,Synapse,NA,AdroitLogic
+2235,as2235,Ashish Jain,Geronimo,NA,IBM
+1323,as1323,Ashish Jain,Apache Geronimo,Committer,IBM 
+2039,as2039,Ashish Singh,Ambari,NA,Hortonworks
+524,athusoo,Ashish Thusoo,Apache Hive,Committer,Facebook
+2408,athusoo,Ashish Thusoo,Hive,NA,Qubole
+1522,athusoo,Ashish Thusoo,Apache Hive,PMC,Qubole 
+537,hashutosh,Ashutosh Chauhan,Apache Hive,Committer,Hortonworks
+660,hashutosh,Ashutosh Chauhan,Apache Pig,PMC member,HortonWorks
+673,hashutosh,Ashutosh Chauhan,Apache Pig,Committer,HortonWorks
+870,hashutosh,Ashutosh Chauhan,Apache HCatalog,Committer,Hortonworks
+875,hashutosh,Ashutosh Chauhan,Apache HCatalog,PPMC,Hortonworks
+2113,hashutosh,Ashutosh Chauhan,Calcite,NA,Hortonworks
+2414,hashutosh,Ashutosh Chauhan,Hive,NA,Hortonworks
+2613,hashutosh,Ashutosh Chauhan,Pig,NA,HortonWorks
+1526,hashutosh,Ashutosh Chauhan,Apache Hive,PMC,HortonWorks 
+1665,hashutosh,Ashutosh Chauhan,Apache PIG,PMC member,HortonWorks 
+105,ashu,Ashutosh Shahi,Apache Axiom,Committer,Computer Associates
+140,ashu,Ashutosh Shahi,Apache Axis,Committer,Computer Associates
+1091,ashu,Ashutosh Shahi,Apache Axiom,Committer,Computer Associates
+1127,ashu,Ashutosh Shahi,Apache Axis2,Committer,Computer Associates
+2562,asitang,Asitang Mishra,Nutch,NA,NASA JPL
+1947,ate,Ate Douma,Airavata,NA,Hippo
+2276,aching,Avery Ching,Giraph,NA,Facebook
+367,b.0367,B.J. Reed,Apache Geronimo,Committer,IBM
+2237,b.2237,B.J. Reed,Geronimo,NA,IBM
+1325,b.1325,B.J. Reed,Apache Geronimo,Committer,IBM 
+1208,bvahdat,Babak Vahdat,Apache Camel,Committer,Cyberlogic Consulting GmbH
+2124,bvahdat,Babak Vahdat,Camel,NA,Cyberlogic Consulting GmbH
+2219,balu,Balu Vellanki,Falcon,NA,Hortonworks
+562,schans,Bart van der Schans,Apache Jackrabbit,Committer,Hippo
+2484,schans,Bart van der Schans,Jackrabbit,NA,Hippo
+1577,schans,Bart van der Schans,Apache Jackrabbit,Committer,Hippo
+1166,be1166,Bella Robinson,Apache Batik,Committer,CSIRO Australia
+1209,boday,Ben O'Day,Apache Camel,Committer,Initek Consulting
+2125,boday,Ben O'Day,Camel,NA,Initek Consulting
+195,boday,Ben O'Day,Apache Camel,Committer,Savoir Technologies 
+653,breed,Ben Reed,Apache Pig,PMC member,Yahoo!
+668,breed23,Ben Reed,Apache Pig,Committer,Yahoo!
+284,bspeakmon,Ben Speakmon,Apache Commons Email,Committer,Apache Software Foundation
+1287,bspeakmon,Ben Speakmon,Apache Commons Email,Committer,The Apache Software Foundation
+1875,breed,Benjamin Reed,Apache Zookeeper,PMC,Facebook
+1876,breed,Benjamin Reed,Apache Zookeeper,Committer,Facebook
+2096,breed,Benjamin Reed,Bookkeeper,NA,Facebook
+2782,breed,Benjamin Reed,Zookeeper,NA,Facebook
+52,be0052,Bernd Kolb,Apache Aries,PMC,SAP
+1031,be1031,Bernd Kolb,Apache Aries,PMC,SAP
+2054,be2054,Bernd Kolb,Aries,NA,SAP
+2183,ber2183,Bernt M. Johnsen,Db,NA,Oracle
+755,bdelacretaz,Bertrand Delacretaz,Apache Sling,Committer,Adobe
+763,bdelacretaz,Bertrand Delacretaz,Apache Sling,PMC,Adobe
+1744,bdelacretaz ,Bertrand Delacretaz,Apache Sling,Java Developer,Adobe 
+1757,bdelacretaz ,Bertrand Delacretaz,Apache Sling,PMC,Adobe 
+2626,sezgin,Beysim Sezgin,REEF,NA,Microsoft
+479,bikas,Bikas Saha,Apache Hadoop,Committer,Hortonworks
+2306,bikas,Bikas Saha,Hadoop,NA,Hortonworks
+1466,bikas,Bikas Saha,Apache Hadoop,Committer,Hortonworks 
+1210,bibryam,Bilgin Ibryam,Apache Camel,Committer,Red Hat
+2126,bibryam,Bilgin Ibryam,Camel,NA,Red Hat
+410,bi0410,Bill Barker,Apache Gump,PMC,IBM
+320,billbarker,Bill Barker,Apache Commons Modeler,Committer,Apache
+652,billgraham,Bill Graham,Apache Pig,Committer,Twitter
+2172,billgraham,Bill Graham,Chukwa,NA,Twitter
+2608,billgraham,Bill Graham,Pig,NA,Twitter
+1660,billgraham,Bill Graham,Apache PIG,PMC member,Twitter 
+1162,bi1162,Bill Haneman,Apache Batik,Committer,Sun Microsystems
+1879,bhavanki,Bill Havanki,Accumulo,NA,Cloudera
+1007,bi1007,Bill Havanki,Apache Accumulo,Contributor,Cloudera
+129,u129,Bill Nagy,Apache Axis,Committer,IBM
+1116,u1116,Bill Nagy,Apache Axis2,Committer,IBM
+2,billie,Billie Rinaldi,Apache Accumulo,PMC,Hortonworks
+4,billie,Billie Rinaldi,Apache Accumulo,Committer,Hortonworks
+945,billie,Billie Rinaldi,Apache Ambari,PMC,Hortonworks
+996,billie,Billie Rinaldi,Apache Accumulo,PMC,Hortonworks
+1001,billie,Billie Rinaldi,Apache Accumulo,Committer,Hortonworks
+1880,billie,Billie Rinaldi,Accumulo,NA,Hortonworks
+1974,billie,Billie Rinaldi,Ambari,NA,Hortonworks
+2552,bsullivan,Blake Sullivan,MyFaces,NA,Oracle
+911,bo0911,Bob Lannoy,Apache Syncope,Contributor,Smals
+2763,bo2763,Bob Lannoy,Syncope,NA,Smals
+1800,bo1800,Bob Lannoy,Apache Syncope,Contributor,Smals 
+251,bob,Bob McWhirter,Apache Commons CLI,Committer,Werken
+1249,bob,Bob McWhirter,Apache Commons CLI,Committer,Werken
+1304,werken,Bob McWhirter,Apache Commons Jelly,Committer,The Werken Company
+2002,rnettleton,Bob Nettleton,Ambari,NA,Hortonworks
+682,bo0682,Bob Scheifler,Apache River,Emeritus Committer,Sun Microsystems
+481,boryas,Boris Shkolnik,Apache Hadoop,Committer,LinkedIn
+2307,boryas,Boris Shkolnik,Hadoop,NA,LinkedIn
+1468,boryas,Boris Shkolnik,Apache Hadoop,Committer,LinkedIn 
+2627,shulmanb,Boris Shulman,REEF,NA,Microsoft
+2571,bzhang,Bowen Zhang,Oozie,NA,Hortonworks
+2021,br2021,Bradley Childs,Ambari,NA,Red Hat
+2308,brandonli,Brandon Li,Hadoop,NA,Hortonworks
+1469,brandonli,Brandon Li,Apache Hadoop,Committer,Hortonworks 
+2456,br2456,Branko ?ibej,Ignite,NA,WANdisco
+242,brett,Brett Porter,Apache Continuum,PMC Chair,ASF
+593,brett,Brett Porter,Apache Maven,PMC Member,ASF
+1018,brett,Brett Porter,Apache Archiva,PMC Member,ASF
+118,pradine,Brian DePradine,Apache Axis,Committer,IBM
+1105,pradine,Brian DePradine,Apache Axis2,Committer,IBM
+261,bdunbar,Brian E. Dunbar,Apache Commons Configuration,Committer,dunbarconsulting.org
+1259,bdunbar,Brian E. Dunbar,Apache Commons Configuration,Java Developer,dunbarconsulting.org 
+1267,bdunbar,Brian E. Dunbar,Apache Commons Configuration,Committer,dunbarconsulting.org 
+8,brianm,Brian McCallister,ActiveMQ,Committer,Ning
+913,brianm,Brian McCallister,Apache ActiveMQ,Committer,Ning
+1905,brianm,Brian McCallister,ActiveMQ,NA,Ning
+568,bcm,Brian Moseley,Apache Jackrabbit,Emeritus Member,Open Source Applications Found
+1584,bcm,Brian Moseley,Apache Jackrabbit,Emeritus Committer,Open Source Applications Found
+2223,brock,Brock Noland,Flume,NA,Cloudera
+1523,brock,Brock Noland,Apache Hive,PMC,Cloudera 
+988,br0988,Bruce Atherton,Apache ANT,PMC,Avue Technologies
+2236,br2236,Bruce Snyder,Geronimo,NA,SpringSource
+698,bsnyder,Bruce Snyder,Apache ServiceMix,Committer,SpringSource
+726,bsnyder,Bruce Snyder,Apache ServiceMix,PMC,SpringSource
+914,bsnyder,Bruce Snyder,Apache ActiveMQ,Committer,SpringSource
+1211,bsnyder,Bruce Snyder,Apache Camel,Committer,SpringSource
+1906,bsnyder,Bruce Snyder,ActiveMQ,NA,SpringSource
+2127,bsnyder,Bruce Snyder,Camel,NA,SpringSource
+2662,bsnyder,Bruce Snyder,ServiceMix,NA,SpringSource
+1324,br1324,Bruce Snyder,Apache Geronimo,Committer,SpringSource 
+9,bsnyder,Bruce Snyder,ActiveMQ,Committer,SpringSource
+196,bsnyder,Bruce Snyder,Apache Camel,Committer,SpringSource 
+1683,bsnyder,Bruce Snyder,Apache ServiceMix,Committer,SpringSource 
+1714,bsnyder,Bruce Snyder,Apache ServiceMix,PMC,SpringSource 
+322,brudav,Bruno D'Avanzo,Apache Commons Net,Committer,Hewlett-Packard
+1312,brudav,Bruno D'Avanzo,Apache Commons Net,Committer,Hewlett-Packard
+1174,bmahe,Bruno Mao,Apache Bigtop,committer,Tango 
+2764,br2764,Bruno  Moura,Syncope,NA,Exprivia
+1801,br1801,Bruno  Moura,Apache Syncope,Contributor,Exprivia 
+2464,cdamioli,Cedric Damioli,Jackrabbit,NA,Ametys
+1560,cdamioli,Cedric Damioli,Apache Jackrabbit,Committer,Ametys
+2048,ca2048,Cabir Zounaidou,Ambari,NA,Hortonworks
+1160,ca1160,Cameron McCormack,Apache Batik,Committer,Monash University
+762,thecarlhall,Carl Hall,Apache Sling,Committer,Hallway Technologies
+1756,thecarlhall,Carl Hall,Apache Sling,Java Developer,Hallway Technologies 
+536,cws,Carl Steinbach,Apache Hive,Committer,Cloudera
+2409,cws,Carl Steinbach,Hive,NA,LinkedIn
+1524,cws,Carl Steinbach,Apache Hive,VP,Citus Data 
+243,carlos,Carlos Sanchez,Apache Continuum,PMC Member,ASF
+594,carlos,Carlos Sanchez,Apache Maven,PMC Member,ASF
+1019,carlos,Carlos Sanchez,Apache Archiva,PMC Member,ASF
+2100,carlosvara,Carlos Vara,BVal,NA,Amazon
+1147,carlosvara,Carlos Vara,Apache BVal,PMC,Amazon 
+170,carlosvara,Carlos Vara,Apache Bean Validation,PMC,Amazon 
+181,carlosvara,Carlos Vara,Apache Bean Validation,Committer,Amazon 
+757,cziegeler,Carsten Ziegeler,Apache Sling,Committer,Adobe
+764,cziegeler,Carsten Ziegeler,Apache Sling,PMC,Adobe
+1746,cziegeler ,Carsten Ziegeler,Apache Sling,Chair, Java Develope,Adobe 
+1758,cziegeler ,Carsten Ziegeler,Apache Sling,PMC Chair,Adobe 
+635,ca0635,Catalina Wei,Apache OpenJPA,Committer,IBM Corporation
+2580,ca2580,Catalina Wei,OpenJPA,NA,IBM
+1634,ca1634,Catalina Wei,Apache OpenJPA,Committer,IBM Corporation 
+1872,ce1872,Cezar Andrei,Apache XMLBeans,Committer,LinkedIn
+946,croberts,Chad Roberts,Apache Ambari,PMC,Red Hat
+1975,croberts,Chad Roberts,Ambari,NA,Red Hat
+689,chamikara,Chamikara Jayalath,Apache Sandesha,Committer,WSO2
+1674,chamikara,Chamikara Jayalath,Apache Sandesha,Committer,WSO2
+146,chamil,Chamil Thanthrimudalige,Apache Axis,Committer,WSO2
+1133,chamil,Chamil Thanthrimudalige,Apache Axis2,Committer,WSO2
+2176,chaoshi,Chao Shi,Crunch,NA,Independent
+2410,sunchao,Chao Sun,Hive,NA,Cloudera
+2572,brookwc,Chao Wang,Oozie,NA,Microsoft
+2641,ch2641,Chaoyu Tang,Sentry,NA,Cloudera
+2451,ctang,Chaoyu Tang,Hive,NA,Cloudera
+789,charith,Charith Wickramarachchi,Apache Synapse,Committer,WSO2
+1784,charith,Charith Wickramarachchi,Apache Synapse,Committer,WSO2
+2747,charith,Charith Wickramarachchi,Synapse,NA,WSO2
+132,charitha,Charitha Kamkanamge,Apache Axis,Committer,WSO2
+1119,charitha,Charitha Kamkanamge,Apache Axis2,Committer,WSO2
+699,cmouillard,Charles Mouillard,Apache ServiceMix,Committer,FuseSource
+2663,cmouillard,Charles Mouillard,ServiceMix,NA,FuseSource
+1684,cmouillard,Charles Mouillard,Apache ServiceMix,Committer,FuseSource 
+35,ch0035,Charles Moulliard,ActiveMQ,Contributor,Xpectis
+1932,ch1932,Charles Moulliard,ActiveMQ,NA,Xpectis
+10,cmoulliard,Charles Moulliard,ActiveMQ,Committer,Xpectis
+915,cmoulliard,Charles Moulliard,Apache ActiveMQ,Committer,Xpectis
+1212,cmoulliard,Charles Moulliard,Apache Camel,Committer,Red Hat
+1907,cmoulliard,Charles Moulliard,ActiveMQ,NA,Red Hat
+2128,cmoulliard,Charles Moulliard,Camel,NA,Red Hat
+2501,cmoulliard,Charles Moulliard,Karaf,NA,JBoss
+197,cmoulliard,Charles Moulliard,Apache Camel,Committer,FuseSource 
+576,cmoulliard,Charles Moulliard,Apache Karaf,Committer,FuseSource
+589,cmoulliard,Charles Moulliard,Apache Karaf,PMC,FuseSource
+1594,cmoulliard,Charles Moulliard,Apache Karaf,NA,FuseSource
+742,ch0742,Charles Souillard,Apache ServiceMix,Contributor,Bull R&D
+2693,ch2693,Charles Souillard,ServiceMix,NA,Bull R&D
+1729,ch1729,Charles Souillard,Apache ServiceMix,Contributor,Bull R&D
+780,chathura_ce,Chathura Ekanayake,Apache Synapse,Committer,WSO2
+1775,chathura_ce,Chathura Ekanayake,Apache Synapse,Committer,WSO2
+2738,chathura_ce,Chathura Ekanayake,Synapse,NA,WSO2
+836,ch0836,Chathura Herath,Apache Woden,Committer,Indiana University
+98,chathura,Chathura Herath,Apache Axiom,Committer,LSF/MIT
+123,chathura,Chathura Herath,Apache Axis,Committer,Indiana University, USA
+1084,chathura,Chathura Herath,Apache Axiom,Committer,LSF/MIT
+1110,chathura,Chathura Herath,Apache Axis2,Committer,Indiana University, USA
+1865,ch1865,Chathura Herath,Apache Woden,Committer,Indiana University 
+1948,chathuri,Chathuri Wimalasena,Airavata,NA,Indiana University
+100,chatra,Chatra Nakkawita,Apache Axiom,Committer,WSO2
+130,chatra,Chatra Nakkawita,Apache Axis,Committer,WSO2
+1086,chatra,Chatra Nakkawita,Apache Axiom,Committer,WSO2
+1117,chatra,Chatra Nakkawita,Apache Axis2,Committer,WSO2
+2020,ch2020,Chelsea Chang,Ambari,NA,Microsoft
+2431,chengxiang,Chengxiang Li,Hive,NA,Intel
+655,cheolsoo,Cheolsoo Park,Apache Pig,Committer,Cloudera
+546,chetanm,Chetan Mehrotra,Apache Jackrabbit,Committer,Adobe
+2465,chetanm,Chetan Mehrotra,Jackrabbit,NA,Adobe
+1561,chetanm,Chetan Mehrotra,Apache Jackrabbit,Committer,Adobe
+2448,chinnaraol,Chinna Rao Lalam,Hive,NA,Intel
+112,ch0112,Chinthaka Thilakarathne,Apache Axiom,Contributor,Lanka Software Foundation / Un
+157,ch0157,Chinthaka Thilakarathne,Apache Axis,Contributor,Lanka Software Foundation / Un
+1099,ch1099,Chinthaka Thilakarathne,Apache Axiom,Contributor,Lanka Software Foundation / Un
+1144,ch1144,Chinthaka Thilakarathne,Apache Axis2,Contributor,Lanka Software Foundation / Un
+419,mattmann,Chris A. Mattmann,Apache Gora,Committer,NASA JPL
+1376,mattmann,Chris A. Mattmann,Apache Gora,Committer,NASA JPL
+1390,mattmann,Chris A. Mattmann,Apache Gora,PMC,NASA JPL
+1394,mattmann,Chris A. Mattmann,Apache Gora,Champion,NASA JPL
+1949,mattmann,Chris A. Mattmann,Airavata,NA,NASA JPL
+2294,mattmann,Chris A. Mattmann,Gora,NA,NASA JPL
+2557,mattmann,Chris A. Mattmann,Nutch,NA,NASA JPL
+2766,mattmann,Chris A. Mattmann,Tajo,NA,NASA JPL
+700,ccustine,Chris Custine,Apache ServiceMix,Committer,FuseSource
+727,ccustine,Chris Custine,Apache ServiceMix,PMC,FuseSource
+2664,ccustine,Chris Custine,ServiceMix,NA,FuseSource
+571,ccustine,Chris Custine,Apache Karaf,Committer,FuseSource
+584,ccustine,Chris Custine,Apache Karaf,PMC,FuseSource
+1588,ccustine,Chris Custine,Apache Karaf,NA,FuseSource
+1685,ccustine,Chris Custine,Apache ServiceMix,Committer,FuseSource 
+1713,ccustine,Chris Custine,Apache ServiceMix,PMC,FuseSource 
+444,cdouglas,Chris Douglas,Apache Hadoop,PMC,Microsoft
+482,cdouglas,Chris Douglas,Apache Hadoop,Committer,Microsoft
+2309,cdouglas,Chris Douglas,Hadoop,NA,Microsoft
+2522,cdouglas,Chris Douglas,Knox,NA,Microsoft
+2573,cdouglas,Chris Douglas,Oozie,NA,Microsoft
+2631,cdouglas,Chris Douglas,REEF,NA,Microsoft
+1424,cdouglas,Chris Douglas,Apache Hadoop,PMC,Microsoft 
+1470,cdouglas,Chris Douglas,Apache Hadoop,Committer,Microsoft 
+34,ch0034,Chris Kingsbury,ActiveMQ,Contributor,TradingScreen
+1193,ch1193,Chris Kingsbury,Apache Camel,Contributor,TradingScreen
+1931,ch1931,Chris Kingsbury,ActiveMQ,NA,TradingScreen
+2156,ch2156,Chris Kingsbury,Camel,NA,TradingScreen
+222,ch0222,Chris Kingsbury,Apache Camel,Contributor,TradingScreen 
+2535,ch2535,Chris Mattmann,Mesos,NA,NASA JPL
+2311,cnauroth,Chris Nauroth,Hadoop,NA,Hortonworks
+2784,cnauroth,Chris Nauroth,Zookeeper,NA,Hortonworks
+1472,cnauroth,Chris Nauroth,Apache Hadoop,Committer,Hortonworks 
+53,ch0053,Chris Wilkinson,Apache Aries,Contributor,IBM
+1032,ch1032,Chris Wilkinson,Apache Aries,Contributor,IBM
+2055,ch2055,Chris Wilkinson,Aries,NA,IBM
+1213,cmueller,Christian Mueller,Apache Camel,Committer,Atos Worldline
+2129,cmueller,Christian Mueller,Camel,NA,Atos Worldline
+198,cmueller,Christian Mueller,Apache Camel,Committer,Atos Worldline 
+1908,ceposta,Christian Posta,ActiveMQ,NA,Red Hat
+2130,ceposta,Christian Posta,Camel,NA,Red Hat
+2157,ch2157,Christian Posta,Camel,NA,Red Hat
+743,ch0743,Christian Schneider,Apache ServiceMix,Contributor,EnBW Energie Baden-WÌ_rttemberg
+2056,ch2056,Christian Schneider,Aries,NA,Talend
+2694,ch2694,Christian Schneider,ServiceMix,NA,EnBW Energie Baden-WÌ_rttemberg
+1214,cschneider,Christian Schneider,Apache Camel,Committer,Talend
+2131,cschneider,Christian Schneider,Camel,NA,Talend
+2505,cschneider,Christian Schneider,Karaf,NA,Talend
+2758,cschneider,Christian Schneider,Syncope,NA,Talend
+1730,ch1730,Christian Schneider,Apache ServiceMix,Contributor,EnBW Energie Baden-WÌ_rttemberg
+199,cschneider,Christian Schneider,Apache Camel,Committer,Talend 
+580,cschneider,Christian Schneider,Apache Karaf,Committer,Talend
+1599,cschneider,Christian Schneider,Apache Karaf,NA,Talend
+1798,cschneider,Christian Schneider,Apache Syncope,committer,Talend 
+993,ch0993,Christoph Wilhelms,Apache ANT,PMC,TUI
+368,ch0368,Christopher J. Blythe,Apache Geronimo,Committer,IBM
+2238,ch2238,Christopher J. Blythe,Geronimo,NA,IBM
+1326,ch1326,Christopher J. Blythe,Apache Geronimo,Committer,IBM 
+369,ch0369,Christopher M. Cardona,Apache Geronimo,Committer,IBM
+2239,ch2239,Christopher M. Cardona,Geronimo,NA,IBM
+1327,ch1327,Christopher M. Cardona,Apache Geronimo,Committer,IBM 
+2029,ch2029,Chuan Liu,Ambari,NA,Microsoft
+916,davsclaus,Claus Ibsen,Apache ActiveMQ,Committer,Fuse Source
+1215,davsclaus,Claus Ibsen,Apache Camel,Committer,Red Hat
+1909,davsclaus,Claus Ibsen,ActiveMQ,NA,Red Hat
+2132,davsclaus,Claus Ibsen,Camel,NA,Red Hat
+11,davsclaus,Claus Ibsen,ActiveMQ,Committer,Fuse Source
+200,davsclaus,Claus Ibsen,Apache Camel,Committer,FuseSource 
+547,ckoell,Claus Kraus,Apache Jackrabbit,Committer,DVT-Daten-Verarbeitung-Tirol G
+2466,ckoell,Claus Kraus,Jackrabbit,NA,DVT-Daten-Verarbeitung-Tirol G
+1562,ckoell,Claus Kraus,Apache Jackrabbit,Committer,DVT-Daten-Verarbeitung-Tirol G
+756,cl0756,Clemens Wyss,Apache Sling,Committer,MySign AG
+1745,clemens,Clemens Wyss,Apache Sling,Java Developer,MySign AG 
+2642,co2642,Colin Ma,Sentry,NA,Intel
+2716,colin,Colin Ma,Sqoop,NA,Intel
+12,cmacnaug,Colin MacNaughton,ActiveMQ,Committer,Fuse Source
+917,cmacnaug,Colin MacNaughton,Apache ActiveMQ,Committer,Fuse Source
+2310,cmccabe,Colin Patrick McCabe,Hadoop,NA,Cloudera
+1471,cmccabe,Colin Patrick McCabe,Apache Hadoop,Committer,Cloudera 
+904,coheigea,Colm O hEigeartaigh,Apache Syncope,Committer,Talend
+905,coheigea,Colm O hEigeartaigh,Apache Syncope,PMC,Talend
+2133,coheigea,Colm O hEigeartaigh,Camel,NA,Talend
+2754,coheigea,Colm O hEigeartaigh,Syncope,NA,Talend
+1794,coheigea,Colm O hEigeartaigh,Apache Syncope,PMC member,Talend 
+991,co0991,Conor MacNeill,Apache ANT,PMC Chair,Cortex eBusiness
+654,chandec,Corinne Chandel,Apache Pig,Documentation,Yahoo!
+314,costin,Costin Manolache,Apache Commons Logging,Committer,Apache Software Foundation
+636,cr0636,Craig L Russell,Apache OpenJPA,Committer,Oracle Corporation
+2581,cr2581,Craig L Russell,OpenJPA,NA,Oracle
+1635,cr1635,Craig L Russell,Apache OpenJPA,Committer,Oracle Corporation 
+275,craigmcc,Craig McClanahan,Apache Commons EL,Committer,Apache Software Foundation
+311,craigmcc,Craig McClanahan,Apache Commons Logging,Committer,Apache Software Foundation
+318,craigmcc,Craig McClanahan,Apache Commons Modeler,Committer,Apache
+1301,craigmcc,Craig McClanahan,Apache Commons JXPath,Committer,Sun Microsystems
+2184,u2184,Craig Russell,Db,NA,Oracle
+2185,Dag Wanvik,dag,Db,NA,Oracle
+919,daggerrz,Dag Liodden,Apache ActiveMQ,Committer,Giant Leap Technologies
+1911,daggerrz,Dag Liodden,ActiveMQ,NA,Giant Leap Technologies
+14,daggerrz,Dag Liodden,ActiveMQ,Committer,Giant Leap Technologies
+338,da0338,Dain Sundstrom,Apache Geronimo,PMC,SpringSource
+382,da0382,Dain Sundstrom,Apache Geronimo,Committer,SpringSource
+701,dain,Dain Sundstrom,Apache ServiceMix,Committer,IBM
+920,dain,Dain Sundstrom,Apache ActiveMQ,Committer,IBM
+2665,dain,Dain Sundstrom,ServiceMix,NA,IBM
+1276,da1276,Dain Sundstrom,Apache Commons DBCP,Contributor,dain@apache.org
+15,dain,Dain Sundstrom,ActiveMQ,Committer,IBM
+1686,dain,Dain Sundstrom,Apache ServiceMix,Committer,IBM 
+702,dandiep,Dan Diephouse,Apache ServiceMix,Committer,EnvoiSolutions
+2666,dandiep,Dan Diephouse,ServiceMix,NA,EnvoiSolutions
+1687,dandiep,Dan Diephouse,Apache ServiceMix,Committer,EnvoiSolutions 
+1747,dklco,Dan Klco,Apache Sling,Java Developer,Six Dimensions 
+54,da0054,Dan Kulp,Apache Aries,PMC,Talend
+1033,da1033,Dan Kulp,Apache Aries,PMC,Talend
+2057,da2057,Dan Kulp,Aries,NA,Talend
+370,da0370,Dan Lu 'Viola',Apache Geronimo,Committer,IBM
+1328,da0370,Dan Lu 'Viola',Apache Geronimo,Committer,IBM 
+2240,da2240,"Dan Lu ""Viola""",Geronimo,NA,IBM
+656,daijy,Daniel Dai,Apache Pig,PMC member,HortonWorks
+669,daijy,Daniel Dai,Apache Pig,Committer,HortonWorks
+882,daijy,Daniel Dai,Apache HCatalog,Committer,Hortonworks
+2432,daijy,Daniel Dai,Hive,NA,Hortonworks
+2609,daijy,Daniel Dai,Pig,NA,HortonWorks
+1550,daijy,Daniel Dai,Apache Hive,Committer,Hortonworks
+1661,daijy,Daniel Dai,Apache PIG,PMC member,HortonWorks 
+323,dfs,Daniel F. Savarese,Apache Commons Net,Committer,Savarese Software Research
+1313,dfs,Daniel F. Savarese,Apache Commons Net,Committer,Savarese Software Research
+596,dkulp,Daniel Kulp,Apache Maven,PMC Member,ASF
+1217,dkulp,Daniel Kulp,Apache Camel,Committer,Talend
+2135,dkulp,Daniel Kulp,Camel,NA,Talend
+2667,dkulp,Daniel Kulp,ServiceMix,NA,Talend
+202,dkulp,Daniel Kulp,Apache Camel,Committer,Talend 
+1688,dkulp,Daniel Kulp,Apache ServiceMix,Committer,Talend
+163,dlr,Daniel Rall,Apache Velocity,PMC Member,CollabNet, Inc.
+168,dlr,Daniel Rall,Apache Velocity,Committer,CollabNet, Inc.
+256,dlr,Daniel Rall,Apache Commons Configuration,Committer,CollabNet, Inc.
+281,dlr,Daniel Rall,Apache Commons Email,Committer,CollabNet, Inc.
+287,dlr,Daniel Rall,Apache Commons FileUpload,Committer,CollabNet
+307,dlr,Daniel Rall,Apache Commons Lang,Committer,CollabNet, Inc.
+826,dlr,Daniel Rall,Apache Torque,Committer,CollabNet, Inc.
+976,dlr,Daniel Rall,Apache Velocity Anakia,PMC Member,CollabNet, Inc.
+981,dlr,Daniel Rall,Apache Velocity Anakia,Java developer,CollabNet, Inc.
+986,dlr,Daniel Rall,Apache Velocity Anakia,Committer,CollabNet, Inc.
+1309,dlr,Daniel Rall,Apache Commons Lang,Committer,CollabNet, Inc.
+1814,dlr,Daniel Rall,Apache Torque,Java Developer,CollabNet, Inc.
+2778,dlr,Daniel Rall,Velocity,NA,CollabNet
+1247,dlr,Daniel Rall,Apache Commons Betwixt,Committer,CollabNet 
+1254,dlr,Daniel Rall,Apache Commons Configuration,Java Developer,CollabNet, Inc. 
+1262,dlr,Daniel Rall,Apache Commons Configuration,Committer,CollabNet, Inc. 
+1284,dlr,Daniel Rall,Apache Commons Email,Committer,CollabNet, Inc. 
+1834,dlr,Daniel Rall,Apache Velocity,PMC Member,CollabNet, Inc. 
+1839,dlr,Daniel Rall,Apache Velocity,Java developer,CollabNet, Inc. 
+538,danny,Danny Angus,Apache James,Committer,Student Loans Company ltd
+540,danny,Danny Angus,Apache James,PMC,Student Loans Company ltd
+1554,danny,Danny Angus,Apache James,Committer,Student Loans Company ltd
+2643,da2643,Dapeng Sun,Sentry,NA,Intel
+371,da0371,Darren Middleman,Apache Geronimo,Committer,IBM
+484,daryn,Daryn Sharp,Apache Hadoop,Committer,Yahoo!
+1426,daryn,Daryn Sharp,Apache Hadoop,PMC,Yahoo! 
+1475,daryn,Daryn Sharp,Apache Hadoop,Committer,Yahoo! 
+109,dasarath,Dasarath Weerathunga,Apache Axiom,Committer,Lanka Software Foundation
+147,dasarath,Dasarath Weerathunga,Apache Axis,Committer,Purdue University, USA
+1095,dasarath,Dasarath Weerathunga,Apache Axiom,Committer,Lanka Software Foundation
+1134,dasarath,Dasarath Weerathunga,Apache Axis2,Committer,Purdue University, USA
+2241,dims,Davanum Srinivas,Geronimo,NA,IBM
+107,dims,Davanum Srinivas,Apache Axiom,Committer,IBM
+690,dims,Davanum Srinivas,Apache Sandesha,Committer,WSO2
+1093,dims,Davanum Srinivas,Apache Axiom,Committer,IBM
+1675,dims,Davanum Srinivas,Apache Sandesha,Committer,WSO2
+1329,dims,Davanum Srinivas,Apache Geronimo,Committer,IBM 
+57,dims,Davanum Srinivas (Dims),Apache Aries,PMC,IBM
+1036,dims,Davanum Srinivas (Dims),Apache Aries,PMC,IBM
+2060,dims,Davanum Srinivas (Dims),Aries,NA,IBM
+2178,dbeech,Dave Beech,Crunch,NA,Cloudera
+2534,da2534,Dave Lester,Mesos,NA,Twitter
+744,da0744,Dave Stanley,Apache ServiceMix,Contributor,FuseSource
+2695,da2695,Dave Stanley,ServiceMix,NA,FuseSource
+1731,da1731,Dave Stanley,Apache ServiceMix,Contributor,FuseSource
+1888,da1888,Dave Wang,Accumulo,NA,Cloudera
+421,woollard,Dave Woollard,Apache Gora,Committer,NASA JPL
+1379,woollard,Dave Woollard,Apache Gora,Committer,NASA JPL
+1393,woollard,Dave Woollard,Apache Gora,PMC,NASA JPL
+2296,woollard,Dave Woollard,Gora,NA,NASA JPL
+809,dralves,David Alves,Apache Whirr,Committer,CISUC/Univ. Coimbra
+1845,dralves,David Alves,Apache Whirr,committer,CISUC/Univ. Coimbra
+1873,da1873,David Bau,Apache XMLBeans,Committer,about me
+339,da0339,David Blevins,Apache Geronimo,PMC,IBM
+383,da0383,David Blevins,Apache Geronimo,Committer,IBM
+2242,da2242,David Blevins,Geronimo,NA,IBM
+703,dblevins,David Blevins,Apache ServiceMix,Committer,IBM
+2668,dblevins,David Blevins,ServiceMix,NA,IBM
+1330,da1330,David Blevins,Apache Geronimo,Committer,IBM 
+1689,dblevins,David Blevins,Apache ServiceMix,Committer,IBM 
+55,da0055,David Bosschaert,Apache Aries,PMC,Red Hat
+1034,da1034,David Bosschaert,Apache Aries,PMC,Red Hat
+2058,da2058,David Bosschaert,Aries,NA,Adobe
+2770,da2770,David Chen,Tajo,NA,Google
+627,da0627,David Ezzio,Apache OpenJPA,PMC,Oracle Corporation
+637,da0627,David Ezzio,Apache OpenJPA,Committer,Oracle Corporation
+2582,da2582,David Ezzio,OpenJPA,NA,Oracle
+1636,da1636,David Ezzio,Apache OpenJPA,Committer,Oracle Corporation 
+1653,da1636,David Ezzio,Apache OpenJPA,PMC,Oracle Corporation
+124,davidillsley,David Illsley,Apache Axis,Committer,IBM
+1111,davidillsley,David Illsley,Apache Axis2,Committer,IBM
+56,djencks,David Jencks,Apache Aries,PMC,IBM
+340,djencks,David Jencks,Apache Geronimo,PMC,IBM
+384,djencks,David Jencks,Apache Geronimo,Committer,IBM
+1035,djencks,David Jencks,Apache Aries,PMC,IBM
+2059,djencks,David Jencks,Aries,NA,IBM
+2243,djencks,David Jencks,Geronimo,NA,IBM
+704,djencks,David Jencks,Apache ServiceMix,Committer,IBM
+728,djencks,David Jencks,Apache ServiceMix,PMC,IBM
+921,djencks,David Jencks,Apache ActiveMQ,Committer,IBM
+1148,djencks,David Jencks,Apache BVal,PMC,IBM
+1216,djencks,David Jencks,Apache Camel,Committer,IBM
+1912,djencks,David Jencks,ActiveMQ,NA,IBM
+2134,djencks,David Jencks,Camel,NA,IBM
+2500,djencks,David Jencks,Karaf,NA,IBM
+2669,djencks,David Jencks,ServiceMix,NA,IBM
+16,djencks,David Jencks,ActiveMQ,Committer,IBM
+171,djencks,David Jencks,Apache Bean Validation,PMC,IBM 
+182,djencks,David Jencks,Apache Bean Validation,Committer,IBM 
+201,djencks,David Jencks,Apache Camel,Committer,IBM 
+575,djencks,David Jencks,Apache Karaf,Committer,IBM
+588,djencks,David Jencks,Apache Karaf,PMC,IBM
+1593,djencks,David Jencks,Apache Karaf,NA,IBM
+1690,djencks,David Jencks,Apache ServiceMix,Committer,IBM 
+1715,djencks,David Jencks,Apache ServiceMix,PMC,IBM 
+1331,djencks,David Jencks,Apache Geronimo,Committer,IBM 
+567,uncled,David Nuescheler,Apache Jackrabbit,Committer,Adobe
+2493,uncled,David Nuescheler,Jackrabbit,NA,Adobe
+1583,uncled,David Nuescheler,Apache Jackrabbit,Committer,Adobe
+1950,dmreagan,David Reagan,Airavata,NA,Indiana University
+2177,davw,David Whiting,Crunch,NA,Independent
+638,da0638,David Wisneski,Apache OpenJPA,Committer,IBM Corporation
+2583,da2583,David Wisneski,OpenJPA,NA,IBM
+1637,da1637,David Wisneski,Apache OpenJPA,Committer,IBM Corporation 
+2467,davide,Davide Giannella,Jackrabbit,NA,Adobe
+1164,de1164,Dean Jackson,Apache Batik,Committer,CSIRO Australia
+99,deepal,Deepal Jayasinghe,Apache Axiom,Committer,WSO2
+125,deepal,Deepal Jayasinghe,Apache Axis,Committer,Georgia Institute of Technolog
+776,deepal,Deepal Jayasinghe,Apache Synapse,Committer,WSO2
+1085,deepal,Deepal Jayasinghe,Apache Axiom,Committer,WSO2
+1112,deepal,Deepal Jayasinghe,Apache Axis2,Committer,Georgia Institute of Technolog
+1771,deepal,Deepal Jayasinghe,Apache Synapse,Committer,WSO2
+2734,deepal,Deepal Jayasinghe,Synapse,NA,WSO2
+918,dejanb,Dejan Bosanac,Apache ActiveMQ,Committer,Fuse Source
+1910,dejanb,Dejan Bosanac,ActiveMQ,NA,Red Hat
+13,dejanb,Dejan Bosanac,ActiveMQ,Committer,Fuse Source
+910,de0910,Denis Signoretto,Apache Syncope,Contributor,Intesys
+2762,de0911,Denis Signoretto,Syncope,NA,Intesys
+1799,de0912,Denis Signoretto,Apache Syncope,Contributor,Intesys 
+36,dennisbyrne,Dennis Byrne,ActiveMQ,Contributor,Thoughtworks
+1194,dennisbyrne,Dennis Byrne,Apache Camel,Contributor,Thoughtworks
+1933,dennisbyrne,Dennis Byrne,ActiveMQ,NA,Thoughtworks
+2158,dennisbyrne,Dennis Byrne,Camel,NA,Thoughtworks
+2556,dennisbyrne,Dennis Byrne,MyFaces,NA,ThoughtWorks
+1623,dennisbyrne,Dennis Byrne,Apache MyFaces,PMC Emeritus,ThoughtWorks
+223,dennisbyrne,Dennis Byrne,Apache Camel,Contributor,Thoughtworks 
+17,dcook,Dennis Cook,ActiveMQ,Committer,BeVocal
+922,dcook,Dennis Cook,Apache ActiveMQ,Committer,BeVocal
+1913,dcook,Dennis Cook,ActiveMQ,NA,BeVocal
+317,dennisl,Dennis Lundberg,Apache Commons Logging,Committer,Apache Software Foundation
+595,dennisl,Dennis Lundberg,Apache Maven,PMC Member,ASF
+1021,dennisl,Dennis Lundberg,Apache Archiva,Committer,ASF
+1008,de1008,Dennis Patrone,Apache Accumulo,Contributor,The Johns Hopkins University
+2637,de2637,Dennis Reedy,River,NA,Asarian Technologies LLC
+1672,de1672,Dennis Reedy,Apache River,Committer,Asarian Technologies LLC
+142,dsosnoski,Dennis Sosnoski,Apache Axis,Committer,Sosnoski Software
+1129,dsosnoski,Dennis Sosnoski,Apache Axis2,Committer,Sosnoski Software
+446,ddas,Devaraj Das,Apache Hadoop,PMC,Hortonworks
+485,ddas,Devaraj Das,Apache Hadoop,Committer,Hortonworks
+846,ddas,Devaraj Das,Apache Ambari,Committer,Hortonworks
+847,ddas,Devaraj Das,Apache Ambari,PMC,Hortonworks
+871,ddas,Devaraj Das,Apache HCatalog,Committer,Hortonworks
+874,ddas,Devaraj Das,Apache HCatalog,PPMC,Hortonworks
+947,ddas,Devaraj Das,Apache Ambari,PMC,Hortonworks
+1977,ddas,Devaraj Das,Ambari,NA,Hortonworks
+2314,ddas,Devaraj Das,Hadoop,NA,Hortonworks
+2380,ddas,Devaraj Das,HBase,NA,Hortonworks
+2511,ddas,Devaraj Das,Knox,NA,Hortonworks
+2574,ddas,Devaraj Das,Oozie,NA,Hortonworks
+2600,ddas,Devaraj Das,Phoenix,NA,Hortonworks
+1399,ddas,Devaraj Das,Apache HBase,Committer,Hortonworks 
+1427,ddas,Devaraj Das,Apache Hadoop,PMC,Hortonworks 
+1476,ddas,Devaraj Das,Apache Hadoop,Committer,Hortonworks 
+2315,devaraj,Devaraj K,Hadoop,NA,Intel
+110,dh0110,Dharshana Dias,Apache Axiom,Contributor,Lanka Software Foundation / Un
+152,dh0111,Dharshana Dias,Apache Axis,Contributor,Lanka Software Foundation / Un
+1097,dh0112,Dharshana Dias,Apache Axiom,Contributor,Lanka Software Foundation / Un
+1139,dh0113,Dharshana Dias,Apache Axis2,Contributor,Lanka Software Foundation / Un
+447,dhruba,Dhruba Borthakur,Apache Hadoop,PMC,Facebook
+486,dhruba,Dhruba Borthakur,Apache Hadoop,Committer,Facebook
+526,dhruba,Dhruba Borthakur,Apache Hive,Committer,Facebook
+2316,dhruba,Dhruba Borthakur,Hadoop,NA,Facebook
+1428,dhruba,Dhruba Borthakur,Apache Hadoop,PMC,Facebook 
+1477,dhruba,Dhruba Borthakur,Apache Hadoop,Committer,Facebook 
+2630,dhruv,Dhruv Mahajan,REEF,NA,Microsoft
+1978,dili,Di Li,Ambari,NA,IBM
+2717,dianfu,Dian Fu,Sqoop,NA,Intel
+639,di0639,Dianne Richards,Apache OpenJPA,Committer,IBM Corporation
+2584,di0640,Dianne Richards,OpenJPA,NA,IBM
+1638,di0641,Dianne Richards,Apache OpenJPA,Committer,IBM Corporation 
+58,di0058,Dimo Stoilov,Apache Aries,PMC,SAP
+1037,di0059,Dimo Stoilov,Apache Aries,PMC,SAP
+2061,di0060,Dimo Stoilov,Aries,NA,SAP
+903,anzelld,Dino Anzellotti,Apache Syncope,Committer,Everett Italia
+1793,anzelld,Dino Anzellotti,Apache Syncope,committer,Everett Italia 
+303,dion,dIon Gillard,Apache Commons Jelly,Committer,Multitask Consulting
+259,dion,dIon Gillard,Apache Commons Configuration,Committer,Multitask Consulting
+277,dion,dIon Gillard,Apache Commons Email,Committer,Apache Software Foundation
+285,dion,dIon Gillard,Apache Commons FileUpload,Committer,Multitask Consulting
+290,dion,dIon Gillard,Apache Commons HTTP Client,Committer,Multitask Consulting
+294,dion,dIon Gillard,Apache Commons JEXL,Committer,Apache Software Foundation
+1295,dion,dIon Gillard,Apache Commons JEXL,Committer,Apache Software Foundation
+1305,dion,dIon Gillard,Apache Commons Jelly,Committer,Multitask Consulting
+1246,dion,dIon Gillard,Apache Commons Betwixt,Committer,Multitask Consulting 
+1257,dion,dIon Gillard,Apache Commons Configuration,Java Developer,Multitask Consulting 
+1265,dion,dIon Gillard,Apache Commons Configuration,Committer,Multitask Consulting 
+1290,dion,dIon Gillard,Apache Commons HTTP Client,Committer,Multitask Consulting 
+1976,dbhowmick,Dipayan Bhowmick,Ambari,NA,Hortonworks
+2186,djd,Dan Debrunner,Db,NA,IBM
+2101,djencks,David Jencks,BVal,NA,IBM
+2187,dlr,Daniel Rall,Db,NA,CollabNet
+1608,dlyubimov,Dmitriy Lyubimov,Apache Mahout,PMC,LinkedIn profile 
+657,dvryaboy,Dmitriy Ryaboy,Apache Pig,PMC member,Twitter
+670,dvryaboy,Dmitriy Ryaboy,Apache Pig,Committer,Twitter
+2280,dvryaboy,Dmitriy Ryaboy,Giraph,NA,Twitter
+2610,dvryaboy,Dmitriy Ryaboy,Pig,NA,Twitter
+1662,dvryaboy,Dmitriy Ryaboy,Apache PIG,PMC member,Twitter 
+948,dmitriusan,Dmitry Lysnichenko,Apache Ambari,PMC,Hortonworks
+1979,dmitriusan,Dmitry Lysnichenko,Ambari,NA,Hortonworks
+949,dsen,Dmitry Sen,Apache Ambari,PMC,Hortonworks
+1980,dsen,Dmitry Sen,Ambari,NA,Hortonworks
+505,molkov,Dmytro Molkov,Apache Hadoop,Committer,Facebook
+2341,molkov,Dmytro Molkov,Hadoop,NA,Facebook
+1499,molkov,Dmytro Molkov,Apache Hadoop,Committer,Facebook 
+159,do0159,Dobri Kitipov,Apache Axis,Contributor,Software AG
+1146,do1146,Dobri Kitipov,Apache Axis2,Contributor,Software AG
+413,dogacan,Dogacan Guney,Apache Gora,Committer,Konneka
+1369,dogacan,Dogacan Guney,Apache Gora,Committer,Google
+1383,dogacan,Dogacan Guney,Apache Gora,PMC,Google
+2468,dj,Dominique Jartt,Jackrabbit,NA,Adobe
+548,dpfister,Dominique Pfister,Apache Jackrabbit,Committer,Adobe
+2469,dpfister,Dominique Pfister,Jackrabbit,NA,Adobe
+1563,dpfister,Dominique Pfister,Apache Jackrabbit,Committer,Adobe
+628,dwoods,Donald Woods,Apache OpenJPA,PMC,Oracle Corporation
+640,dwoods,Donald Woods,Apache OpenJPA,Committer,Oracle Corporation
+2585,dwoods,Donald Woods,OpenJPA,NA,Oracle
+1149,dwoods,Donald Woods,Apache BVal,PMC,IBM
+1639,dwoods,Donald Woods,Apache OpenJPA,Committer,Oracle Corporation 
+1654,dwoods,Donald Woods,Apache OpenJPA,PMC,Oracle Corporation 
+172,dwoods,Donald Woods,Apache Bean Validation,PMC,IBM 
+183,dwoods,Donald Woods,Apache Bean Validation,Committer,IBM 
+341,dwoods,Donald Woods,Apache Geronimo,PMC,IBM
+385,dwoods,Donald Woods,Apache Geronimo,Committer,IBM
+1332,dwoods,Donald Woods,Apache Geronimo,Committer,IBM 
+2244,dwoods,Donald Woods,Geronimo,NA,IBM
+2443,dongc,Dong Chen,Hive,NA,Intel
+84,cutting,Doug Cutting,Apache Avro,Committer,Cloudera
+445,cutting,Doug Cutting,Apache Hadoop,PMC,Cloudera
+483,cutting,Doug Cutting,Apache Hadoop,Committer,Cloudera
+1063,cutting,Doug Cutting,Apache Avro,spec, java,Cloudera
+1069,cutting,Doug Cutting,Apache Avro,Committer,Cloudera
+2090,cutting,Doug Cutting,Avro,NA,Cloudera
+2313,cutting,Doug Cutting,Hadoop,NA,Cloudera
+1425,cutting,Doug Cutting,Apache Hadoop,PMC,Cloudera 
+1474,cutting,Doug Cutting,Apache Hadoop,Committer,Cloudera 
+997,drew,Drew Farris,Apache Accumulo,PMC,Booz Allen Hamilton
+1002,drew,Drew Farris,Apache Accumulo,Committer,Booz Allen Hamilton
+1882,drew,Drew Farris,Accumulo,NA,Booz Allen Hamilton
+2102,dwoods,Donald Woods,BVal,NA,IBM
+1009,edkohlwey,Ed Kohlwey,Apache Accumulo,Contributor,Booz Allen Hamilton
+1889,edkohlwey,Ed Kohlwey,Accumulo,NA,Booz Allen Hamilton
+6,edkohlwey,Ed Kohlwey,Apache Accumulo,Contributor,Booz Allen Hamilton
+705,edelln,Edell Nolan,Apache ServiceMix,Committer,FuseSource
+2670,enolan,Edell Nolan,ServiceMix,NA,FuseSource
+1691,enolan,Edell Nolan,Apache ServiceMix,Committer,FuseSource 
+2411,ecapriolo,Edward Capriolo,Hive,NA,m6d
+1525,ecapriolo,Edward Capriolo,Apache Hive,PMC,m6d 
+890,edwardyoon,Edward J. Yoon,Apache Hama,Committer,Oracle
+891,edwardyoon,Edward J. Yoon,Apache Hama,PMC,Oracle
+1187,edwardyoon,Edward J. Yoon,Apache Bigtop,committer,Oracle corporation 
+448,eli,Eli Collins,Apache Hadoop,PMC,Cloudera
+487,eli,Eli Collins,Apache Hadoop,Committer,Cloudera
+2318,eli,Eli Collins,Hadoop,NA,Cloudera
+1172,eli,Eli Collins,Apache Bigtop,committer,Cloudera 
+1429,eli,Eli Collins,Apache Hadoop,PMC,Cloudera 
+1478,eli,Eli Collins,Apache Hadoop,Committer,Cloudera 
+2283,ereisman,Eli Reisman,Giraph,NA,LinkedIn
+438,eclark,Elliott Clark,Apache Hbase,Committer,Cloudera
+2381,eclark,Elliott Clark,HBase,NA,Facebook
+1418,eclark,Elliott Clark,Apache HBase,Committer,Cloudera 
+59,em0059,Emily Jiang,Apache Aries,PMC,IBM
+1038,em1038,Emily Jiang,Apache Aries,PMC,IBM
+2062,em2062,Emily Jiang,Aries,NA,IBM
+254,ebourg,Emmanuel Bourg,Apache Commons CLI,Committer,Ariane Software
+262,ebourg,Emmanuel Bourg,Apache Commons Configuration,Committer,Ariane Software
+1252,ebourg,Emmanuel Bourg,Apache Commons CLI,Committer,Ariane Software
+1260,ebourg,Emmanuel Bourg,Apache Commons Configuration,Java Developer,Ariane Software 
+1268,ebourg,Emmanuel Bourg,Apache Commons Configuration,Committer,Ariane Software 
+1792,elecharny,Emmanuel Lecharny,Apache Syncope,PMC member,The Apache Software Foundation
+244,evenisse,Emmanuel Venisse,Apache Continuum,PMC Member,ASF
+597,evenisse,Emmanuel Venisse,Apache Maven,PMC Member,ASF
+2601,enis,Enis Soztutar,Phoenix,NA,Hortonworks
+414,enis,Enis Soztutar,Apache Gora,Committer,Hortonworks
+423,enis,Enis Soztutar,Apache Hbase,Committer,Hortonworks
+449,enis,Enis Soztutar,Apache Hadoop,PMC,Hortonworks
+488,enis,Enis Soztutar,Apache Hadoop,Committer,Hortonworks
+1370,enis,Enis Soztutar,Apache Gora,Committer,Hortonworks
+1384,enis,Enis Soztutar,Apache Gora,PMC,Hortonworks
+2289,enis,Enis Soztutar,Gora,NA,Hortonworks
+2319,enis,Enis Soztutar,Hadoop,NA,Hortonworks
+2382,enis,Enis Soztutar,HBase,NA,Hortonworks
+1400,enis,Enis Soztutar,Apache HBase,Committer,Hortonworks 
+1430,enis,Enis Soztutar,Apache Hadoop,PMC,Hortonworks 
+1479,enis,Enis Soztutar,Apache Hadoop,Committer,Hortonworks 
+706,eglynn,Eoghan Glynn,Apache ServiceMix,Committer,FuseSource
+2671,eglynn,Eoghan Glynn,ServiceMix,NA,FuseSource
+1692,eglynn,Eoghan Glynn,Apache ServiceMix,Committer,FuseSource 
+91,chinthaka,Eran Chinthaka,Apache Axiom,Committer,WSO2
+116,chinthaka,Eran Chinthaka,Apache Axis,Committer,WSO2
+773,chinthaka,Eran Chinthaka,Apache Synapse,Committer,WSO2
+1077,chinthaka,Eran Chinthaka,Apache Axiom,Committer,WSO2
+1103,chinthaka,Eran Chinthaka,Apache Axis2,Committer,WSO2
+1768,chinthaka,Eran Chinthaka,Apache Synapse,Committer,WSO2
+2731,chinthaka,Eran Chinthaka,Synapse,NA,WSO2
+1024,skygo,Eric Barboni,Apache Archiva,Committer,ASF
+2433,ehans,Eric Hanson,Hive,NA,Microsoft
+1535,ehans,Eric Hanson,Apache Hive,Committer,Microsoft
+260,epugh,Eric Pugh,Apache Commons Configuration,Committer,upstate.com
+280,epugh,Eric Pugh,Apache Commons Email,Committer,OpenSource Connections
+1258,epugh,Eric Pugh,Apache Commons Configuration,Java Developer,upstate.com 
+1266,epugh,Eric Pugh,Apache Commons Configuration,Committer,upstate.com 
+1283,epugh,Eric Pugh,Apache Commons Email,Committer,OpenSource Connections 
+489,eyang,Eric Yang,Apache Hadoop,Committer,IBM
+848,eyang,Eric Yang,Apache Ambari,Committer,IBM
+849,eyang,Eric Yang,Apache Ambari,PMC,IBM
+950,eyang,Eric Yang,Apache Ambari,PMC,IBM
+1981,eyang,Eric Yang,Ambari,NA,IBM
+2173,eyang,Eric Yang,Chukwa,NA,IBM
+2320,eyang,Eric Yang,Hadoop,NA,IBM
+1480,eyang,Eric Yang,Apache Hadoop,Committer,IBM 
+2644,er2644,Erick Tryzelaar,Sentry,NA,Cloudera
+2245,er2245,Erik B. Craig,Geronimo,NA,IBM
+1333,er2246,Erik B. Craig,Apache Geronimo,Committer,IBM 
+989,ehatcher,Erik Hatcher,Apache ANT,PMC,eHatcher Solutions, Inc
+1982,eboyd,Erin A. Boyd,Ambari,NA,Red Hat
+609,jtolentino,Ernesto Tolentino Jr.,Apache Maven,Emeritus,ASF
+1951,eroma,Eroma Abeysinghe,Airavata,NA,Indiana University
+549,eaf,Esteban Franqueiro,Apache Jackrabbit,Committer,BEA
+2470,eaf,Esteban Franqueiro,Jackrabbit,NA,BEA
+1564,eaf,Esteban Franqueiro,Apache Jackrabbit,Committer,BEA
+2388,esteban,Esteban Gutierrez,HBase,NA,Cloudera
+2434,ekoifman,Eugene Koifman,Hive,NA,Hortonworks
+2281,ekoontz,Eugene Koontz,Giraph,NA,Trend Micro
+2457,ev2457,Evans Ye,Ignite,NA,Trend Micro
+895,fmartelli,Fabio Martelli,Apache Syncope,PMC,Tirasa
+896,fmartelli,Fabio Martelli,Apache Syncope,Committer,Tirasa
+2750,fmartelli,Fabio Martelli,Syncope,NA,Tirasa
+1787,fmartelli,Fabio Martelli,Apache Syncope,PMC member,Tirasa 
+156,fa0156,Farhaan Mohideen,Apache Axis,Contributor,Lanka Software Foundation
+1143,fa1143,Farhaan Mohideen,Apache Axis2,Contributor,Lanka Software Foundation
+641,fa0641,Fay Wang,Apache OpenJPA,Committer,IBM Corporation
+2587,fa0642,Fay Wang,OpenJPA,NA,IBM
+1640,fa0643,Fay Wang,Apache OpenJPA,Committer,IBM Corporation 
+2063,fmeschbe,Felix Meschberger,Aries,NA,Adobe
+551,fmeschbe,Felix Meschberger,Apache Jackrabbit,Committer,Adobe
+2472,fmeschbe,Felix Meschberger,Jackrabbit,NA,Adobe
+758,fmeschbe,Felix Meschberger,Apache Sling,Committer,Adobe
+765,fmeschbe,Felix Meschberger,Apache Sling,PMC,Adobe
+1566,fmeschbe,Felix Meschberger,Apache Jackrabbit,Committer,Adobe
+1748,fmeschbe ,Felix Meschberger,Apache Sling,Java Developer,Adobe 
+1759,fmeschbe ,Felix Meschberger,Apache Sling,PMC,Adobe 
+2442,xuf,Ferdinand Xu,Hive,NA,Intel
+415,ferdy,Ferdy Galema,Apache Gora,Committer,Kalooga
+1371,ferdy,Ferdy Galema,Apache Gora,Committer,Kalooga
+1385,ferdy,Ferdy Galema,Apache Gora,PMC,Kalooga
+2159,fe2159,Fernando Ribeiro,Camel,NA,Red Hat
+1585,fbalicchia,Filippo Balicchia,Apache Karaf,NA,Energeya
+2097,fpj,Flavio Junqueira,Bookkeeper,NA,Microsoft
+2586,fr2586,Francesco Chicchiricc,OpenJPA,NA,Tirasa
+240,ilgrosso,Francesco Chicchiricc,Apache Cocoon,PMC,Tirasa
+241,ilgrosso,Francesco Chicchiricc,Apache Cocoon,Committer,Tirasa
+894,ilgrosso,Francesco Chicchiricc,Apache Syncope,PMC Chair,Tirasa
+897,ilgrosso,Francesco Chicchiricc,Apache Syncope,Committer,Tirasa
+2749,ilgrosso,Francesco Chicchiricc,Syncope,NA,Tirasa
+1786,ilgrosso,Francesco Chicchiricc,Apache Syncope,PMC chair,Tirasa 
+2473,frm,Francesco Mari,Jackrabbit,NA,Adobe
+880,toffer,Francis Christopher Liu,Apache HCatalog,Committer,Yahoo!
+881,toffer,Francis Christopher Liu,Apache HCatalog,PPMC,Yahoo!
+1549,toffer,Francis Christopher Liu,Apache Hive,Committer,Yahoo!
+686,fr0686,Frank Barnaby,Apache River,Emeritus Committer,Sun Microsystems
+808,frankscholten,Frank Scholten,Apache Whirr,Committer,Orange11
+1846,frankscholten,Frank Scholten,Apache Whirr,committer,Orange11
+2136,forsthofer,Franz Forsthofer,Camel,NA,SAP
+683,fr0683,Fred Oliver,Apache River,Emeritus Committer,Sun Microsystems
+707,ffang,Freeman Fang,Apache ServiceMix,Committer,FuseSource
+729,ffang,Freeman Fang,Apache ServiceMix,PMC,FuseSource
+1218,ffang,Freeman Fang,Apache Camel,Committer,Red Hat
+2137,ffang,Freeman Fang,Camel,NA,Red Hat
+2497,ffang,Freeman Fang,Karaf,NA,JBoss
+2672,ffang,Freeman Fang,ServiceMix,NA,FuseSource
+203,ffang,Freeman Fang,Apache Camel,Committer,FuseSource 
+572,ffang,Freeman Fang,Apache Karaf,Committer,FuseSource
+585,ffang,Freeman Fang,Apache Karaf,PMC,FuseSource
+1590,ffang,Freeman Fang,Apache Karaf,NA,FuseSource
+1693,ffang,Freeman Fang,Apache ServiceMix,Committer,FuseSource 
+1716,ffang,Freeman Fang,Apache ServiceMix,PMC,FuseSource 
+266,ga0266,Gabriele Garuglieri,Apache Commons Configuration,Contributor,Infoblu S.p.A
+1272,ga1272,Gabriele Garuglieri,Apache Commons Configuration,Contributor,Infoblu S.p.A
+2545,gcrawford,Gabrielle Crawford,MyFaces,NA,Oracle
+2435,gangtimliu,Gang Tim Liu,Hive,NA,Facebook
+1536,gangtimliu,Gang Tim Liu,Apache Hive,Committer,Facebook
+327,ggregory,Gary Gregory,Apache Commons Pool,Committer,Apache Software Foundation
+424,garyh,Gary Helmling,Apache Hbase,Committer,Twitter
+2383,garyh,Gary Helmling,HBase,NA,Facebook
+18,gtully,Gary Tully,ActiveMQ,Committer,Fuse Source
+923,gtully,Gary Tully,Apache ActiveMQ,Committer,Fuse Source
+1219,gtully,Gary Tully,Apache Camel,Committer,Red Hat
+1914,gtully,Gary Tully,ActiveMQ,NA,Red Hat
+2138,gtully,Gary Tully,Camel,NA,Red Hat
+204,gtully,Gary Tully,Apache Camel,Committer,FuseSource 
+151,ga0151,Gayan Asanka,Apache Axis,Contributor,Lanka Software Foundation
+1138,ga1138,Gayan Asanka,Apache Axis2,Contributor,Lanka Software Foundation
+342,ge0342,Geir Magnusson Jr.,Apache Geronimo,PMC,IBM
+386,ge0386,Geir Magnusson Jr.,Apache Geronimo,Committer,IBM
+629,ge0629,Geir Magnusson Jr.,Apache OpenJPA,PMC,Gilt Groupe
+642,ge0642,Geir Magnusson Jr.,Apache OpenJPA,Committer,Gilt Groupe
+1641,ge1641,Geir Magnusson Jr.,Apache OpenJPA,Committer,Gilt Groupe
+1655,ge1655,Geir Magnusson Jr.,Apache OpenJPA,PMC,Gilt Groupe
+2246,ge2246,Geir Magnusson Jr.,Geronimo,NA,Intel
+2588,ge2588,Geir Magnusson Jr.,OpenJPA,NA,Gilt Groupe
+162,geirm,Geir Magnusson Jr.,Apache Velocity,PMC Member,Independent (DVSL Maven)
+167,geirm,Geir Magnusson Jr.,Apache Velocity,Committer,Independent (DVSL Maven)
+295,geirm,Geir Magnusson Jr.,Apache Commons JEXL,Committer,independent
+975,geirm,Geir Magnusson Jr.,Apache Velocity Anakia,PMC Member,Independent (DVSL Maven)
+980,geirm,Geir Magnusson Jr.,Apache Velocity Anakia,Java developer,Independent (DVSL Maven)
+985,geirm,Geir Magnusson Jr.,Apache Velocity Anakia,Committer,Independent (DVSL Maven)
+1296,geirm,Geir Magnusson Jr.,Apache Commons JEXL,Committer,independent
+1303,geirm,Geir Magnusson Jr.,Apache Commons Jelly,Committer,Adeptra, Inc.
+1334,geirm,Geir Magnusson Jr.,Apache Geronimo,Committer,Intel 
+1833,geirm,Geir Magnusson Jr.,Apache Velocity,PMC Member,Independent (DVSL Maven) 
+1838,geirm,Geir Magnusson Jr.,Apache Velocity,Java developer,Independent (DVSL Maven) 
+301,geirm,Geir Magnusson Jr.,Apache Commons Jelly,Committer,Adeptra, Inc.
+2321,gera,Gera Shegalov,Hadoop,NA,Twitter
+1150,gpetracek,Gerhard Petracek,Apache BVal,PMC,IRIAN Solutions GmbH
+173,gpetracek,Gerhard Petracek,Apache Bean Validation,PMC,IRIAN Solutions GmbH 
+184,gpetracek,Gerhard Petracek,Apache Bean Validation,Committer,IRIAN Solutions GmbH 
+708,gertv,Gert Vanthienen,Apache ServiceMix,Committer,anova
+730,gertv,Gert Vanthienen,Apache ServiceMix,PMC,anova
+1220,gertv,Gert Vanthienen,Apache Camel,Committer,Red Hat
+2139,gertv,Gert Vanthienen,Camel,NA,Red Hat
+2506,gertv,Gert Vanthienen,Karaf,NA,JBoss
+2673,gertv,Gert Vanthienen,ServiceMix,NA,anova
+205,gertv,Gert Vanthienen,Apache Camel,Committer,FuseSource 
+581,gertv,Gert Vanthienen,Apache Karaf,Committer,FuseSource
+592,gertv,Gert Vanthienen,Apache Karaf,PMC,FuseSource
+1600,gertv,Gert Vanthienen,Apache Karaf,NA,FuseSource
+1694,gertv,Gert Vanthienen,Apache ServiceMix,Committer,anova 
+1717,gertv,Gert Vanthienen,Apache ServiceMix,PMC,anova 
+2761,giacomolm,Giacomo Lamonaco,Syncope,NA,Tirasa
+745,gi0745,Gianfranco Boccalon,Apache ServiceMix,Contributor,Engineering Ingegneria Informa
+2696,gi0746,Gianfranco Boccalon,ServiceMix,NA,Engineering Ingegneria Informa
+1732,gi0747,Gianfranco Boccalon,Apache ServiceMix,Contributor,Engineering Ingegneria Informa
+343,gi0343,Gianny D'Amour,Apache Geronimo,PMC,Intel
+387,gi0344,Gianny D'Amour,Apache Geronimo,Committer,Intel
+2028,gkesavan,Giridharan Kesavan,Ambari,NA,Hortonworks
+450,gkesavan,Giridharan Kesavan,Apache Hadoop,PMC,Hortonworks
+490,gkesavan,Giridharan Kesavan,Apache Hadoop,Committer,Hortonworks
+659,gkesavan,Giridharan Kesavan,Apache Pig,PMC member, Release,HortonWorks
+672,gkesavan,Giridharan Kesavan,Apache Pig,Committer,HortonWorks
+2322,gkesavan,Giridharan Kesavan,Hadoop,NA,Hortonworks
+2612,gkesavan,Giridharan Kesavan,Pig,NA,HortonWorks
+2785,gkesavan,Giridharan Kesavan,Zookeeper,NA,Hortonworks
+1431,gkesavan,Giridharan Kesavan,Apache Hadoop,PMC,Hortonworks 
+1481,gkesavan,Giridharan Kesavan,Apache Hadoop,Committer,Hortonworks 
+1664,gkesavan,Giridharan Kesavan,Apache PIG,PMC member,HortonWorks 
+2561,totaro,Giuseppe Totaro,Nutch,NA,NASA JPL
+92,gdaniels,Glen Daniels,Apache Axiom,Committer,Sonic Software
+117,gdaniels,Glen Daniels,Apache Axis,Committer,Sonic Software
+775,gdaniels,Glen Daniels,Apache Synapse,Committer,WSO2
+1078,gdaniels,Glen Daniels,Apache Axiom,Committer,Sonic Software
+1104,gdaniels,Glen Daniels,Apache Axis2,Committer,Sonic Software
+1770,gdaniels,Glen Daniels,Apache Synapse,Committer,WSO2
+2733,gdaniels,Glen Daniels,Synapse,NA,WSO2
+37,gl0037,Glen Klyuzner,ActiveMQ,Contributor,Tullib
+1195,gl0038,Glen Klyuzner,Apache Camel,Contributor,Tullib
+1934,gl0039,Glen Klyuzner,ActiveMQ,NA,Tullib
+2160,gl0040,Glen Klyuzner,Camel,NA,Tullib
+224,gl0041,Glen Klyuzner,Apache Camel,Contributor,Tullib 
+1612,gcapan,Gokhan Capan,Apache Mahout,Committer,Dilisim 
+2412,gopalv,Gopal Vijayaraghavan,Hive,NA,Hortonworks
+2103,Gerhard Petracek,gpetracek,BVal,NA,IRIAN Solutions GmbH
+746,gr0746,Gregoire A. Autric,Apache ServiceMix,Contributor,Capgemini France
+2697,gr0747,Gregoire A. Autric,ServiceMix,NA,Capgemini France
+1733,gr0748,Gregoire A. Autric,Apache ServiceMix,Contributor,Capgemini France
+2174,grace.huang,Grace Huang,Chukwa,NA,Intel
+60,gr0060,Graham Charters,Apache Aries,PMC,IBM
+1039,gr0061,Graham Charters,Apache Aries,PMC,IBM
+2064,gr0062,Graham Charters,Aries,NA,IBM
+1847,graham.gear,Graham Gear,Apache Whirr,committer,Cloudera
+842,gturrell,Graham Turrell,Apache Woden,Committer,IBM
+1871,gturrell,Graham Turrell,Apache Woden,Committer,IBM 
+1603,gsingers,Grant Ingersoll,Apache Mahout,PMC Chair,LucidWorks 
+2645,gr2645,Greg Chanan,Sentry,NA,Cloudera
+754,gr0754,Greg Lucas,Apache ServiceMix,Contributor,Progress
+2704,gr0755,Greg Lucas,ServiceMix,NA,Progress
+1740,gr0756,Greg Lucas,Apache ServiceMix,Contributor,Progress
+681,gr0681,Greg Trasuk,Apache River,Committer,StratusCom Manufacturing Syste
+2638,gr0682,Greg Trasuk,River,NA,StratusCom Manufacturing Syste
+1673,gr0683,Greg Trasuk,Apache River,Committer,StratusCom Manufacturing Syste
+372,gregw,Greg Wilkins,Apache Geronimo,Committer,IBM
+2247,gregw,Greg Wilkins,Geronimo,NA,Mortbay
+19,gregw,Greg Wilkins,ActiveMQ,Committer,MortBay
+709,gregw,Greg Wilkins,Apache ServiceMix,Committer,MortBay
+924,gregw,Greg Wilkins,Apache ActiveMQ,Committer,MortBay
+1915,gregw,Greg Wilkins,ActiveMQ,NA,MortBay
+2674,gregw,Greg Wilkins,ServiceMix,NA,MortBay
+1335,gregw,Greg Wilkins,Apache Geronimo,Committer,Mortbay 
+1695,gregw,Greg Wilkins,Apache ServiceMix,Committer,MortBay 
+425,gchanan,Gregory Chanan,Apache Hbase,Committer,Cloudera
+2384,gchanan,Gregory Chanan,HBase,NA,Cloudera
+1401,gchanan,Gregory Chanan,Apache HBase,Committer,Cloudera 
+2759,gwimmel,Guido Wimmel,Syncope,NA,Stadtwerke MÌ_nchen Services Gm
+1803,gu1803,Guido Wimmel,Apache Syncope,Contributor,Stadtwerke MÌ_nchen Services Gm
+20,gnodet,Guillaume Nodet,ActiveMQ,Committer,Fuse Source
+617,gnodet,Guillaume Nodet,Apache ODE,PMC,Iona
+621,gnodet,Guillaume Nodet,Apache ODE,Committer,Iona
+710,gnodet,Guillaume Nodet,Apache ServiceMix,Committer,FuseSource
+731,gnodet,Guillaume Nodet,Apache ServiceMix,PMC,FuseSource
+925,gnodet,Guillaume Nodet,Apache ActiveMQ,Committer,Fuse Source
+1221,gnodet,Guillaume Nodet,Apache Camel,Committer,Red Hat
+1916,gnodet,Guillaume Nodet,ActiveMQ,NA,Red Hat
+2140,gnodet,Guillaume Nodet,Camel,NA,Red Hat
+2502,gnodet,Guillaume Nodet,Karaf,NA,JBoss
+2675,gnodet,Guillaume Nodet,ServiceMix,NA,FuseSource
+61,gu0061,Guillaume Nodet,Apache Aries,PMC,Progress
+1040,gu1040,Guillaume Nodet,Apache Aries,PMC,Progress
+2065,gu2065,Guillaume Nodet,Aries,NA,Progress
+2248,gu2248,Guillaume Nodet,Geronimo,NA,IONA
+206,gnodet,Guillaume Nodet,Apache Camel,Committer,FuseSource 
+577,gnodet,Guillaume Nodet,Apache Karaf,Committer,FuseSource
+590,gnodet,Guillaume Nodet,Apache Karaf,PMC,FuseSource
+1596,gnodet,Guillaume Nodet,Apache Karaf,NA,FuseSource
+1624,gnodet,Guillaume Nodet,Apache ODE,PMC,Iona 
+1628,gnodet,Guillaume Nodet,Apache ODE,Developer,Iona 
+1696,gnodet,Guillaume Nodet,Apache ServiceMix,Committer,FuseSource 
+1718,gnodet,Guillaume Nodet,Apache ServiceMix,PMC,FuseSource 
+1336,gu1336,Guillaume Nodet,Apache Geronimo,Committer,IONA 
+2413,gunther,Gunther Hagleitner,Hive,NA,Hortonworks
+1537,gunther,Gunther Hagleitner,Apache Hive,Committer,Hortonworks
+2718,gwenshap,Gwen Shapira,Sqoop,NA,Cloudera
+21,hadrian,Hadrian Zbarcea,ActiveMQ,Committer,Talend
+926,hadrian,Hadrian Zbarcea,Apache ActiveMQ,Committer,Talend
+1222,hadrian,Hadrian Zbarcea,Apache Camel,Committer,Talend
+1917,hadrian,Hadrian Zbarcea,ActiveMQ,NA,Talend
+2141,hadrian,Hadrian Zbarcea,Camel,NA,Talend
+207,hadrian,Hadrian Zbarcea,Apache Camel,Committer,Talend 
+373,ha0373,Hai Hong Xu,Apache Geronimo,Committer,Mortbay
+1337,ha1337,Hai Hong Xu,Apache Geronimo,Committer,IBM 
+2249,ha2249,Hai Hong Xu,Geronimo,NA,IBM
+451,hairong,Hairong Kuang,Apache Hadoop,PMC,Facebook
+492,hairong,Hairong Kuang,Apache Hadoop,Committer,Facebook
+2325,hairong,Hairong Kuang,Hadoop,NA,Facebook
+1432,hairong,Hairong Kuang,Apache Hadoop,PMC,Facebook 
+1483,hairong,Hairong Kuang,Apache Hadoop,Committer,Facebook 
+38,ha0038,Hakan Guleryuz,ActiveMQ,Contributor,ASPone
+1196,ha0039,Hakan Guleryuz,Apache Camel,Contributor,ASPone
+1935,ha0040,Hakan Guleryuz,ActiveMQ,NA,ASPone
+2161,ha0041,Hakan Guleryuz,Camel,NA,ASPone
+225,ha0042,Hakan Guleryuz,Apache Camel,Contributor,ASPone 
+2646,ha2646,Hao Hao,Sentry,NA,Cloudera
+2444,harisankar,Hari Sankar Sivarama Subramaniyan,Hive,NA,Hortonworks
+2224,hshreedharan,Hari Shreedharan,Flume,NA,Cloudera
+2719,hshreedharan,Hari Shreedharan,Sqoop,NA,Cloudera
+2421,rhbutani,Harish Butani,Hive,NA,Hortonworks
+1543,rhbutani,Harish Butani,Apache Hive,Committer,Hortonworks
+493,harsh,Harsh Chouraria,Apache Hadoop,Committer,Cloudera
+2326,harsh,Harsh Chouraria,Hadoop,NA,Cloudera
+2575,harsh,Harsh Chouraria,Oozie,NA,Cloudera
+1484,harsh,Harsh J,Apache Hadoop,Committer,Cloudera 
+2549,hazems,Hazem Saleh,MyFaces,NA,IBM
+531,he yongqiang,He Yongqiang,Apache Hive,Committer,Facebook
+2507,hkesler,Heath Kesler,Karaf,NA,Savoir Technologies
+582,hkesler,Heath Kesler,Apache Karaf,Committer,Savoir Technologies
+1601,hkesler,Heath Kesler,Apache Karaf,NA,Savoir Technologies
+643,he0643,Heath Thomann,Apache OpenJPA,Committer,IBM Corporation
+2589,he2589,Heath Thomann,OpenJPA,NA,IBM
+1642,he1642,Heath Thomann,Apache OpenJPA,Committer,IBM Corporation 
+1161,he1161,Helder Magalhaes,Apache Batik,Committer,Efacec
+644,he0644,Helen Xu,Apache OpenJPA,Committer,IBM Corporation
+1643,he1643,Helen Xu,Apache OpenJPA,Committer,IBM Corporation 
+2590,he2590,Helen Xu,OpenJPA,NA,IBM
+164,henning,Henning P. Schmiedehausen,Apache Velocity,PMC Member,The Henning Schmiedehausen Org
+169,henning,Henning P. Schmiedehausen,Apache Velocity,Committer,The Henning Schmiedehausen Org
+814,henning,Henning P. Schmiedehausen,Apache Turbine,Emeritus PMC Member,INTERMETA - Gesellschaft fÌ_r M
+977,henning,Henning P. Schmiedehausen,Apache Velocity Anakia,PMC Member,The Henning Schmiedehausen Org
+982,henning,Henning P. Schmiedehausen,Apache Velocity Anakia,Java developer,The Henning Schmiedehausen Org
+987,henning,Henning P. Schmiedehausen,Apache Velocity Anakia,Committer,The Henning Schmiedehausen Org
+1830,henning,Henning P. Schmiedehausen,Apache Turbine,PMC Emeritus,INTERMETA - Gesellschaft fÌ_r M
+1835,henning,Henning P. Schmiedehausen,Apache Velocity,PMC Member,The Henning Schmiedehausen Org
+1840,henning,Henning P. Schmiedehausen,Apache Velocity,Java developer,The Henning Schmiedehausen Org
+2225,henry,Henry Robinson,Flume,NA,Cloudera
+2783,henry,Henry Robinson,Zookeeper,NA,Cloudera
+1223,hekonsek,Henryk Konsek,Apache Camel,Committer,Red Hat
+2142,hekonsek,Henryk Konsek,Camel,NA,Red Hat
+344,he0344,Hernan Cunico,Apache Geronimo,PMC,IONA
+388,he0388,Hernan Cunico,Apache Geronimo,Committer,IONA
+598,hboutemy,HervÌ© Boutemy,Apache Maven,PMC Member,ASF
+790,heshan,Heshan Suriyaarachchi,Apache Synapse,Committer,WSO2
+1785,heshan,Heshan Suriyaarachchi,Apache Synapse,Committer,WSO2
+2748,heshan,Heshan Suriyaarachchi,Synapse,NA,WSO2
+2188,Humberto Hernandez,hhernandez,Db,NA,Integrated Technology S.C.
+22,chirino,Hiram Chirino,ActiveMQ,Committer,Fuse Source
+711,chirino,Hiram Chirino,Apache ServiceMix,Committer,FuseSource
+732,chirino,Hiram Chirino,Apache ServiceMix,PMC,FuseSource
+927,chirino,Hiram Chirino,Apache ActiveMQ,Committer,Fuse Source
+1224,chirino,Hiram Chirino,Apache Camel,Committer,Red Hat
+1918,chirino,Hiram Chirino,ActiveMQ,NA,Red Hat
+2143,chirino,Hiram Chirino,Camel,NA,Red Hat
+2495,chirino,Hiram Chirino,Karaf,NA,JBoss
+2676,chirino,Hiram Chirino,ServiceMix,NA,FuseSource
+62,hi0062,Hiram Chirino,Apache Aries,PMC,Progress
+1041,hi1041,Hiram Chirino,Apache Aries,PMC,Progress
+2066,hi2066,Hiram Chirino,Aries,NA,Progress
+2250,hi2250,Hiram Chirino,Geronimo,NA,IONA
+208,chirino,Hiram Chirino,Apache Camel,Committer,FuseSource 
+570,chirino,Hiram Chirino,Apache Karaf,Committer,FuseSource
+1587,chirino,Hiram Chirino,Apache Karaf,NA,FuseSource
+1697,chirino,Hiram Chirino,Apache ServiceMix,Committer,FuseSource 
+1719,chirino,Hiram Chirino,Apache ServiceMix,PMC,FuseSource 
+1338,hi1338,Hiram Chirino,Apache Geronimo,Committer,IONA 
+788,hiranya,Hiranya Jayathilaka,Apache Synapse,Committer,WSO2
+1783,hiranya,Hiranya Jayathilaka,Apache Synapse,Committer,WSO2
+2746,hiranya,Hiranya Jayathilaka,Synapse,NA,WSO2
+491,hitesh,Hitesh Shah,Apache Hadoop,Committer,Hortonworks
+850,hitesh,Hitesh Shah,Apache Ambari,Committer,Hortonworks
+851,hitesh,Hitesh Shah,Apache Ambari,PMC,Hortonworks
+951,hitesh,Hitesh Shah,Apache Ambari,PMC,Hortonworks
+1983,hitesh,Hitesh Shah,Ambari,NA,Hortonworks
+2324,hitesh,Hitesh Shah,Hadoop,NA,Hortonworks
+1433,hitesh,Hitesh Shah,Apache Hadoop,PMC,Hortonworks 
+1482,hitesh,Hitesh Shah,Apache Hadoop,Committer,Hortonworks 
+63,ho0063,Holly Cummins,Apache Aries,PMC,IBM
+1042,ho1042,Holly Cummins,Apache Aries,PMC,IBM
+2067,ho2067,Holly Cummins,Aries,NA,IBM
+374,ho0374,Hong Fang Han 'Janet',Apache Geronimo,Committer,IBM
+1339,ho1339,Hong Fang Han 'Janet',Apache Geronimo,Committer,IBM 
+2251,ho2251,"Hong Fang Han ""Janet""",Geronimo,NA,IBM
+2789,hdeng,Hongchao Deng,Zookeeper,NA,Cloudera
+748,ho0748,Hossam Karim,Apache ServiceMix,Contributor,GAIA-TI
+2699,ho2699,Hossam Karim,ServiceMix,NA,GAIA-TI
+1735,ho1735,Hossam Karim,Apache ServiceMix,Contributor,GAIA-TI
+830,hhernandez,Humberto Hernandez,Apache Torque,Committer,Integrated Technology S.C.
+1810,hhernandez,Humberto Hernandez,Apache Torque,Java Developer,Integrated Technology S.C.
+1890,hu1890,Hung Pham,Accumulo,NA,Cloudera
+1752,ieb ,Ian Boston,Apache Sling,Java Developer,Adobe 
+1762,ieb ,Ian Boston,Apache Sling,PMC,Adobe 
+2533,ia2533,Ian Downes,Mesos,NA,Twitter
+64,ia0064,Ian Robinson,Apache Aries,PMC,IBM
+1043,ia1043,Ian Robinson,Apache Aries,PMC,IBM
+2068,ia2068,Ian Robinson,Aries,NA,IBM
+2710,im2710,Imran Rashid,Spark,NA,Cloudera
+779,indika,Indika Kumara,Apache Synapse,Committer,WSO2
+1774,indika,Indika Kumara,Apache Synapse,Committer,WSO2
+2737,indika,Indika Kumara,Synapse,NA,WSO2
+416,iocanel,Ioannis Canellos,Apache Gora,Committer,FuseSource
+712,iocanel,Ioannis Canellos,Apache ServiceMix,Committer,Upstream S.A.
+807,iocanel,Ioannis Canellos,Apache Whirr,Committer,FuseSource
+1225,iocanel,Ioannis Canellos,Apache Camel,Committer,Red Hat
+1372,iocanel,Ioannis Canellos,Apache Gora,Committer,RedHat
+1386,iocanel,Ioannis Canellos,Apache Gora,PMC,RedHat
+1848,iocanel,Ioannis Canellos,Apache Whirr,committer,FuseSource
+2144,iocanel,Ioannis Canellos,Camel,NA,Red Hat
+2290,iocanel,Ioannis Canellos,Gora,NA,Red Hat
+2494,iocanel,Ioannis Canellos,Karaf,NA,JBoss
+2677,iocanel,Ioannis Canellos,ServiceMix,NA,Upstream S.A.
+209,iocanel,Ioannis Canellos,Apache Camel,Committer,FuseSource 
+569,iocanel,Ioannis Canellos,Apache Karaf,Committer,FuseSource
+583,iocanel,Ioannis Canellos,Apache Karaf,PMC,FuseSource
+1586,iocanel,Ioannis Canellos,Apache Karaf,NA,FuseSource
+1698,iocanel,Ioannis Canellos,Apache ServiceMix,Committer,Upstream S.A. 
+1604,isabel,Isabel Drost-Fromm,Apache Mahout,PMC,Homepage, Blog 
+2034,iv2034,Ivan Mitic,Ambari,NA,Microsoft
+2327,ivanmi,Ivan Mitic,Hadoop,NA,Microsoft
+1485,ivanmi,Ivan Mitic,Apache Hadoop,Committer,Microsoft 
+816,hoffmann,JÌ_rgen Hoffmann,Apache Turbine,Committer,ByteAction GmbH
+822,hoffmann,JÌ_rgen Hoffmann,Apache Turbine,PMC Member,HEAG MediaNet GmbH
+2772,hoffmann,JÌ_rgen Hoffmann,Turbine,NA,HEAG MediaNet GmbH
+1818,hoffmann,JÌ_rgen Hoffmann,Apache Turbine,PMC Member,HEAG MediaNet GmbH 
+1824,hoffmann,JÌ_rgen Hoffmann,Apache Turbine,Java Developer,ByteAction GmbH 
+1828,hoffmann,JÌ_rgen Hoffmann,Apache Turbine,Committer,ByteAction GmbH 
+345,ja0345,Jacek Laskowski,Apache Geronimo,PMC,IONA
+389,ja0389,Jacek Laskowski,Apache Geronimo,Committer,IONA
+1891,ja1891,Jacob Meisler,Accumulo,NA,Booz Allen Hamilton
+952,jagane,Jagane Sundar,Apache Ambari,PMC,WANdisco
+1984,jagane,Jagane Sundar,Ambari,NA,WANdisco
+953,jaimin,Jaimin Jetly,Apache Ambari,PMC,Hortonworks
+1985,jaimin,Jaimin Jetly,Ambari,NA,Hortonworks
+2279,jake.mannix,Jake Mannix,Giraph,NA,Twitter
+452,jghoman,Jakob Homan,Apache Hadoop,PMC,LinkedIn
+495,jghoman,Jakob Homan,Apache Hadoop,Committer,LinkedIn
+2277,jghoman,Jakob Homan,Giraph,NA,LinkedIn
+2328,jghoman,Jakob Homan,Hadoop,NA,LinkedIn
+2767,jghoman,Jakob Homan,Tajo,NA,Microsoft
+1435,jghoman,Jakob Homan,Apache Hadoop,PMC,LinkedIn 
+1487,jghoman,Jakob Homan,Apache Hadoop,Committer,LinkedIn 
+93,jaliya,Jaliya Ekanayake,Apache Axiom,Committer,Virtusa / Lanka Software Found
+119,jaliya,Jaliya Ekanayake,Apache Axis,Committer,Indiana University, USA
+691,jaliya,Jaliya Ekanayake,Apache Sandesha,Committer,Indiana University, USA
+1079,jaliya,Jaliya Ekanayake,Apache Axiom,Committer,Virtusa / Lanka Software Found
+1106,jaliya,Jaliya Ekanayake,Apache Axis2,Committer,Indiana University, USA
+1676,jaliya,Jaliya Ekanayake,Apache Sandesha,Committer,Indiana University, USA
+308,jcarman,James Carman,Apache Commons Lang,Committer,Carman Consulting, Inc.
+328,jcarman,James Carman,Apache Commons Proxy,Committer,Carman Consulting, Inc.
+334,jcarman,James Carman,Apache Commons VFS,Committer,Apache Software Foundation
+1310,jcarman,James Carman,Apache Commons Lang,Committer,Carman Consulting, Inc.
+1315,jcarman,James Carman,Apache Commons Proxy,Committer,Carman Consulting, Inc.
+1319,jcarman,James Carman,Apache Commons VFS,Committer,Apache Software Foundation
+995,ja0995,James Duncan Davidson,Apache ANT,Emeritus PMC,Sun Microsystems
+336,jmitchell,James Mitchell,Apache Commons Validator,Committer,EdgeTech, Inc
+1321,jmitchell,James Mitchell,Apache Commons Validator,Committer,EdgeTech, Inc
+1180,jamespage,James Page,Apache Bigtop,committer,Canonical 
+65,ja0065,James Strachan,Apache Aries,PMC,Progress
+1044,ja1044,James Strachan,Apache Aries,PMC,Progress
+2069,ja2069,James Strachan,Aries,NA,Progress
+2252,ja2252,James Strachan,Geronimo,NA,IONA
+23,jstrachan,James Strachan,ActiveMQ,Committer,Fuse Source
+250,jstrachan,James Strachan,Apache Commons CLI,Committer,SpiritSoft, Inc.
+271,jstrachan,James Strachan,Apache Commons Discovery,Committer,SpiritSoft, Inc.
+298,jstrachan,James Strachan,Apache Commons JEXL,Committer,SpiritSoft, Inc.
+331,jstrachan,James Strachan,Apache Commons VFS,Committer,SpiritSoft, Inc.
+714,jstrachan,James Strachan,Apache ServiceMix,Committer,FuseSource
+733,jstrachan,James Strachan,Apache ServiceMix,PMC,FuseSource
+928,jstrachan,James Strachan,Apache ActiveMQ,Committer,Fuse Source
+1230,jstrachan,James Strachan,Apache Camel,Committer,Red Hat
+1248,jstrachan,James Strachan,Apache Commons CLI,Committer,SpiritSoft, Inc.
+1277,jstrachan,James Strachan,Apache Commons Discovery,NA,SpiritSoft, Inc.
+1299,jstrachan,James Strachan,Apache Commons JEXL,Committer,SpiritSoft, Inc.
+1302,jstrachan,James Strachan,Apache Commons Jelly,Committer,SpiritSoft, Inc.
+1316,jstrachan,James Strachan,Apache Commons VFS,Committer,SpiritSoft, Inc.
+1919,jstrachan,James Strachan,ActiveMQ,NA,Red Hat
+2149,jstrachan,James Strachan,Camel,NA,Red Hat
+2504,jstrachan,James Strachan,Karaf,NA,JBoss
+2679,jstrachan,James Strachan,ServiceMix,NA,FuseSource
+1340,ja1340,James Strachan,Apache Geronimo,Committer,IONA 
+214,jstrachan,James Strachan,Apache Camel,Committer,FuseSource 
+579,jstrachan,James Strachan,Apache Karaf,Committer,FuseSource
+1242,jstrachan,James Strachan,Apache Commons Betwixt,Committer,SpiritSoft, Inc. 
+1598,jstrachan,James Strachan,Apache Karaf,NA,FuseSource
+1700,jstrachan,James Strachan,Apache ServiceMix,Committer,FuseSource 
+1720,jstrachan,James Strachan,Apache ServiceMix,PMC,FuseSource 
+715,jgoodyear,Jamie Goodyear,Apache ServiceMix,Committer,Savoir Technologies
+2499,jgoodyear,Jamie Goodyear,Karaf,NA,Savoir Technologies
+2680,jgoodyear,Jamie Goodyear,ServiceMix,NA,Savoir Technologies
+574,jgoodyear,Jamie Goodyear,Apache Karaf,Committer,Savoir Technologies
+587,jgoodyear,Jamie Goodyear,Apache Karaf,PMC,Savoir Technologies
+1592,jgoodyear,Jamie Goodyear,Apache Karaf,NA,Savoir Technologies
+1701,jgoodyear,Jamie Goodyear,Apache ServiceMix,Committer,Savoir Technologies 
+265,ja0265,Jamie M. Guillemette,Apache Commons Configuration,Contributor,TD Bank
+1271,ja1271,Jamie M. Guillemette,Apache Commons Configuration,Contributor,TD Bank
+346,ja0346,Jan Bartel,Apache Geronimo,PMC,IONA
+390,ja0390,Jan Bartel,Apache Geronimo,Committer,IONA
+2253,ja2253,Jan Bartel,Geronimo,NA,Mortbay
+713,janb,Jan Bartel,Apache ServiceMix,Committer,MortBay
+2678,janb,Jan Bartel,ServiceMix,NA,MortBay
+1341,ja1341,Jan Bartel,Apache Geronimo,Committer,Mortbay 
+1699,janb,Jan Bartel,Apache ServiceMix,Committer,MortBay 
+908,jbernhardt,Jan Bernhardt,Apache Syncope,Committer,Talend
+909,jbernhardt,Jan Bernhardt,Apache Syncope,PMC,Talend
+2756,jbernhardt,Jan Bernhardt,Syncope,NA,Talend
+1796,jbernhardt,Jan Bernhardt,Apache Syncope,PMC member,Talend 
+276,luehe,Jan Luehe,Apache Commons EL,Committer,Sun Microsystems, Inc.
+1280,luehe,Jan Luehe,Apache Commons El,Committer,Sun Microsystems, Inc.
+1992,matyix,Janos Matyas,Ambari,NA,Hortonworks
+66,ja0066,Jarek Gawor,Apache Aries,PMC,IBM
+347,ja0347,Jarek Gawor,Apache Geronimo,PMC,Mortbay
+391,ja0391,Jarek Gawor,Apache Geronimo,Committer,Mortbay
+1045,ja1045,Jarek Gawor,Apache Aries,PMC,IBM
+2070,ja2070,Jarek Gawor,Aries,NA,IBM
+2254,ja2254,Jarek Gawor,Geronimo,NA,IBM
+2498,jgawor,Jarek Gawor,Karaf,NA,IBM
+1342,ja1342,Jarek Gawor,Apache Geronimo,PMC Chair,IBM 
+573,jgawor,Jarek Gawor,Apache Karaf,Committer,IBM
+586,jgawor,Jarek Gawor,Apache Karaf,PMC,IBM
+1591,jgawor,Jarek Gawor,Apache Karaf,NA,IBM
+2647,ja2647,Jarek Jarcec Cecho,Sentry,NA,Cloudera
+2226,jarcec,Jaroslav Cecho,Flume,NA,Cloudera
+2720,jarcec,Jaroslav Cecho,Sqoop,NA,Cloudera
+2705,ja2705,Jason Dai,Spark,NA,Intel
+2423,jdere,Jason Dere,Hive,NA,Hortonworks
+348,ja0348,Jason Dillon,Apache Geronimo,PMC,IBM
+392,ja0392,Jason Dillon,Apache Geronimo,Committer,IBM
+497,jlowe,Jason Lowe,Apache Hadoop,Committer,Yahoo!
+1437,jlowe,Jason Lowe,Apache Hadoop,PMC,Yahoo! 
+1491,jlowe,Jason Lowe,Apache Hadoop,Committer,Yahoo! 
+257,jvanzyl,Jason van Zyl,Apache Commons Configuration,Committer,Zenplex
+283,jvanzyl,Jason van Zyl,Apache Commons Email,Committer,Zenplex
+288,jvanzyl,Jason van Zyl,Apache Commons FileUpload,Committer,Zenplex
+1243,jvanzyl,Jason van Zyl,Apache Commons Betwixt,Committer,Zenplex 
+1255,jvanzyl,Jason van Zyl,Apache Commons Configuration,Java Developer,Zenplex 
+1263,jvanzyl,Jason van Zyl,Apache Commons Configuration,Committer,Zenplex 
+1286,jvanzyl,Jason van Zyl,Apache Commons Email,Committer,Zenplex 
+1343,ja1343,Jason Warner,Apache Geronimo,Committer,IBM 
+2255,ja2255,Jason Warner,Geronimo,NA,IBM
+349,ja0349,Jay D. McHugh,Apache Geronimo,PMC,IBM
+393,ja0393,Jay D. McHugh,Apache Geronimo,Committer,IBM
+108,jaya,Jayachandra Sekhara Rao Sunkara,Apache Axiom,Committer,Computer Associates
+143,jaya,Jayachandra Sekhara Rao Sunkara,Apache Axis,Committer,Computer Associates
+1094,jaya,Jayachandra Sekhara Rao Sunkara,Apache Axiom,Committer,Computer Associates
+1130,jaya,Jayachandra Sekhara Rao Sunkara,Apache Axis2,Committer,Computer Associates
+2577,jaydeep,Jaydeep Vishwakarma,Oozie,NA,Inmobi
+1987,jluniya,Jayush Luniya,Ambari,NA,Hortonworks
+2071,je2071,Jean-Baptiste OnofrÌÄå©,Aries,NA,Talend
+716,jbonofre,Jean-Baptiste Onofre,Apache ServiceMix,Committer,Fimasys
+734,jbonofre,Jean-Baptiste Onofre,Apache ServiceMix,PMC,Fimasys
+906,jbonofre,Jean-Baptiste Onofre,Apache Syncope,Committer,Talend
+907,jbonofre,Jean-Baptiste Onofre,Apache Syncope,PMC,Talend
+1023,jbonofre,Jean-Baptiste Onofre,Apache Archiva,Committer,Talend
+1226,jbonofre,Jean-Baptiste Onofre,Apache Camel,Committer,Talend
+1920,jbonofre,Jean-Baptiste Onofre,ActiveMQ,NA,Talend
+2145,jbonofre,Jean-Baptiste Onofre,Camel,NA,Talend
+2211,jbonofre,Jean-Baptiste Onofre,Falcon,NA,Talend
+2503,jbonofre,Jean-Baptiste Onofre,Karaf,NA,Talend
+2681,jbonofre,Jean-Baptiste Onofre,ServiceMix,NA,Fimasys
+2755,jbonofre,Jean-Baptiste Onofre,Syncope,NA,Talend
+210,jbonofre,Jean-Baptiste Onofre,Apache Camel,Committer,Talend 
+578,jbonofre,Jean-Baptiste Onofre,Apache Karaf,Committer,Talend
+591,jbonofre,Jean-Baptiste Onofre,Apache Karaf,PMC,Talend
+1597,jbonofre,Jean-Baptiste Onofre,Apache Karaf,NA,Talend
+1702,jbonofre,Jean-Baptiste Onofre,Apache ServiceMix,Committer,Fimasys 
+1721,jbonofre,Jean-Baptiste Onofre,Apache ServiceMix,PMC,Fimasys 
+1795,jbonofre,Jean-Baptiste Onofre,Apache Syncope,PMC member,Talend 
+1749,jckautzmann,Jean-Christophe Kautzmann,Apache Sling,Java Developer,Adobe 
+426,jdcryans,Jean-Daniel Cryans,Apache Hbase,Committer,Cloudera
+2385,jdcryans,Jean-Daniel Cryans,HBase,NA,Cloudera
+1402,jdcryans,Jean-Daniel Cryans,Apache HBase,Committer,Cloudera 
+67,je0067,Jean-Sebastien Delfino,Apache Aries,PMC,IBM
+1046,je1046,Jean-Sebastien Delfino,Apache Aries,PMC,IBM
+2072,je2072,Jean-Sebastien Delfino,Aries,NA,IBM
+2546,jwaldman,Jeanne Waldman,MyFaces,NA,Oracle
+115,u115,Jeff Barrett,Apache Axis,Committer,IBM
+1102,u1102,Jeff Barrett,Apache Axis2,Committer,IBM
+289,jsdever,Jeff Dever,Apache Commons HTTP Client,Committer,Independent consultant
+1289,jsdever,Jeff Dever,Apache Commons HTTP Client,Committer,Independent consultant 
+1606,jeastman,Jeff Eastman,Apache Mahout,PMC Emeritus,WindwardSolutions 
+1011,jfield,Jeff Field,Apache Accumulo,Contributor,Cloudera
+1892,jfield,Jeff Field,Accumulo,NA,Cloudera
+2256,je2256,Jeff Genender,Geronimo,NA,Savoir Technologies
+717,jgenender,Jeff Genender,Apache ServiceMix,Committer,Savoir Technologies
+735,jgenender,Jeff Genender,Apache ServiceMix,PMC,Savoir Technologies
+1227,jgenender,Jeff Genender,Apache Camel,Committer,Savoir Technologies
+1921,jgenender,Jeff Genender,ActiveMQ,NA,Savoir Technologies
+2146,jgenender,Jeff Genender,Camel,NA,Savoir Technologies
+2682,jgenender,Jeff Genender,ServiceMix,NA,Savoir Technologies
+1344,je1344,Jeff Genender,Apache Geronimo,Committer,Savoir Technologies 
+211,jgenender,Jeff Genender,Apache Camel,Committer,Savoir Technologies 
+1703,jgenender,Jeff Genender,Apache ServiceMix,Committer,Savoir Technologies 
+1722,jgenender,Jeff Genender,Apache ServiceMix,PMC,Savoir Technologies 
+88,hammer,Jeff Hammerbacher,Apache Avro,Committer,Cloudera
+1064,hammer,Jeff Hammerbacher,Apache Avro,python,Cloudera
+1070,hammer,Jeff Hammerbacher,Apache Avro,Committer,Cloudera
+2091,hammer,Jeff Hammerbacher,Avro,NA,Cloudera
+39,je0039,Jeff Lansing,ActiveMQ,Contributor,SYS Technologies
+1197,je1197,Jeff Lansing,Apache Camel,Contributor,SYS Technologies
+1936,je1936,Jeff Lansing,ActiveMQ,NA,SYS Technologies
+2162,je2162,Jeff Lansing,Camel,NA,SYS Technologies
+226,je0226,Jeff Lansing,Apache Camel,Contributor,SYS Technologies 
+2030,je2030,Jeff Markham,Ambari,NA,Hortonworks
+2006,sposetti,Jeff Sposetti,Ambari,NA,Hortonworks
+620,jeffyu,Jeff Yu,Apache ODE,PMC,JBoss
+624,jeffyu,Jeff Yu,Apache ODE,Committer,JBoss
+1627,jeffyu,Jeff Yu,Apache ODE,PMC,JBoss 
+1631,jeffyu,Jeff Yu,Apache ODE,Developer,JBoss 
+321,brekke,Jeffrey D. Brekke,Apache Commons Net,Committer,Quad/Graphics, Inc.
+1311,brekke,Jeffrey D. Brekke,Apache Commons Net,Committer,Quad/Graphics, Inc.
+2523,je2523,Jeffrey E Rodriguez,Knox,NA,IBM
+2386,jeffreyz,Jeffrey Zhong,HBase,NA,Hortonworks
+1403,jeffreyz,Jeffrey Zhong,Apache HBase,Committer,Hortonworks 
+630,jrbauer,Jeremy Bauer,Apache OpenJPA,PMC,IBM
+645,jrbauer,Jeremy Bauer,Apache OpenJPA,Committer,IBM
+1644,jrbauer,Jeremy Bauer,Apache OpenJPA,Committer,IBM
+1656,jrbauer,Jeremy Bauer,Apache OpenJPA,PMC,IBM
+2591,jrbauer,Jeremy Bauer,OpenJPA,NA,IBM
+1151,jrbauer,Jeremy Bauer,Apache BVal,PMC,IBM
+174,jrbauer,Jeremy Bauer,Apache Bean Validation,PMC,IBM 
+185,jrbauer,Jeremy Bauer,Apache Bean Validation,Committer,IBM 
+375,je0375,Jeremy Boynes,Apache Geronimo,Committer,IBM
+837,hughesj,Jeremy Hughes,Apache Woden,Committer,IBM
+1866,hughesj,Jeremy Hughes,Apache Woden,Committer,IBM 
+68,je0068,Jeremy Hughes,Apache Aries,PMC,IBM
+1047,je1047,Jeremy Hughes,Apache Aries,PMC,IBM
+2073,je2073,Jeremy Hughes,Aries,NA,IBM
+1893,je1893,Jerry He,Accumulo,NA,IBM
+994,je0994,Jesse Glick,Apache ANT,PMC,Oracle
+245,jmcconnell,Jesse McConnell,Apache Continuum,PMC Member,ASF
+607,jmcconnell,Jesse McConnell,Apache Maven,Emeritus,ASF
+1010,je1010,Jessica Seastrom,Apache Accumulo,Contributor,Cloudera
+1894,je1894,Jessica Seastrom,Accumulo,NA,Cloudera
+2114,jcamacho,Jesus Camacho Rodriguez,Calcite,NA,Hortonworks
+2449,jcamacho,Jesus Camacho Rodriguez,Hive,NA,Hortonworks
+2329,jianhe,Jian He,Hadoop,NA,Hortonworks
+1488,jianhe,Jian He,Apache Hadoop,Committer,Hortonworks 
+305,ji0305,Jim Birchfield,Apache Commons Jelly,Contributor,Genscape, Inc.
+1307,ji1307,Jim Birchfield,Apache Commons Jelly,Contributor,Genscape, Inc.
+428,jxiang,Jimmy Xiang,Apache Hbase,Committer,Cloudera
+2390,jxiang,Jimmy Xiang,HBase,NA,Cloudera
+2445,jxiang,Jimmy Xiang,Hive,NA,Cloudera
+1405,jxiang,Jimmy Xiang,Apache HBase,Committer,Cloudera 
+2387,jerryjch,Jing Chen (Jerry) He,HBase,NA,IBM
+2330,jing9,Jing Zhao,Hadoop,NA,Hortonworks
+1489,jing9,Jing Zhao,Apache Hadoop,Committer,Hortonworks 
+453,jitendra,Jitendra Nath Pandey,Apache Hadoop,PMC,Hortonworks
+496,jitendra,Jitendra Nath Pandey,Apache Hadoop,Committer,Hortonworks
+852,jitendra,Jitendra Nath Pandey,Apache Ambari,Committer,Hortonworks
+853,jitendra,Jitendra Nath Pandey,Apache Ambari,PMC,Hortonworks
+954,jitendra,Jitendra Nath Pandey,Apache Ambari,PMC,Hortonworks
+1986,jitendra,Jitendra Nath Pandey,Ambari,NA,Hortonworks
+2331,jitendra,Jitendra Nath Pandey,Hadoop,NA,Hortonworks
+2436,jitendra,Jitendra Nath Pandey,Hive,NA,Hortonworks
+1436,jitendra,Jitendra Nath Pandey,Apache Hadoop,PMC,Hortonworks 
+1490,jitendra,Jitendra Nath Pandey,Apache Hadoop,Committer,Hortonworks 
+1538,jitendra,Jitendra Nath Pandey,Apache Hive,Committer,Hortonworks
+2189,John McNally,jmcnally,Db,NA,CollabNet
+248,joakime,Joakim Erdfelt,Apache Continuum,Emeritus Committer,ASF
+608,joakime,Joakim Erdfelt,Apache Maven,Emeritus,ASF
+1025,joakime,Joakim Erdfelt,Apache Archiva,Emeritus,ASF
+69,jo0069,Joe Bohn,Apache Aries,PMC,IBM
+350,jo0350,Joe Bohn,Apache Geronimo,PMC,Savoir Technologies
+394,jo0394,Joe Bohn,Apache Geronimo,Committer,Savoir Technologies
+1048,jo1048,Joe Bohn,Apache Aries,PMC,IBM
+2074,jo2074,Joe Bohn,Aries,NA,IBM
+2257,jo2257,Joe Bohn,Geronimo,NA,IBM
+1345,jo1345,Joe Bohn,Apache Geronimo,Committer,IBM 
+2648,jo2648,Joe Brockmeier,Sentry,NA,RedHat
+40,jo0040,Joe Fernandez,ActiveMQ,Contributor,TTM
+1198,jo1198,Joe Fernandez,Apache Camel,Contributor,TTM
+1937,jo1937,Joe Fernandez,ActiveMQ,NA,Red Hat
+2163,jo2163,Joe Fernandez,Camel,NA,TTM
+227,jo0227,Joe Fernandez,Apache Camel,Contributor,TTM 
+646,jo0646,Joe Grassel,Apache OpenJPA,Committer,IBM Corporation
+2592,jo2592,Joe Grassel,OpenJPA,NA,IBM
+1645,jo1645,Joe Grassel,Apache OpenJPA,Committer,IBM Corporation 
+304,jo0304,Joe Walnes,Apache Commons Jelly,Contributor,ThoughtWorks, Inc.
+1306,jo1306,Joe Walnes,Apache Commons Jelly,Contributor,ThoughtWorks, Inc.
+24,joe,Joe Walnes,ActiveMQ,Committer,Google
+929,joe,Joe Walnes,Apache ActiveMQ,Committer,Google
+1922,joe,Joe Walnes,ActiveMQ,NA,Google
+2019,zhewang,Joe Wang,Ambari,NA,Hortonworks
+718,joed,Johan Edstrom,Apache ServiceMix,Committer,Savoir Technologies
+1228,joed,Johan Edstrom,Apache Camel,Committer,Savoir Technologies
+2147,joed,Johan Edstrom,Camel,NA,Savoir Technologies
+2683,joed,Johan Edstrom,ServiceMix,NA,Savoir Technologies
+212,joed,Johan Edstrom,Apache Camel,Committer,Savoir Technologies 
+1704,joed,Johan Edstrom,Apache ServiceMix,Committer,Savoir Technologies 
+498,johan,Johan Oskarsson,Apache Hadoop,Committer,Twitter
+797,johan,Johan Oskarsson,Apache Whirr,PMC,Twitter
+806,johan,Johan Oskarsson,Apache Whirr,Committer,Twitter
+1849,johan,Johan Oskarsson,Apache Whirr,committer,Twitter
+1859,johan,Johan Oskarsson,Apache Whirr,PMC,Twitter
+2332,johan,Johan Oskarsson,Hadoop,NA,Twitter
+1492,johan,Johan Oskarsson,Apache Hadoop,Committer,Twitter 
+599,jdcasey,John Casey,Apache Maven,PMC Member,ASF
+838,jkaputin,John Kaputin,Apache Woden,Committer,IBM
+1867,jkaputin,John Kaputin,Apache Woden,Committer,IBM 
+252,jkeyes,John Keyes,Apache Commons CLI,Committer,integral Source
+1250,jkeyes,John Keyes,Apache Commons CLI,Committer,integral Source
+685,jo0685,John McClain,Apache River,Emeritus Committer,Sun Microsystems
+278,jmcnally,John McNally,Apache Commons Email,Committer,CollabNet, Inc.
+286,jmcnally,John McNally,Apache Commons FileUpload,Committer,CollabNet
+828,jmcnally,John McNally,Apache Torque,Committer,CollabNet
+1812,jmcnally,John McNally,Apache Torque,Java Developer,CollabNet
+1281,jmcnally,John McNally,Apache Commons Email,Committer,CollabNet, Inc. 
+2115,jpullokk,John Pullokkaran,Calcite,NA,Hortonworks
+2437,jpullokk,John Pullokkaran,Hive,NA,Hortonworks
+351,jo0351,John R. Sisson,Apache Geronimo,PMC,IBM
+395,jo0395,John R. Sisson,Apache Geronimo,Committer,IBM
+70,jo0070,John Ross,Apache Aries,Contributor,IBM
+1049,jo1049,John Ross,Apache Aries,PMC,IBM
+2075,jo2075,John Ross,Aries,NA,IBM
+533,jvs,John Sichi,Apache Hive,Committer,Facebook
+1188,jvs,John Sichi,Apache Bigtop,committer,Facebook 
+955,jspeidel,John Speidel,Apache Ambari,PMC,Hortonworks
+1989,jspeidel,John Speidel,Ambari,NA,Hortonworks
+2513,jspeidel,John Speidel,Knox,NA,Hortonworks
+854,jspiedel,John Spiedel,Apache Ambari,Committer,Hortonworks
+2227,johnyrufus,Johny Rufus,Flume,NA,Cloudera
+2190,Jon Scott Stevens,jon,Db,NA,CollabNet
+26,janstey,Jon Anstey,ActiveMQ,Committer,Fuse Source
+719,janstey,Jon Anstey,Apache ServiceMix,Committer,FuseSource
+931,janstey,Jon Anstey,Apache ActiveMQ,Committer,Fuse Source
+1229,janstey,Jon Anstey,Apache Camel,Committer,Red Hat
+1923,janstey,Jon Anstey,ActiveMQ,NA,Red Hat
+2148,janstey,Jon Anstey,Camel,NA,Red Hat
+2684,janstey,Jon Anstey,ServiceMix,NA,FuseSource
+213,janstey,Jon Anstey,Apache Camel,Committer,FuseSource 
+1705,janstey,Jon Anstey,Apache ServiceMix,Committer,FuseSource 
+282,jon,Jon Scott Stevens,Apache Commons Email,Committer,CollabNet, Inc.
+825,jon,Jon Scott Stevens,Apache Torque,Committer,CollabNet, Inc.
+1815,jon,Jon Scott Stevens,Apache Torque,Java Developer,CollabNet, Inc.
+1244,jon,Jon Scott Stevens,Apache Commons Betwixt,Committer,StudioZ 
+1285,jon,Jon Scott Stevens,Apache Commons Email,Committer,CollabNet, Inc. 
+25,jlim,Jonas Lim,ActiveMQ,Committer,Iona
+930,jlim,Jonas Lim,Apache ActiveMQ,Committer,Iona
+661,jcoveney,Jonathan Coveney,Apache Pig,Committer,Twitter
+2614,jcoveney,Jonathan Coveney,Pig,NA,Twitter
+494,jeagles,Jonathan Eagles,Apache Hadoop,Committer,Yahoo!
+1434,jeagles,Jonathan Eagles,Apache Hadoop,PMC,Yahoo! 
+1486,jeagles,Jonathan Eagles,Apache Hadoop,Committer,Yahoo! 
+427,jmhsieh,Jonathan Hsieh,Apache Hbase,Committer,Cloudera
+1012,jmhsieh,Jonathan Hsieh,Apache Accumulo,Contributor,Cloudera
+1895,jmhsieh,Jonathan Hsieh,Accumulo,NA,Cloudera
+2228,jmhsieh,Jonathan Hsieh,Flume,NA,Cloudera
+2389,jmhsieh,Jonathan Hsieh,HBase,NA,Cloudera
+2721,jmhsieh,Jonathan Hsieh,Sqoop,NA,Cloudera
+1404,jmhsieh,Jonathan Hsieh,Apache HBase,Committer,Cloudera 
+1988,jonathanhurley,Jonathan Hurley,Ambari,NA,Hortonworks
+2031,jo2031,Jonathan Maron,Ambari,NA,Hortonworks
+2191,Jorgen Loland,jorgenlo,Db,NA,Oracle
+998,elserj,Josh Elser,Apache Accumulo,PMC,Hortonworks
+1003,elserj,Josh Elser,Apache Accumulo,Committer,Hortonworks
+1883,elserj,Josh Elser,Accumulo,NA,Hortonworks
+2116,elserj,Josh Elser,Calcite,NA,Hortonworks
+2606,jo2606,Josh Elser,Phoenix,NA,Hortonworks
+529,jsensarma,Joydeep Sen Sarma,Apache Hive,Committer,Facebook
+2415,jssarma,Joydeep Sensarma,Hive,NA,Qubole
+1528,jssarma,Joydeep Sensarma,Apache Hive,PMC,Qubole 
+2104,Jeremy Bauer,jrbauer,BVal,NA,IBM
+300,James Strachan,jstrachan,Apache Commons Jelly,Committer,SpiritSoft, Inc.
+684,ju0684,Juan Ramirez,Apache River,Emeritus Committer,Sun Microsystems
+2032,ju2032,Juanjo Marron,Ambari,NA,IBM
+747,ju0747,Juergen Mayrbaeurl,Apache ServiceMix,Contributor,CSC Austria AG
+2698,ju2698,Juergen Mayrbaeurl,ServiceMix,NA,CSC Austria AG
+1734,ju1734,Juergen Mayrbaeurl,Apache ServiceMix,Contributor,CSC Austria AG
+1589,ju1589,Jukasz Dywicki,Apache Karaf,NA,Code-House
+552,jukka,Jukka Zitting,Apache Jackrabbit,Committer,Adobe
+769,jukka,Jukka Zitting,Apache Sling,Mentor,Day Software
+2474,jukka,Jukka Zitting,Jackrabbit,NA,Adobe
+1567,jukka,Jukka Zitting,Apache Jackrabbit,Committer,Adobe
+1764,jukka,Jukka Zitting,Apache Sling,Mentor,Day Software 
+2622,juliaw,Julia Wang,REEF,NA,Microsoft
+2117,jhyde,Julian Hyde,Calcite,NA,Hortonworks
+561,reschke,Julian Reschke,Apache Jackrabbit,Committer,greenbytes GmbH
+2483,reschke,Julian Reschke,Jackrabbit,NA,greenbytes GmbH
+1576,reschke,Julian Reschke,Apache Jackrabbit,Committer,greenbytes GmbH
+662,julien,Julien Le Dem,Apache Pig,PMC member,Twitter
+674,julien,Julien Le Dem,Apache Pig,Committer,Twitter
+2615,julien,Julien Le Dem,Pig,NA,Twitter
+1666,julien,Julien Le Dem,Apache PIG,PMC member,Twitter 
+417,jnioche,Julien Nioche,Apache Gora,Committer,DigitalPebble
+1395,jnioche,Julien Nioche,Apache Gora,Committer Emeritus,DigitalPebble
+1346,ju1346,Jun Jie Cai 'Jack',Apache Geronimo,Committer,IBM 
+2258,ju2258,"Jun Jie Cai ""Jack""",Geronimo,NA,IBM
+2333,junping_du,Junping Du,Hadoop,NA,Hortonworks
+553,justin,Justin Edelson,Apache Jackrabbit,Committer,Adobe
+2475,justin,Justin Edelson,Jackrabbit,NA,Adobe
+759,justin,Justin Edelson,Apache Sling,Committer,Adobe
+766,justin,Justin Edelson,Apache Sling,PMC,Adobe
+1568,justin,Justin Edelson,Apache Jackrabbit,Committer,Adobe
+1750,justin ,Justin Edelson,Apache Sling,Java Developer,Adobe 
+1760,justin ,Justin Edelson,Apache Sling,PMC,Adobe 
+2192,Jason van Zyl,jvanzyl,Db,NA,Zenplex
+2193,Knut Anders Hatlen,kahatlen,Db,NA,Oracle
+2317,drankye,Kai Zheng,Hadoop,NA,Intel
+501,kzhang,Kan Zhang,Apache Hadoop,Committer,IBM
+855,kzhang,Kan Zhang,Apache Ambari,Committer,IBM
+856,kzhang,Kan Zhang,Apache Ambari,PMC,IBM
+956,kzhang,Kan Zhang,Apache Ambari,PMC,IBM
+1990,kzhang,Kan Zhang,Ambari,NA,IBM
+2335,kzhang,Kan Zhang,Hadoop,NA,IBM
+1496,kzhang,Kan Zhang,Apache Hadoop,Committer,IBM 
+429,kannan,Kannan Muthukkaruppan,Apache Hbase,Committer,Facebook
+2391,kannan,Kannan Muthukkaruppan,HBase,NA,Facebook
+1406,kannan,Kannan Muthukkaruppan,Apache HBase,Committer,Facebook 
+805,kve,Karel Vervaeke,Apache Whirr,Committer,Outerthought
+1850,kve,Karel Vervaeke,Apache Whirr,committer,Outerthought
+2334,kasha,Karthik Kambatla,Hadoop,NA,Cloudera
+1493,kasha,Karthik Kambatla,Apache Hadoop,Committer,Cloudera 
+430,karthik,Karthik Ranganathan,Apache Hbase,Committer,Facebook
+2392,karthik,Karthik Ranganathan,HBase,NA,Facebook
+1407,karthik,Karthik Ranganathan,Apache HBase,Committer,Facebook 
+781,kasun,Kasun Samarasinghe,Apache Synapse,Committer,University of Colombo
+1776,kasun,Kasun Samarasinghe,Apache Synapse,Committer,University of Colombo
+2739,kasun,Kasun Samarasinghe,Synapse,NA,University of Colombo
+2722,kathleen,Kathleen Ting,Sqoop,NA,Cloudera
+1373,kaz,Kazuomi Kashii,Apache Gora,Committer,Healthline Networks
+1387,kaz,Kazuomi Kashii,Apache Gora,PMC,Healthline Networks
+2291,kaz,Kazuomi Kashii,Gora,NA,Healthline Networks
+149,keithc,Keith Chapman,Apache Axis,Committer,WSO2
+1136,keithc,Keith Chapman,Apache Axis2,Committer,WSO2
+3,kturner,Keith Turner,Apache Accumulo,PMC,Peterson Technologies
+5,kturner,Keith Turner,Apache Accumulo,Committer,Peterson Technologies
+418,kturner,Keith Turner,Apache Gora,Committer,Peterson Technologies
+999,kturner,Keith Turner,Apache Accumulo,PMC,Peterson Technologies
+1004,kturner,Keith Turner,Apache Accumulo,Committer,Peterson Technologies
+1374,kturner,Keith Turner,Apache Gora,Committer,Peterson Technologies
+1388,kturner,Keith Turner,Apache Gora,PMC,Peterson Technologies
+1884,kturner,Keith Turner,Accumulo,NA,Peterson Technologies
+2292,kturner,Keith Turner,Gora,NA,Peterson Technologies
+352,ke0352,Ken Coar,Apache Geronimo,PMC,IBM
+396,ke0353,Ken Coar,Apache Geronimo,Committer,IBM
+2259,ke0354,Ken Coar,Geronimo,NA,IBM
+1348,ke0355,Ken Coar,Apache Geronimo,Committer,IBM 
+2105,kevan,Kevan Miller,BVal,NA,IBM
+71,kevan,Kevan Miller,Apache Aries,PMC,IBM
+365,kevan,Kevan Miller,Apache Geronimo,PMC Chair,IBM
+409,kevan,Kevan Miller,Apache Geronimo,Committer,IBM
+1050,kevan,Kevan Miller,Apache Aries,PMC,IBM
+1152,kevan,Kevan Miller,Apache BVal,PMC,IBM
+1347,kevan,Kevan Miller,Apache Geronimo,Committer,IBM 
+175,kevan,Kevan Miller,Apache Bean Validation,PMC,IBM 
+186,kevan,Kevan Miller,Apache Bean Validation,Committer,IBM 
+193,kevan,Kevan Miller,Apache Bean Validation,Mentor,IBM 
+2508,kminder,Kevin Minder,Knox,NA,Hortonworks
+631,ke0631,Kevin Sutter,Apache OpenJPA,PMC,IBM
+647,ke0632,Kevin Sutter,Apache OpenJPA,Committer,IBM
+1646,ke0633,Kevin Sutter,Apache OpenJPA,Committer,IBM
+1657,ke0634,Kevin Sutter,Apache OpenJPA,PMC,IBM
+2593,ke0635,Kevin Sutter,OpenJPA,NA,IBM
+2438,kevinwilfong,Kevin Wilfong,Hive,NA,Facebook
+1539,kevinwilfong,Kevin Wilfong,Apache Hive,Committer,Facebook
+499,kihwal,Kihwal Lee,Apache Hadoop,Committer,Yahoo!
+1438,kihwal,Kihwal Lee,Apache Hadoop,PMC,Yahoo! 
+1494,kihwal,Kihwal Lee,Apache Hadoop,Committer,Yahoo! 
+2560,kiran,Kiran Chitturi,Nutch,NA,LucidWorks
+74,ki0074,Kiril Mitov,Apache Aries,PMC,SAP
+1053,ki1053,Kiril Mitov,Apache Aries,PMC,SAP
+2078,ki2078,Kiril Mitov,Aries,NA,SAP
+2194,Kathey Marsden,kmarsden,Db,NA,IBM
+500,knoguchi,Koji Noguchi,Apache Hadoop,Committer,Yahoo!
+1495,knoguchi,Koji Noguchi,Apache Hadoop,Committer,Yahoo! 
+2312,cos,Konstantin Boudnik,Hadoop,NA,WANdisco
+2455,cos,Konstantin Boudnik,Ignite,NA,WANdisco
+1170,cos,Konstantin Boudnik,Apache Bigtop,committer,WANdisco 
+1473,cos,Konstantin Boudnik,Apache Hadoop,Committer,WANdisco 
+264,ko0264,Konstantin Shaposhnikov,Apache Commons Configuration,Contributor,scand.com
+1270,ko0265,Konstantin Shaposhnikov,Apache Commons Configuration,Contributor,scand.com
+460,shv,Konstantin Shvachko,Apache Hadoop,PMC,WANdisco
+512,shv,Konstantin Shvachko,Apache Hadoop,Committer,WANdisco
+2349,shv,Konstantin Shvachko,Hadoop,NA,WANdisco
+1445,shv,Konstantin Shvachko,Apache Hadoop,PMC,WANdisco 
+1506,shv,Konstantin Shvachko,Apache Hadoop,Committer,WANdisco 
+2027,kr2027,Krisztian Horvath,Ambari,NA,Hortonworks
+619,lwaterman,Lance Waterman,Apache ODE,PMC,Sybase
+623,lwaterman,Lance Waterman,Apache ODE,Committer,Sybase
+1626,lwaterman,Lance Waterman,Apache ODE,PMC,Sybase 
+1630,lwaterman,Lance Waterman,Apache ODE,Developer,Sybase 
+2338,lmccay,Larry McCay,Hadoop,NA,Hortonworks
+2509,lmccay,Larry McCay,Knox,NA,Hortonworks
+431,larsgeorge,Lars George,Apache Hbase,Committer,Cloudera
+796,larsgeorge,Lars George,Apache Whirr,PMC,Cloudera
+804,larsgeorge,Lars George,Apache Whirr,Committer,Cloudera
+1851,larsgeorge,Lars George,Apache Whirr,committer,Cloudera
+1860,larsgeorge,Lars George,Apache Whirr,PMC,Cloudera
+2393,larsgeorge,Lars George,HBase,NA,Cloudera
+1408,larsgeorge,Lars George,Apache HBase,Committer,Cloudera 
+2164,lhein,Lars Heinemann,Camel,NA,Red Hat
+720,lhein,Lars Heinemann,Apache ServiceMix,Committer,FuseSource
+736,lhein,Lars Heinemann,Apache ServiceMix,PMC,FuseSource
+2685,lhein,Lars Heinemann,ServiceMix,NA,FuseSource
+228,lhein,Lars Heinemann,Apache Camel,Contributor,FuseSource 
+1602,lhein,Lars Heinemann,Apache Karaf,NA,FuseSource
+1706,lhein,Lars Heinemann,Apache ServiceMix,Committer,FuseSource 
+1723,lhein,Lars Heinemann,Apache ServiceMix,PMC,FuseSource 
+839,lmandel,Lawrence Mandel,Apache Woden,Committer,IBM
+1868,lmandel,Lawrence Mandel,Apache Woden,Committer,IBM 
+72,le0072,Lei 'Rex' Wang,Apache Aries,Contributor,IBM
+2076,le2076,"Lei ""Rex"" Wang",Aries,NA,IBM
+1051,le1051,Lei Rex Wang,Apache Aries,Contributor,IBM
+353,le0353,Lei SO Wang 'Rex',Apache Geronimo,PMC,IBM
+397,le0397,Lei SO Wang 'Rex',Apache Geronimo,Committer,IBM
+1349,le1349,Lei SO Wang 'Rex',Apache Geronimo,Committer,IBM 
+2260,le2260,"Lei SO Wang ""Rex""",Geronimo,NA,IBM
+2336,lei,Lei Xu,Hadoop,NA,Cloudera
+2649,le2649,Lenni Kuff,Sentry,NA,Cloudera
+1375,lewismc,Lewis John McGibbney,Apache Gora,Committer,Stanford University
+1389,lewismc,Lewis John McGibbney,Apache Gora,PMC Chair,Stanford University
+2293,lewismc,Lewis John McGibbney,Gora,NA,NASA JPL
+2558,lewismc,Lewis John McGibbney,Nutch,NA,NASA JPL
+2323,gtcarrera9,Li Lu,Hadoop,NA,Hortonworks
+2440,lirui,Li Rui,Hive,NA,Intel
+354,li0354,Lin Quan Jiang 'Shawn',Apache Geronimo,PMC,IBM
+398,li0398,Lin Quan Jiang 'Shawn',Apache Geronimo,Committer,IBM
+1350,li1350,Lin Quan Jiang 'Shawn',Apache Geronimo,Committer,IBM 
+2261,li2261,"Lin Quan Jiang ""Shawn""",Geronimo,NA,IBM
+73,li0073,Lin Sun,Apache Aries,PMC,IBM
+355,li0073,Lin Sun,Apache Geronimo,PMC,IBM
+399,li0073,Lin Sun,Apache Geronimo,Committer,IBM
+1052,li0073,Lin Sun,Apache Aries,PMC,IBM
+2077,li0073,Lin Sun,Aries,NA,IBM
+2262,li0073,Lin Sun,Geronimo,NA,IBM
+1351,li0073,Lin Sun,Apache Geronimo,Committer,IBM 
+437,liyin,Liyin Tang,Apache Hbase,Committer,Facebook
+2394,liyin,Liyin Tang,HBase,NA,Facebook
+1417,liyin,Liyin Tang,Apache HBase,Committer,Facebook 
+2337,lohit,Lohit Vijayarenu,Hadoop,NA,Twitter
+2106,Luciano Resende,lresende,BVal,NA,IBM
+1153,lresende,Luciano Resende,Apache BVal,PMC,IBM
+176,lresende,Luciano Resende,Apache Bean Validation,PMC,IBM 
+187,lresende,Luciano Resende,Apache Bean Validation,Committer,IBM 
+502,llu,Luke Lu,Apache Hadoop,Committer,IBM
+992,umagesh,Magesh Umasankar,Apache ANT,PMC,Metamach Solutions
+454,mahadev,Mahadev Konar,Apache Hadoop,PMC,Hortonworks
+503,mahadev,Mahadev Konar,Apache Hadoop,Committer,Hortonworks
+857,mahadev,Mahadev Konar,Apache Ambari,Committer,Hortonworks
+858,mahadev,Mahadev Konar,Apache Ambari,PMC,Hortonworks
+957,mahadev,Mahadev Konar,Apache Ambari,PMC,Hortonworks
+1991,mahadev,Mahadev Konar,Ambari,NA,Hortonworks
+2339,mahadev,Mahadev Konar,Hadoop,NA,Hortonworks
+2514,mahadev,Mahadev Konar,Knox,NA,Hortonworks
+2781,mahadev,Mahadev Konar,Zookeeper,NA,Hortonworks
+1439,mahadev,Mahadev Konar,Apache Hadoop,PMC,Hortonworks 
+1497,mahadev,Mahadev Konar,Apache Hadoop,Committer,Hortonworks 
+2284,maja,Maja Kabiljo,Giraph,NA,Facebook
+2515,mkononenko,Maksim Kononenko,Knox,NA,Hortonworks
+237,medgar,Malcolm Edgar,Apache Click,Chair,Avoka Technologies
+239,medgar,Malcolm Edgar,Apache Click,Committer,Avoka Technologies
+1239,medgar,Malcolm Edgar,Apache Click,Chair,Avoka Technologies 
+2551,muthaman,Mamallan Uthaman,MyFaces,NA,Oracle
+2195,Mamta,mamta,Db,NA,IBM
+2263,ma2263,Manu George,Geronimo,NA,IBM
+1352,ma1352,Manu George,Apache Geronimo,Committer,IBM 
+557,mreutegg,Marcel Reutegger,Apache Jackrabbit,Committer,Adobe
+2479,mreutegg,Marcel Reutegger,Jackrabbit,NA,Adobe
+1572,mreutegg,Marcel Reutegger,Apache Jackrabbit,Committer,Adobe
+2712,ma2712,Marcelo Vanzin,Spark,NA,Cloudera
+41,ma0041,Marco Buss,ActiveMQ,Contributor,product + concept
+1199,ma1199,Marco Buss,Apache Camel,Contributor,product + concept
+1938,ma1938,Marco Buss,ActiveMQ,NA,product + concept
+2165,ma2165,Marco Buss,Camel,NA,product + concept
+229,ma0229,Marco Buss,Apache Camel,Contributor,product + concept 
+898,mdisabatino,Marco Di Sabatino Di Diodoro,Apache Syncope,Committer,Tirasa
+899,mdisabatino,Marco Di Sabatino Di Diodoro,Apache Syncope,PMC,Tirasa
+2751,mdisabatino,Marco Di Sabatino Di Diodoro,Syncope,NA,Tirasa
+1788,mdisabatino,Marco Di Sabatino Di Diodoro,Apache Syncope,PMC member,Tirasa 
+2628,mariia,Mariia Mykhailova,REEF,NA,Microsoft
+332,imario,Mario Ivankovits,Apache Commons VFS,Committer,OPS EDV Gmbh
+614,imario,Mario Ivankovits,Apache MyFaces,PMC,OPS EDV GmbH
+792,imario,Mario Ivankovits,Apache Tobago,PMC,OPS EDV GmbH
+1317,imario,Mario Ivankovits,Apache Commons VFS,Committer,OPS EDV Gmbh
+1619,imario,Mario Ivankovits,Apache MyFaces,PMC,OPS EDV GmbH
+2544,imario,Mario Ivankovits,MyFaces,NA,OPS EDV GmbH
+1806,imario,Mario Ivankovits,Apache Tobago,PMC,OPS EDV GmbH 
+376,ma0376,Mark DeLaFranier,Apache Geronimo,Committer,IBM
+1939,ma1939,Mark Frazier,ActiveMQ,NA,Savoir Technologies
+2650,ma2650,Mark Grover,Sentry,NA,Cloudera
+75,ma0075,Mark Nuttall,Apache Aries,PMC,IBM
+1054,ma1054,Mark Nuttall,Apache Aries,PMC,IBM
+2079,ma2079,Mark Nuttall,Aries,NA,IBM
+270,markt,Mark Thomas,Apache Commons DBCP,Committer,Apache Software Foundation
+2616,mwagner,Mark Wagner,Pig,NA,LinkedIn
+249,mdahm,Markus Dahm,Apache Commons BCEL,Committer,it-frameworksolutions
+1241,mdahm,Markus Dahm,Apache Commons BCel,Committer,it-frameworksolutions
+2620,weimer,Markus Weimer,REEF,NA,Microsoft
+1952,mpierce,Marlon Pierce,Airavata,NA,Indiana University
+554,martijnh,Martijn Hendriks,Apache Jackrabbit,Committer,GX
+2476,martijnh,Martijn Hendriks,Jackrabbit,NA,GX
+1569,martijnh,Martijn Hendriks,Apache Jackrabbit,Committer,GX
+330,martinc,Martin Cooper,Apache Commons SCXML,Committer,Apache Software Foundation
+1022,martinc,Martin Cooper,Apache Archiva,Committer,ASF
+749,ma0749,Martin Krasser,Apache ServiceMix,Contributor,InterComponentWare AG
+2700,ma2700,Martin Krasser,ServiceMix,NA,InterComponentWare AG
+1736,ma1736,Martin Krasser,Apache ServiceMix,Contributor,InterComponentWare AG
+258,mpoeschl,Martin Poeschl,Apache Commons Configuration,Committer,tucana.at
+268,mpoeschl,Martin Poeschl,Apache Commons DBCP,Committer,tucana.at
+827,mpoeschl,Martin Poeschl,Apache Torque,Committer,Tucana.at
+1813,mpoeschl,Martin Poeschl,Apache Torque,Java Developer,Tucana.at
+1256,mpoeschl,Martin Poeschl,Apache Commons Configuration,Java Developer,tucana.at 
+1264,mpoeschl,Martin Poeschl,Apache Commons Configuration,Committer,tucana.at 
+1274,mpoeschl,Martin Poeschl,Apache Commons DBCP,Committer,tucana.at 
+1245,mvdb,Martin van den Bemt,Apache Commons Betwixt,Committer,mvdb.com 
+2602,ma2602,Maryann Xue,Phoenix,NA,Intel
+2118,maryannxue,Maryann Xue,Calcite,NA,Intel
+900,massi,Massimiliano Perrone,Apache Syncope,PMC,Tirasa
+901,massi,Massimiliano Perrone,Apache Syncope,Committer,Tirasa
+2752,massi,Massimiliano Perrone,Syncope,NA,Tirasa
+1789,massi,Massimiliano Perrone,Apache Syncope,PMC member,Tirasa 
+42,ma0042,Mathew Kuppe,ActiveMQ,Contributor,360 Treasury Systems
+1200,ma1200,Mathew Kuppe,Apache Camel,Contributor,360 Treasury Systems
+1940,ma1940,Mathew Kuppe,ActiveMQ,NA,360 Treasury Systems
+2166,ma2166,Mathew Kuppe,Camel,NA,360 Treasury Systems
+230,ma0230,Mathew Kuppe,Apache Camel,Contributor,360 Treasury Systems 
+1154,mbenson,Matt Benson,Apache BVal,PMC Chair,Permanent General Assurance Co
+177,mbenson,Matt Benson,Apache Bean Validation,PMC,Permanent General Assurance Co
+188,mbenson,Matt Benson,Apache Bean Validation,Committer,Permanent General Assurance Co
+192,mbenson,Matt Benson,Apache Bean Validation,PMC Chair,Permanent General Assurance Co
+2547,mcooper,Matt Cooper,MyFaces,NA,Oracle
+455,mattf,Matt Foley,Apache Hadoop,PMC,Hortonworks
+504,mattf,Matt Foley,Apache Hadoop,Committer,Hortonworks
+2340,mattf,Matt Foley,Hadoop,NA,Hortonworks
+1440,mattf,Matt Foley,Apache Hadoop,PMC,Hortonworks 
+1498,mattf,Matt Foley,Apache Hadoop,Committer,Hortonworks 
+2686,hogstrom,Matt Hogstrom,ServiceMix,NA,IBM
+721,ma0721,Matt Hogstrom,Apache ServiceMix,Committer,IBM
+737,ma0737,Matt Hogstrom,Apache ServiceMix,PMC,IBM
+1707,hogstrom,Matt Hogstrom,Apache ServiceMix,Committer,IBM 
+1724,hogstrom,Matt Hogstrom,Apache ServiceMix,PMC,IBM 
+696,mlovett,Matt Lovett,Apache Sandesha,Committer,IBM
+1681,mlovett,Matt Lovett,Apache Sandesha,Committer,IBM
+85,massie,Matt Massie,Apache Avro,Committer,Cloudera
+2447,mmccline,Matt McCline,Hive,NA,Hortonworks
+356,ma0356,Matt R. Hogstrom,Apache Geronimo,PMC,IBM
+400,ma0400,Matt R. Hogstrom,Apache Geronimo,Committer,IBM
+439,mbertozzi,Matteo Bertozzi,Apache Hbase,Committer,Cloudera
+2396,mbertozzi,Matteo Bertozzi,HBase,NA,Cloudera
+1419,mbertozzi,Matteo Bertozzi,Apache HBase,Committer,Cloudera 
+835,duftler,Matthew Duftler,Apache Woden,Committer,IBM
+1864,duftler,Matthew Duftler,Apache Woden,Committer,IBM 
+2023,ma2023,Matthew Farrellee,Ambari,NA,Red Hat
+2179,mafr,Matthias Friedrich,Crunch,NA,Independent
+612,matzew,Matthias Wessendorf,Apache MyFaces,PMC,Kaazing
+794,matzew,Matthias Wessendorf,Apache Tobago,PMC,Kaazing
+1155,matzew,Matthias Wessendorf,Apache BVal,PMC,Kaazing
+1617,matzew,Matthias Wessendorf,Apache MyFaces,PMC,Kaazing
+2541,matzew,Matthias Wessendorf,MyFaces,NA,Kaazing
+178,matzew,Matthias Wessendorf,Apache Bean Validation,PMC,Kaazing 
+189,matzew,Matthias Wessendorf,Apache Bean Validation,Committer,Kaazing 
+1804,matzew,Matthias Wessendorf,Apache Tobago,PMC,Kaazing 
+2108,Matthias Wessendorf,matzew,BVal,NA,Kaazing
+27,mkington,Max Kington,ActiveMQ,Committer,BetFair
+932,mkington,Max Kington,Apache ActiveMQ,Committer,BetFair
+1924,mkington,Max Kington,ActiveMQ,NA,BetFair
+2548,mstarets,Max Starets,MyFaces,NA,Oracle
+2107,Matt Benson,mbenson,BVal,NA,Permanent General Assurance Co
+2723,mengwei,Mengwei Ding,Sqoop,NA,Google
+556,meteatamel,Mete Atamel,Apache Jackrabbit,Committer,Adobe
+2478,meteatamel,Mete Atamel,Jackrabbit,NA,Adobe
+1571,meteatamel,Mete Atamel,Apache Jackrabbit,Committer,Adobe
+615,mconcini,Michael Concini,Apache MyFaces,committer,IBM
+791,mconcini,Michael Concini,Apache Tobago,committer,IBM
+1620,mconcini,Michael Concini,Apache MyFaces,committer,IBM
+2550,mconcini,Michael Concini,MyFaces,NA,IBM
+1807,mconcini,Michael Concini,Apache Tobago,committer,IBM 
+555,mduerig,Michael DÌ_rig,Apache Jackrabbit,Committer,Adobe
+2477,mduerig,Michael DÌ_rig,Jackrabbit,NA,Adobe
+1570,mduerig,Michael DÌ_rig,Apache Jackrabbit,Committer,Adobe
+28,mgaffney,Michael Gaffney,ActiveMQ,Committer,BoxTone
+933,mgaffney,Michael Gaffney,Apache ActiveMQ,Committer,BoxTone
+1925,mgaffney,Michael Gaffney,ActiveMQ,NA,BoxTone
+2564,joyce,Michael Joyce,Nutch,NA,NASA JPL
+136,u136,Michael Rheinheimer,Apache Axis,Committer,IBM
+1123,u1123,Michael Rheinheimer,Apache Axis2,Committer,IBM
+2603,mi2603,Michael Stack,Phoenix,NA,Cloudera
+434,stack,Michael Stack,Apache Hbase,Committer,Cloudera
+463,stack,Michael Stack,Apache Hadoop,PMC,StumbleUpon
+2404,stack,Michael Stack,HBase,NA,Cloudera
+1184,stack,Michael Stack,Apache Bigtop,committer,StumbleUpon 
+1413,stack,Michael Stack,Apache HBase,Committer,Cloudera 
+1448,stack,Michael Stack,Apache Hadoop,PMC,StumbleUpon 
+1000,mdrob,Mike Drob,Apache Accumulo,PMC,Cloudera
+1005,mdrob,Mike Drob,Apache Accumulo,Committer,Cloudera
+1885,mdrob,Mike Drob,Accumulo,NA,Cloudera
+761,mykee,Mike MÌ_ller,Apache Sling,Committer,MySign AG
+768,mykee,Mike MÌ_ller,Apache Sling,PMC,MySign AG
+1753,mykee ,Mike MÌ_ller,Apache Sling,Java Developer,MySign AG 
+1763,mykee ,Mike MÌ_ller,Apache Sling,PMC,MySign AG 
+2229,mpercy,Mike Percy,Flume,NA,Cloudera
+610,mperham,Mike Perham,Apache Maven,Emeritus,IBM
+2531,mperham,Mike Perham,Maven,NA,IBM
+1616,mperham,Mike Perham,Apache Maven,Emeritus,IBM 
+1896,mi1896,Mike Walch,Accumulo,NA,Peterson Technologies
+2196,Mike Matrigali,mikem,Db,NA,IBM
+2378,antonov,Mikhail Antonov,HBase,NA,Facebook
+432,mbautin,Mikhail Bautin,Apache Hbase,Committer,Facebook
+2395,mbautin,Mikhail Bautin,HBase,NA,Facebook
+1409,mbautin,Mikhail Bautin,Apache HBase,Committer,Facebook 
+1953,milinda,Milinda Pathirage,Airavata,NA,Indiana University
+2342,mingma,Ming Ma,Hadoop,NA,Twitter
+1353,mi1353,Ming Xai 'Forrest',Apache Geronimo,Committer,IBM 
+2264,mi2264,"Ming Xai ""Forrest""",Geronimo,NA,IBM
+2397,misty,Misty Stanley-Jones,HBase,NA,Cloudera
+1553,mithun,Mithun Radhakrishnan,Apache Hive,Committer,Yahoo!
+1201,mi1201,Mitko Kolev,Apache Camel,Contributor,InterComponentWare AG
+2167,mi2167,Mitko Kolev,Camel,NA,InterComponentWare AG
+231,mi0231,Mitko Kolev,Apache Camel,Contributor,InterComponentWare AG 
+2109,Mohammad Nour El-Din,mnour,BVal,NA,Thebe Technology
+1156,mnour,Mohammad Nour El-Din,Apache BVal,Committer Emeritus,Thebe Technology
+179,mnour,Mohammad Nour El-Din,Apache Bean Validation,PMC,Thebe Technology 
+190,mnour,Mohammad Nour El-Din,Apache Bean Validation,Committer,Thebe Technology 
+309,morgand,Morgan Delagrange,Apache Commons Logging,Committer,Apache
+2035,mo2035,Mostafa Mokhtar,Ambari,NA,Hortonworks
+2197,Martin Poeschl,mpoeschl,Db,NA,Tucana.at
+506,mukund,Mukund Madhugiri,Apache Hadoop,Committer,Yahoo!
+1500,mukund,Mukund Madhugiri,Apache Hadoop,Committer,Yahoo! 
+2199,Myrna van Lunteren,myrnavl,Db,NA,IBM
+958,mpapirkovskyy,Myroslav Papyrkovskyy,Apache Ambari,PMC,Hortonworks
+1994,mpapirkovskyy,Myroslav Papyrkovskyy,Ambari,NA,Hortonworks
+2198,Martin Zaun,mzaun,Db,NA,Oracle
+153,na0153,Nadana Gunarathna,Apache Axis,Contributor,Lanka Software Foundation
+1140,na1140,Nadana Gunarathna,Apache Axis2,Contributor,Lanka Software Foundation
+2005,smnaha,Nahappan Somasundaram,Ambari,NA,Hortonworks
+527,namit,Namit Jain,Apache Hive,Committer,Facebook
+1529,namit,Namit Jain,Apache Hive,PMC,Facebook 
+95,nandana,Nandana Mihindukulasooriya,Apache Axiom,Committer,WSO2
+144,nandana,Nandana Mihindukulasooriya,Apache Axis,Committer,WSO2
+1081,nandana,Nandana Mihindukulasooriya,Apache Axiom,Committer,WSO2
+1131,nandana,Nandana Mihindukulasooriya,Apache Axis2,Committer,WSO2
+959,ncole,Nate Cole,Apache Ambari,PMC,Hortonworks
+1995,ncole,Nate Cole,Ambari,NA,Hortonworks
+272,arista,Nathan Abramson,Apache Commons EL,Committer,Massachusetts Institute of Tec
+1278,arista,Nathan Abramson,Apache Commons El,Committer,Massachusetts Institute of Tec
+160,nbubna,Nathan Bubna,Apache Velocity,PMC Member,ESHA Research
+165,nbubna,Nathan Bubna,Apache Velocity,Committer,ESHA Research
+973,nbubna,Nathan Bubna,Apache Velocity Anakia,PMC Member,ESHA Research
+978,nbubna,Nathan Bubna,Apache Velocity Anakia,Java developer,ESHA Research
+983,nbubna,Nathan Bubna,Apache Velocity Anakia,Committer,ESHA Research
+2776,nbubna,Nathan Bubna,Velocity,NA,ESHA Research
+1831,nbubna,Nathan Bubna,Apache Velocity,PMC Member,ESHA Research 
+1836,nbubna,Nathan Bubna,Apache Velocity,Java developer,ESHA Research 
+2416,navis,Navis Ryu,Hive,NA,NexR
+1530,navis,Navis Ryu,Apache Hive,PMC,NexR 
+1540,navis,Navis Ryu,Apache Hive,Committer,NexR
+43,ne0043,Neil Clayton,ActiveMQ,Contributor,Royal Bank of Scotland
+1202,ne1202,Neil Clayton,Apache Camel,Contributor,Royal Bank of Scotland
+1941,ne1941,Neil Clayton,ActiveMQ,NA,Royal Bank of Scotland
+2168,ne2168,Neil Clayton,Camel,NA,Royal Bank of Scotland
+232,ne0232,Neil Clayton,Apache Camel,Contributor,Royal Bank of Scotland 
+121,u121,Nicholas Gallardo,Apache Axis,Committer,IBM
+1108,u1108,Nicholas Gallardo,Apache Axis2,Committer,IBM
+2119,ndimiduk,Nick Dimiduk,Calcite,NA,Hortonworks
+2022,ni2022,Nick Dimiduk,Ambari,NA,Hortonworks
+1410,ndimiduk,Nick Dimiduk,Apache HBase,Committer,Hortonworks 
+2709,ni2709,Nick Pentreath,Spark,NA,IBM
+44,ni0044,Nick Reid,ActiveMQ,Contributor,Evolution
+1203,ni1203,Nick Reid,Apache Camel,Contributor,Evolution
+1942,ni1942,Nick Reid,ActiveMQ,NA,Evolution
+2169,ni2169,Nick Reid,Camel,NA,Evolution
+233,ni0233,Nick Reid,Apache Camel,Contributor,Evolution 
+2765,ni2765,Nicola Baiocco,Syncope,NA,Intesys
+267,ni0267,Nicolas De Loof,Apache Commons Configuration,Contributor,Cap Gemini
+1273,ni1273,Nicolas De Loof,Apache Commons Configuration,Contributor,Cap Gemini
+1165,ni1165,Nicolas Socheleau,Apache Batik,Committer,BitFlash Inc
+433,nspiegelberg,Nicolas Spiegelberg,Apache Hbase,Committer,Facebook
+2398,nspiegelberg,Nicolas Spiegelberg,HBase,NA,Facebook
+1411,nspiegelberg,Nicolas Spiegelberg,Apache HBase,Committer,Facebook 
+145,u145,Nikhil Thaker,Apache Axis,Committer,IBM
+1132,u1132,Nikhil Thaker,Apache Axis2,Committer,IBM
+2536,ni2536,Niklas Quarfot Nielsen,Mesos,NA,Intel
+539,niklas,Niklas Therning,Apache James,Committer,Trillian AB
+541,niklas,Niklas Therning,Apache James,PMC,Trillian AB
+1555,niklas,Niklas Therning,Apache James,Committer,Trillian AB
+76,ni0076,Nikolai Tankov,Apache Aries,PMC,SAP
+1055,ni1055,Nikolai Tankov,Apache Aries,PMC,SAP
+2080,ni2080,Nikolai Tankov,Aries,NA,SAP
+532,nzhang,Ning Zhang,Apache Hive,Committer,Facebook
+2417,nzhang,Ning Zhang,Hive,NA,Facebook
+1531,nzhang,Ning Zhang,Apache Hive,PMC,Facebook 
+1954,ndoshi,Nipurn Doshi,Airavata,NA,Indiana University
+2285,nitay,Nitay Joffe,Giraph,NA,Facebook
+785,olegk,Oleg Kalnichevski,Apache Synapse,Committer,Apache
+1780,olegk,Oleg Kalnichevski,Apache Synapse,Committer,Apache
+2743,olegk,Oleg Kalnichevski,Synapse,NA,Apache
+962,onechiporenko,Oleg Nechiporenko,Apache Ambari,PMC,Hortonworks
+1997,onechiporenko,Oleg Nechiporenko,Ambari,NA,Hortonworks
+960,odiachenko,Oleksandr Diachenko,Apache Ambari,PMC,Hortonworks
+663,olga,Olga Natkovich,Apache Pig,PMC member,Yahoo!
+675,olga,Olga Natkovich,Apache Pig,Committer,Yahoo!
+246,olamy,Olivier Lamy,Apache Continuum,PMC Member,ASF
+1020,olamy,Olivier Lamy,Apache Archiva,PMC Member,Ecetera.com.au
+841,os0841,Oshani Seneviratne,Apache Woden,Committer,WSO2
+1870,os1870,Oshani Seneviratne,Apache Woden,Committer,WSO2 
+456,omalley,Owen O'Malley,Apache Hadoop,PMC,Hortonworks
+507,omalley,Owen O'Malley,Apache Hadoop,Committer,Hortonworks
+844,omalley,Owen O'Malley,Apache Ambari,Committer,Hortonworks
+845,omalley,Owen O'Malley,Apache Ambari,PMC,Hortonworks
+887,omalley,Owen O'Malley,Apache HCatalog,Mentor,Hortonworks
+961,omalley,Owen O'Malley,Apache Ambari,PMC,Hortonworks
+1996,omalley,Owen O'Malley,Ambari,NA,Hortonworks
+2278,omalley,Owen O'Malley,Giraph,NA,HortonWorks
+2343,omalley,Owen O'Malley,Hadoop,NA,Hortonworks
+2424,omalley,Owen O'Malley,Hive,NA,Hortonworks
+2516,omalley,Owen O'Malley,Knox,NA,Hortonworks
+2634,omalley,Owen O'Malley,REEF,NA,HortonWorks
+2768,omalley,Owen O'Malley,Tajo,NA,Hortonworks
+1179,omalley,Owen O'Malley,Apache Bigtop,committer,Yahoo! 
+1191,omalley,Owen O'Malley,Apache Bigtop,mentor,Yahoo! 
+1441,omalley,Owen O'Malley,Apache Hadoop,PMC,Hortonworks 
+1501,omalley,Owen O'Malley,Apache Hadoop,Committer,Hortonworks 
+1541,omalley,Owen O'Malley,Apache Hive,Committer,Hortonworks
+760,hannonpi,Padraic Hannon,Apache Sling,Committer,Edmunds Inc.
+767,hannonpi,Padraic Hannon,Apache Sling,PMC,Edmunds Inc.
+1751,hannonpi ,Padraic Hannon,Apache Sling,Java Developer,Edmunds Inc. 
+1761,hannonpi ,Padraic Hannon,Apache Sling,PMC,Edmunds Inc. 
+1998,pallavkul,Pallav Kulshreshtha,Ambari,NA,Hortonworks
+2217,pallavi,Pallavi Rao,Falcon,NA,Inmobi
+1609,pranjan,Paritosh Ranjan,Apache Mahout,PMC,LinkedIn profile 
+2524,pa2524,Pascal Oliva,Knox,NA,IBM
+2651,pa2651,Patrick Hunt,Sentry,NA,Cloudera
+457,phunt,Patrick Hunt,Apache Hadoop,PMC,Cloudera
+795,phunt,Patrick Hunt,Apache Whirr,PMC,Cloudera
+803,phunt,Patrick Hunt,Apache Whirr,Committer,Cloudera
+1852,phunt,Patrick Hunt,Apache Whirr,committer,Cloudera
+1861,phunt,Patrick Hunt,Apache Whirr,PMC,Cloudera
+2230,phunt,Patrick Hunt,Flume,NA,Cloudera
+2780,phunt,Patrick Hunt,Zookeeper,NA,Cloudera
+1176,phunt,Patrick Hunt,Apache Bigtop,committer,Cloudera 
+1442,phunt,Patrick Hunt,Apache Hadoop,PMC,Cloudera 
+1182,ptr,Patrick Taylor Ramsey,Apache Bigtop,committer,Cloudera 
+772,pzf,Paul Fremantle,Apache Synapse,Committer,WSO2
+1767,pzf,Paul Fremantle,Apache Synapse,Committer,WSO2
+1955,pzf,Paul Fremantle,Airavata,NA,WSO2
+2730,pzf,Paul Fremantle,Synapse,NA,WSO2
+600,pgier,Paul Gier,Apache Maven,PMC Member,Red Hat
+2529,pgier,Paul Gier,Maven,NA,Red Hat
+1613,pgier,Paul Gier,Apache Maven,PMC Member,Red Hat 
+2216,pisaychuk,Paul Isaychuk,Falcon,NA,Hortonworks
+357,pa0357,Paul McMahan,Apache Geronimo,PMC,IBM
+401,pa0401,Paul McMahan,Apache Geronimo,Committer,IBM
+2265,pa2265,Paul McMahan,Geronimo,NA,IBM
+1354,pa1354,Paul McMahan,Apache Geronimo,Committer,IBM 
+2554,paulnicolucci,Paul Nicolucci,MyFaces,NA,IBM
+534,pauly,Paul Yang,Apache Hive,Committer,Facebook
+878,pauly,Paul Yang,Apache HCatalog,Committer,Facebook
+879,pauly,Paul Yang,Apache HCatalog,PPMC,Facebook
+2220,pavankumar,Pavan Kumar Kolamuri,Falcon,NA,Inmobi
+559,ppiegaze,Peeter Piegaze,Apache Jackrabbit,Committer,Adobe
+2482,ppiegaze,Peeter Piegaze,Jackrabbit,NA,Adobe
+1574,ppiegaze,Peeter Piegaze,Apache Jackrabbit,Committer,Adobe
+2221,peeyushb,Peeyush Bishnoi,Falcon,NA,Hortonworks
+2452,pxiong,Pengcheng Xiong,Hive,NA,Hortonworks
+29,pbrooke,Peter Brooke,ActiveMQ,Committer,Prepulse
+934,pbrooke,Peter Brooke,Apache ActiveMQ,Committer,Prepulse
+1926,pbrooke,Peter Brooke,ActiveMQ,NA,Prepulse
+1177,plinnell,Peter Linnell,Apache Bigtop,committer,Suse 
+255,pe0255,Peter Maddocks,Apache Commons CLI,Contributor,Hewlett-Packard
+1253,pe1253,Peter Maddocks,Apache Commons CLI,Contributor,Hewlett-Packard
+1622,pe1622,Peter Mahoney,Apache MyFaces,Contributor,Digital Brain
+2555,pe2555,Peter Mahoney,MyFaces,NA,Digital Brain
+77,pe0077,Peter Peshev,Apache Aries,PMC,SAP
+1056,pe1056,Peter Peshev,Apache Aries,PMC,SAP
+2081,pe2081,Peter Peshev,Aries,NA,SAP
+297,proyal,Peter Royal,Apache Commons JEXL,Committer,Apache Software Foundation
+1298,proyal,Peter Royal,Apache Commons JEXL,Committer,Apache Software Foundation
+752,pe0752,Peter Smith,Apache ServiceMix,Contributor,FAST
+2703,pe2703,Peter Smith,ServiceMix,NA,FAST
+1739,pe1739,Peter Smith,Apache ServiceMix,Contributor,FAST
+722,pdodds,Philip Dodds,Apache ServiceMix,Committer,DevZuz
+738,pdodds,Philip Dodds,Apache ServiceMix,PMC,DevZuz
+2687,pdodds,Philip Dodds,ServiceMix,NA,DevZuz
+1708,pdodds,Philip Dodds,Apache ServiceMix,Committer,DevZuz 
+1725,pdodds,Philip Dodds,Apache ServiceMix,PMC,DevZuz 
+87,philz,Philip Zeyliger,Apache Avro,Committer,Cloudera
+1065,philz,Philip Zeyliger,Apache Avro,java,Cloudera
+1071,philz,Philip Zeyliger,Apache Avro,Committer,Cloudera
+2092,philz,Philip Zeyliger,Avro,NA,Cloudera
+560,pmarx,Philipp Marx,Apache Jackrabbit,Committer,Adobe
+2480,pmarx,Philipp Marx,Jackrabbit,NA,Adobe
+1575,pmarx,Philipp Marx,Apache Jackrabbit,Committer,Adobe
+274,pierred,Pierre Delisle,Apache Commons EL,Committer,Sun Microsystems, Inc.
+1279,pierred,Pierre Delisle,Apache Commons El,Committer,Sun Microsystems, Inc.
+2218,pragyam,Pragya Mittal,Falcon,NA,Inmobi
+2043,pr2043,Pramod Thangali,Ambari,NA,Hortonworks
+528,prasadc,Prasad Chakka,Apache Hive,Committer,Facebook
+358,pr0358,Prasad Kashyap,Apache Geronimo,PMC,IBM
+402,pr0402,Prasad Kashyap,Apache Geronimo,Committer,IBM
+2266,pr2266,Prasad Kashyap,Geronimo,NA,IBM
+1355,pr1355,Prasad Kashyap,Apache Geronimo,Committer,IBM 
+2231,prasadm,Prasad Mujumdar,Flume,NA,Cloudera
+2428,prasadm,Prasad Mujumdar,Hive,NA,Cloudera
+1542,prasadm,Prasad Mujumdar,Apache Hive,Committer,Cloudera
+2425,prasanth_j,Prasanth Jayachandran,Hive,NA,Hortonworks
+2711,pr2711,Prashant Sharma,Spark,NA,IBM
+558,ppakulski,Przemo Pakulski,Apache Jackrabbit,Committer,Cognifide
+2481,ppakulski,Przemo Pakulski,Jackrabbit,NA,Cognifide
+1573,ppakulski,Przemo Pakulski,Apache Jackrabbit,Committer,Cognifide
+2725,qxu,Qian Xu,Sqoop,NA,Intel
+279,quintonm,Quinton McCombs,Apache Commons Email,Committer,NequalsOne, LLC.
+829,quintonm,Quinton McCombs,Apache Torque,Committer,NEqualsOne
+1811,quintonm,Quinton McCombs,Apache Torque,Java Developer,NEqualsOne
+1282,quintonm,Quinton McCombs,Apache Commons Email,Committer,NequalsOne, LLC. 
+2200,Quinton McCombs,quintonm,Db,NA,NEqualsOne
+750,ra0750,Rabi Mishra,Apache ServiceMix,Contributor,Wipro Technologies
+2701,ra2701,Rabi Mishra,ServiceMix,NA,Wipro Technologies
+1737,ra1737,Rabi Mishra,Apache ServiceMix,Contributor,Wipro Technologies
+618,rr,Rafa? Rusin,Apache ODE,PMC,TouK
+622,rr,Rafa? Rusin,Apache ODE,Committer,TouK
+1625,rr,Rafa? Rusin,Apache ODE,PMC,TouK 
+1629,rr,Rafa? Rusin,Apache ODE,Developer,TouK 
+2213,raghav,Raghav Kumar Gautam,Falcon,NA,Hortonworks
+530,rmurthy,Raghotam Murthy,Apache Hive,Committer,Facebook
+2418,rmurthy,Raghotam Murthy,Hive,NA,Facebook
+1532,rmurthy,Raghotham Murthy,Apache Hive,PMC,Facebook 
+458,rangadi,Raghu Angadi,Apache Hadoop,PMC,Twitter
+508,rangadi,Raghu Angadi,Apache Hadoop,Committer,Twitter
+2344,rangadi,Raghu Angadi,Hadoop,NA,Twitter
+1443,rangadi,Raghu Angadi,Apache Hadoop,PMC,Twitter 
+1502,rangadi,Raghu Angadi,Apache Hadoop,Committer,Twitter 
+2652,ra2652,Raghu Mani,Sentry,NA,Oracle
+299,rahul,Rahul Akolkar,Apache Commons JEXL,Committer,Apache Software Foundation
+329,rahul,Rahul Akolkar,Apache Commons SCXML,Committer,Apache Software Foundation
+333,rahul,Rahul Akolkar,Apache Commons VFS,Committer,Apache Software Foundation
+1300,rahul,Rahul Akolkar,Apache Commons JEXL,Committer,Apache Software Foundation
+1318,rahul,Rahul Akolkar,Apache Commons VFS,Committer,Apache Software Foundation
+2604,ra2604,Rajeshbabu Chintaguntla,Phoenix,NA,Hortonworks
+2399,rajeshbabu,Rajeshbabu Chintaguntla,HBase,NA,Hortonworks
+2788,rakeshr,Rakesh R,Zookeeper,NA,Intel
+263,rgoers,Ralph Goers,Apache Commons Configuration,Committer,Intuit
+335,rgoers,Ralph Goers,Apache Commons VFS,Committer,Intuit
+601,rgoers,Ralph Goers,Apache Maven,PMC Member,Intuit
+1320,rgoers,Ralph Goers,Apache Commons VFS,Committer,Intuit
+2528,rgoers,Ralph Goers,Maven,NA,Intuit
+1261,rgoers,Ralph Goers,Apache Commons Configuration,Java Developer,Intuit 
+1269,rgoers,Ralph Goers,Apache Commons Configuration,Committer,Intuit 
+1614,rgoers,Ralph Goers,Apache Maven,PMC Member,Intuit 
+2045,ra2045,Ram Venkatesh,Ambari,NA,Hortonworks
+1956,raminder,Raminder Singh,Airavata,NA,Indiana University
+2400,ramkrishna,Ramkrishna S Vasudevan,HBase,NA,Intel
+1416,ramkrishna,Ramkrishna S Vasudevan,Apache HBase,Committer,Intel 
+2605,ra2605,Ramkrishna Vasudevan,Phoenix,NA,Intel
+509,ramya,Ramya Sunil,Apache Hadoop,Committer,Hortonworks
+859,ramya,Ramya Sunil,Apache Ambari,Committer,Hortonworks
+860,ramya,Ramya Sunil,Apache Ambari,PMC,Hortonworks
+963,ramya,Ramya Sunil,Apache Ambari,PMC,Hortonworks
+1999,ramya,Ramya Sunil,Ambari,NA,Hortonworks
+2345,ramya,Ramya Sunil,Hadoop,NA,Hortonworks
+1503,ramya,Ramya Sunil,Apache Hadoop,Committer,Hortonworks 
+30,rsaba,Ramzi Saba,ActiveMQ,Committer,Optaros
+935,rsaba,Ramzi Saba,Apache ActiveMQ,Committer,Optaros
+1927,rsaba,Ramzi Saba,ActiveMQ,NA,Optaros
+2790,rgs,Raul Gutierrez Segales,Zookeeper,NA,Twitter
+1013,ra1013,Ravi Mutyala,Apache Accumulo,Contributor,Hortonworks
+1897,ra1897,Ravi Mutyala,Accumulo,NA,Hortonworks
+648,ra0648,Ravi Palacherla,Apache OpenJPA,Committer,Oracle Corporation
+2594,ra2594,Ravi Palacherla,OpenJPA,NA,Oracle
+1647,ra1647,Ravi Palacherla,Apache OpenJPA,Committer,Oracle Corporation 
+78,ra0078,Raymond Feng,Apache Aries,PMC,IBM
+1057,ra1057,Raymond Feng,Apache Aries,PMC,IBM
+2082,ra2082,Raymond Feng,Aries,NA,IBM
+902,rene,RenÌ© Mulder,Apache Syncope,Committer,Everett
+2753,rene,RenÌ© Mulder,Syncope,NA,Everett
+1790,rene,RenÌ© Mulder,Apache Syncope,committer,Everett 
+1377,rmarroquin,Renato Marroquin,Apache Gora,Committer,Universidad Catolica San Pabl
+1391,rmarroquin,Renato Marroquin,Apache Gora,PMC,Universidad Catolica San Pabl
+2201,Rick Hillegas,rhillegas,Db,NA,Oracle
+104,scheu,Rich Scheuerle,Apache Axiom,Committer,IBM
+139,scheu,Rich Scheuerle,Apache Axis,Committer,IBM
+1090,scheu,Rich Scheuerle,Apache Axiom,Committer,IBM
+1126,scheu,Rich Scheuerle,Apache Axis2,Committer,IBM
+664,rding,Richard Ding,Apache Pig,PMC member,IBM
+676,rding,Richard Ding,Apache Pig,Committer,IBM
+2617,rding,Richard Ding,Pig,NA,IBM
+1667,rding,Richard Ding,Apache PIG,PMC member,IBM 
+1231,rickette,Richard Kettelerij,Apache Camel,Committer,Avisi BV
+2150,rickette,Richard Kettelerij,Camel,NA,Avisi BV
+215,rickette,Richard Kettelerij,Apache Camel,Committer,Avisi BV 
+315,rsitze,Richard Sitze,Apache Commons Logging,Committer,Apache Software Foundation
+2000,rzang,Richard Zang,Ambari,NA,Hortonworks
+2726,rzhou1,Richard Zhou,Sqoop,NA,Intel
+632,ri0632,Rick Curtis,Apache OpenJPA,PMC,IBM Corporation
+649,ri0649,Rick Curtis,Apache OpenJPA,Committer,IBM Corporation
+1648,ri1648,Rick Curtis,Apache OpenJPA,Committer,IBM Corporation
+1658,ri1658,Rick Curtis,Apache OpenJPA,PMC,IBM Corporation
+2595,ri2595,Rick Curtis,OpenJPA,NA,IBM
+359,ri0359,Rick McGuire,Apache Geronimo,PMC,IBM
+403,ri0403,Rick McGuire,Apache Geronimo,Committer,IBM
+1356,ri1356,Rick McGuire,Apache Geronimo,Committer,IBM 
+2209,rishumehrothra,Rishu Mehrothra,Falcon,NA,InMobi
+31,rajdavies,Rob Davies,ActiveMQ,Committer,Fuse Source
+723,rajdavies,Rob Davies,Apache ServiceMix,Committer,FuseSource
+739,rajdavies,Rob Davies,Apache ServiceMix,PMC,FuseSource
+936,rajdavies,Rob Davies,Apache ActiveMQ,Committer,Fuse Source
+1232,rajdavies,Rob Davies,Apache Camel,Committer,Red Hat
+1928,rajdavies,Rob Davies,ActiveMQ,NA,Red Hat
+2151,rajdavies,Rob Davies,Camel,NA,Red Hat
+2688,rajdavies,Rob Davies,ServiceMix,NA,FuseSource
+216,rajdavies,Rob Davies,Apache Camel,Committer,FuseSource 
+1709,rajdavies,Rob Davies,Apache ServiceMix,Committer,FuseSource 
+1726,rajdavies,Rob Davies,Apache ServiceMix,PMC,FuseSource 
+253,roxspring,Rob Oxspring,Apache Commons CLI,Committer,Indigo Stone
+1251,roxspring,Rob Oxspring,Apache Commons CLI,Committer,Indigo Stone
+313,rdonkin,Robert Burrell Donkin,Apache Commons Logging,Committer,Apache Software Foundation
+325,rdonkin,Robert Burrell Donkin,Apache Commons Pool,Committer,Apache Software Foundation
+2346,rkanter,Robert Kanter,Hadoop,NA,Cloudera
+2576,rkanter,Robert Kanter,Oozie,NA,Cloudera
+126,robertlazarski,Robert Lazarski,Apache Axis,Committer,Brazil Outsource
+1113,robertlazarski,Robert Lazarski,Apache Axis2,Committer,Brazil Outsource
+2001,rlevas,Robert Levas,Ambari,NA,Hortonworks
+46,ro0046,Robert Liguori,ActiveMQ,Contributor,STG Technologies, Inc.
+751,ro0751,Robert Liguori,Apache ServiceMix,Contributor,STG Technologies, Inc.
+1204,ro1204,Robert Liguori,Apache Camel,Contributor,Solentus
+1738,ro1738,Robert Liguori,Apache ServiceMix,Contributor,STG Technologies, Inc.
+1944,ro1944,Robert Liguori,ActiveMQ,NA,STG Technologies, Inc.
+2170,ro2170,Robert Liguori,Camel,NA,Solentus
+2702,ro2702,Robert Liguori,ServiceMix,NA,STG Technologies, Inc.
+234,ro0234,Robert Liguori,Apache Camel,Contributor,STG Technologies, Inc. 
+1754,rombert,Robert Munteanu,Apache Sling,Java Developer,Adobe 
+443,bobby,Robert(Bobby) Evans,Apache Hadoop,PMC,Yahoo!
+480,bobby,Robert(Bobby) Evans,Apache Hadoop,Committer,Yahoo!
+1423,bobby,Robert(Bobby) Evans,Apache Hadoop,PMC,Yahoo! 
+1467,bobby,Robert(Bobby) Evans,Apache Hadoop,Committer,Yahoo! 
+45,ro0045,Robin Roos,ActiveMQ,Contributor,Dresdner Kleinwort Wasserstein
+1205,ro1205,Robin Roos,Apache Camel,Contributor,Dresdner Kleinwort Wasserstein
+1943,ro1943,Robin Roos,ActiveMQ,NA,Dresdner Kleinwort Wasserstein
+2171,ro2171,Robin Roos,Camel,NA,Dresdner Kleinwort Wasserstein
+235,ro0235,Robin Roos,Apache Camel,Contributor,Dresdner Kleinwort Wasserstein
+293,rwaldhoff,Rodney Waldhoff,Apache Commons HTTP Client,Committer,Britannica
+310,rwaldhoff,Rodney Waldhoff,Apache Commons Logging,Committer,Apache Software Foundation
+1293,rwaldhoff,Rodney Waldhoff,Apache Commons HTTP Client,Committer,Britannica 
+665,rohini,Rohini Palaniswamy,Apache Pig,Committer,Yahoo!
+79,ro0079,Roman Roelofsen,Apache Aries,PMC,ProSyst
+1058,ro1058,Roman Roelofsen,Apache Aries,PMC,ProSyst
+2083,ro2083,Roman Roelofsen,Aries,NA,ProSyst
+1183,rvs,Roman Shaposhnik,Apache Bigtop,committer,Cloudera 
+1157,romanstumm,Roman Stumm,Apache BVal,PMC,Viaboxx GmbH
+180,romanstumm,Roman Stumm,Apache Bean Validation,PMC,Viaboxx GmbH 
+191,romanstumm,Roman Stumm,Apache Bean Validation,Committer,Viaboxx GmbH 
+2110,Roman Stumm,romanstumm,BVal,NA,Viaboxx GmbH
+688,ro0688,Ron Mann,Apache River,Emeritus Committer,Sun Microsystems
+2232,roshannaik,Roshan Naik,Flume,NA,Hortonworks
+2532,ro2532,Ross Allen,Mesos,NA,Facebook
+1957,rgardler,Ross Gardler,Airavata,NA,Microsoft
+2633,rgardler,Ross Gardler,REEF,NA,Microsoft
+550,fielding,Roy T. Fielding,Apache Jackrabbit,Committer,Adobe
+2471,fielding,Roy T. Fielding,Jackrabbit,NA,Adobe
+1565,fielding,Roy T. Fielding,Apache Jackrabbit,Committer,Adobe
+96,ruchith,Ruchith Fernando,Apache Axiom,Committer,WSO2
+1082,ruchith,Ruchith Fernando,Apache Axiom,Committer,WSO2
+120,ruchithf,Ruchith Fernando,Apache Axis,Committer,WSO2
+1107,ruchithf,Ruchith Fernando,Apache Axis2,Committer,WSO2
+1357,ru1357,Run Hua Chi 'Jeff',Apache Geronimo,Committer,IBM 
+2267,ru2267,"Run Hua Chi ""Jeff""",Geronimo,NA,IBM
+2212,rostafiychuk,Ruslan Ostafiychuk,Falcon,NA,Hortonworks
+778,ruwan,Ruwan Linton,Apache Synapse,Committer,WSO2
+1773,ruwan,Ruwan Linton,Apache Synapse,Committer,WSO2
+2736,ruwan,Ruwan Linton,Synapse,NA,WSO2
+1014,ry1014,Ryan Fishel,Apache Accumulo,Contributor,Cloudera
+1898,ry1898,Ryan Fishel,Accumulo,NA,Cloudera
+2401,rawson,Ryan Rawson,HBase,NA,WANdisco
+563,sebastien,SÌ©bastien Launay,Apache Jackrabbit,Committer,Anyware Technologies
+2485,sebastien,SÌ©bastien Launay,Jackrabbit,NA,Anyware Technologies
+1578,sebastien,SÌ©bastien Launay,Apache Jackrabbit,Committer,Anyware Technologies
+80,sa0080,Sabine Heider,Apache Aries,PMC,SAP
+1059,sa1059,Sabine Heider,Apache Aries,PMC,SAP
+2084,sa2084,Sabine Heider,Aries,NA,SAP
+360,sa0360,Sachin P. Patel,Apache Geronimo,PMC,IBM
+404,sa0404,Sachin P. Patel,Apache Geronimo,Committer,IBM
+2268,sa2268,Sachin P. Patel,Geronimo,NA,IBM
+1358,sa1358,Sachin P. Patel,Apache Geronimo,Committer,IBM 
+1958,sachith,Sachith Withana,Airavata,NA,WSO2
+150,sagara,Sagara Gunathunga,Apache Axis,Committer,WSO2
+1137,sagara,Sagara Gunathunga,Apache Axis2,Committer,WSO2
+2208,samarthg,Samarth Gupta,Falcon,NA,InMobi
+89,saminda,Saminda Abeyruwan,Apache Axiom,Committer,WSO2
+113,saminda,Saminda Abeyruwan,Apache Axis,Committer,WSO2
+770,saminda,Saminda Abeyruwan,Apache Synapse,Committer,WSO2
+1075,saminda,Saminda Abeyruwan,Apache Axiom,Committer,WSO2
+1100,saminda,Saminda Abeyruwan,Apache Axis2,Committer,WSO2
+1765,saminda,Saminda Abeyruwan,Apache Synapse,Committer,WSO2
+2728,saminda,Saminda Abeyruwan,Synapse,NA,WSO2
+1993,magyari_sandor,Sandor Magyari,Ambari,NA,Hortonworks
+326,sandymac,Sandy McArthur,Apache Commons Pool,Committer,Apache Software Foundation
+2350,sandy,Sandy Ryza,Hadoop,NA,Cloudera
+1507,sandy,Sandy Ryza,Apache Hadoop,Committer,Cloudera 
+2351,sjlee,Sangjin Lee,Hadoop,NA,Twitter
+461,sradia,Sanjay Radia,Apache Hadoop,PMC,Hortonworks
+513,sradia,Sanjay Radia,Apache Hadoop,Committer,Hortonworks
+2352,sradia,Sanjay Radia,Hadoop,NA,Hortonworks
+1446,sradia,Sanjay Radia,Apache Hadoop,PMC,Hortonworks 
+1508,sradia,Sanjay Radia,Apache Hadoop,Committer,Hortonworks 
+148,sanjiva,Sanjiva Weerawarana,Apache Axis,Committer,WSO2
+692,sanjiva,Sanjiva Weerawarana,Apache Sandesha,Committer,WSO2
+777,sanjiva,Sanjiva Weerawarana,Apache Synapse,Committer,WSO2
+1096,sanjiva,Sanjiva Weerawarana,Apache Axiom,Committer,WSO2
+1135,sanjiva,Sanjiva Weerawarana,Apache Axis2,Committer,WSO2
+1677,sanjiva,Sanjiva Weerawarana,Apache Sandesha,Committer,WSO2
+1772,sanjiva,Sanjiva Weerawarana,Apache Synapse,Committer,WSO2
+1959,sanjiva,Sanjiva Weerawarana,Airavata,NA,WSO2
+2735,sanjiva,Sanjiva Weerawarana,Synapse,NA,WSO2
+138,sanka,Sanka Samaranayake,Apache Axis,Committer,WSO2
+693,sanka,Sanka Samaranayake,Apache Sandesha,Committer,WSO2
+1125,sanka,Sanka Samaranayake,Apache Axis2,Committer,WSO2
+1678,sanka,Sanka Samaranayake,Apache Sandesha,Committer,WSO2
+666,sms,Santhosh Srinivasan,Apache Pig,PMC member,Yahoo!
+677,sms,Santhosh Srinivasan,Apache Pig,Committer,Yahoo!
+2618,sms,Santhosh Srinivasan,Pig,NA,Cloudera
+1668,sms,Santhosh Srinivasan,Apache PIG,PMC member,Cloudera 
+86,sbanacho,Scott Banachowski,Apache Avro,Committer,Microsoft
+1066,sbanacho,Scott Banachowski,Apache Avro,c++,Microsoft
+1072,sbanacho,Scott Banachowski,Apache Avro,Committer,Microsoft
+2093,sbanacho,Scott Banachowski,Avro,NA,Microsoft
+510,schen,Scott Chun-Yang Chen,Apache Hadoop,Committer,Facebook
+2347,schen,Scott Chun-Yang Chen,Hadoop,NA,Facebook
+1504,schen,Scott Chun-Yang Chen,Apache Hadoop,Committer,Facebook 
+2003,screeley,Scott Creeley,Ambari,NA,Red Hat
+818,seade,Scott Eade,Apache Turbine,Committer,Backstage Technologies Pty. Lt
+823,seade,Scott Eade,Apache Turbine,PMC Member,Backstage Technologies Pty. Lt
+831,seade,Scott Eade,Apache Torque,Committer,Backstage Technologies Pty. Lt
+1809,seade,Scott Eade,Apache Torque,Java Developer,Backstage Technologies Pty. Lt
+2771,seade,Scott Eade,Turbine,NA,Backstage Technologies Pty. Lt
+1817,seade,Scott Eade,Apache Turbine,PMC Member,Backstage Technologies Pty. Lt
+1822,seade,Scott Eade,Apache Turbine,Java Developer,Backstage Technologies Pty. Lt
+1826,seade,Scott Eade,Apache Turbine,Committer,Backstage Technologies Pty. Lt
+1233,sully6768,Scott England-Sullivan,Apache Camel,Committer,Red Hat
+2152,sully6768,Scott England-Sullivan,Camel,NA,Red Hat
+217,sully6768,Scott England-Sullivan,Apache Camel,Committer,FuseSource 
+2542,sobryan,Scott O'Bryan,MyFaces,NA,Oracle
+312,sanders,Scott Sanders,Apache Commons Logging,Committer,Apache Software Foundation
+2202,Scott Eade,seade,Db,NA,Backstage Technologies Pty. Lt
+1881,busbey,Sean Busbey,Accumulo,NA,Cloudera
+2089,busbey,Sean Busbey,Avro,NA,Cloudera
+2379,busbey,Sean Busbey,HBase,NA,Cloudera
+1015,se1015,Sean Busbey,Apache Accumulo,Contributor,Cloudera
+291,sullis,Sean C. Sullivan,Apache Commons HTTP Client,Committer,Independent consultant
+1291,sullis,Sean C. Sullivan,Apache Commons HTTP Client,Committer,Independent consultant 
+2653,se2653,Sean Mackrory,Sentry,NA,Cloudera
+2708,se2708,Sean Owen,Spark,NA,Cloudera
+1607,srowen,Sean Owen,Apache Mahout,PMC Emeritus,Myrrix 
+2527,sschaffert,Sebastian Schaffert,Marmotta,NA,Google
+2007,stoader,Sebastian Toader,Ambari,NA,Hortonworks
+2037,se2037,Selvamohan Neethiraj,Ambari,NA,Hortonworks
+94,senaka,Senaka Fernando,Apache Axiom,Committer,WSO2
+127,senaka,Senaka Fernando,Apache Axis,Committer,WSO2
+1080,senaka,Senaka Fernando,Apache Axiom,Committer,WSO2
+1114,senaka,Senaka Fernando,Apache Axis2,Committer,WSO2
+81,se0081,Sergey Beryozkin,Apache Aries,PMC,Talend
+1060,se1060,Sergey Beryozkin,Apache Aries,PMC,Talend
+2085,se2085,Sergey Beryozkin,Aries,NA,Talend
+2402,sershe,Sergey Shelukhin,HBase,NA,Hortonworks
+2419,sershe,Sergey Shelukhin,Hive,NA,Hortonworks
+1412,sershe,Sergey Shelukhin,Apache HBase,Committer,Hortonworks 
+2446,spena,Sergio PeÌ±a,Hive,NA,Cloudera
+2621,motus,Sergiy Matusevych,REEF,NA,Microsoft
+420,sertan,Sertan Alkan,Apache Gora,Committer,Konneka
+1378,sertan,Sertan Alkan,Apache Gora,Committer,Konneka
+1392,sertan,Sertan Alkan,Apache Gora,PMC,Konneka
+2295,sertan,Sertan Alkan,Gora,NA,Konneka
+2205,shaikidris,Shaik Idris,Falcon,NA,InMobi
+1960,shameera,Shameera Rathnayaka,Airavata,NA,Indiana University
+2707,sh2707,Shane Huang,Spark,NA,Intel
+459,sharad,Sharad Agarwal,Apache Hadoop,PMC,InMobi
+511,sharad,Sharad Agarwal,Apache Hadoop,Committer,InMobi
+2206,sharad,Sharad Agarwal,Falcon,NA,InMobi
+2348,sharad,Sharad Agarwal,Hadoop,NA,InMobi
+1067,sharadag,Sharad Agarwal,Apache Avro,python,InMobi
+1073,sharadag,Sharad Agarwal,Apache Avro,Committer,InMobi
+2094,sharadag,Sharad Agarwal,Avro,NA,InMobi
+1444,sharad,Sharad Agarwal,Apache Hadoop,PMC,InMobi 
+1505,sharad,Sharad Agarwal,Apache Hadoop,Committer,InMobi 
+2486,shashank,Shashank Gupta,Jackrabbit,NA,Adobe
+273,shawn,Shawn Bayern,Apache Commons EL,Committer,Apache Software Foundation
+361,sh0361,Shiva Kumar H R,Apache Geronimo,PMC,IBM
+405,sh0405,Shiva Kumar H R,Apache Geronimo,Committer,IBM
+2269,sh2269,Shiva Kumar H R,Geronimo,NA,IBM
+1359,sh1359,Shiva Kumar H R,Apache Geronimo,Committer,IBM 
+158,sh0158,Shivantha Huruggamuwa,Apache Axis,Contributor,University Of Peradeniya, Sri
+1145,sh1145,Shivantha Huruggamuwa,Apache Axis2,Contributor,University Of Peradeniya, Sri
+2623,shravan,Shravan M Narayanamurthy,REEF,NA,Microsoft
+2654,sh2654,Shreepadma Venugopalan,Sentry,NA,Google
+2175,shreyas,Shreyas Subramanya,Chukwa,NA,IBM
+462,sseth,Siddharth Seth,Apache Hadoop,PMC,Hortonworks
+514,sseth,Siddharth Seth,Apache Hadoop,Committer,Hortonworks
+2354,sseth,Siddharth Seth,Hadoop,NA,Hortonworks
+1447,sseth,Siddharth Seth,Apache Hadoop,PMC,Hortonworks 
+1509,sseth,Siddharth Seth,Apache Hadoop,Committer,Hortonworks 
+965,swagle,Siddharth Wagle,Apache Ambari,PMC,Hortonworks
+2008,swagle,Siddharth Wagle,Ambari,NA,Hortonworks
+817,sgoeschl,Siegfried Goeschl,Apache Turbine,Committer,IT20one
+820,sgoeschl,Siegfried Goeschl,Apache Turbine,PMC Member,IT20one
+2774,sgoeschl,Siegfried Goeschl,Turbine,NA,IT20one
+1820,sgoeschl,Siegfried Goeschl,Apache Turbine,PMC Member,IT20one 
+1823,sgoeschl,Siegfried Goeschl,Apache Turbine,Java Developer,IT20one 
+1827,sgoeschl,Siegfried Goeschl,Apache Turbine,Committer,IT20one 
+2098,sijie,Sijie Guo,Bookkeeper,NA,Twitter
+680,si0680,Sim IJskes,Apache River,Committer,QCG
+2636,si2636,Sim IJskes,River,NA,QCG
+1671,si1671,Sim IJskes,Apache River,Committer,QCG
+316,skitching,Simon Kitching,Apache Commons Logging,Committer,Apache Software Foundation
+1158,simonetripodi,Simone Tripodi,Apache BVal,PMC,Adobe
+2566,simonetripodi,Simone Tripodi,Oltu,NA,Adobe
+1791,simonetripodi,Simone Tripodi,Apache Syncope,PMC member,The Apache Software Foundation
+2111,Simone Tripodi,simonetripodi,BVal,NA,Adobe
+2439,sdong,Siying Dong,Hive,NA,Facebook
+1544,sdong,Siying Dong,Apache Hive,Committer,Facebook
+2215,sowmya_kr,Sowmya Ramesh,Falcon,NA,Hortonworks
+2655,sr2655,Sravya Tirukkovalur,Sentry,NA,Cloudera
+2353,sreekanth,Sreekanth Ramakrishnan,Hadoop,NA,InMobi
+2040,sr2040,Sreenath Somarajapuram,Ambari,NA,Hortonworks
+2009,sriharsha,Sriharsha Chintalapani,Ambari,NA,Hortonworks
+2403,ssrungarapu,Srikanth Srungarapu,HBase,NA,Cloudera
+2204,sriksun,Srikanth Sundarrajan,Falcon,NA,InMobi
+862,srimanth,Srimanth Gunturi,Apache Ambari,Committer,Hortonworks
+966,srimanth,Srimanth Gunturi,Apache Ambari,PMC,Hortonworks
+2010,srimanth,Srimanth Gunturi,Ambari,NA,Hortonworks
+101,hemapani,Srinath Perera,Apache Axiom,Committer,Lanka Software Foundation
+133,hemapani,Srinath Perera,Apache Axis,Committer,Indiana University, USA
+1087,hemapani,Srinath Perera,Apache Axiom,Committer,Lanka Software Foundation
+1120,hemapani,Srinath Perera,Apache Axis2,Committer,Indiana University, USA
+1961,hemapani,Srinath Perera,Airavata,NA,WSO2
+377,sr0377,Srinath Perera,Apache Geronimo,Committer,IBM
+650,sr0650,Srinivasa Segu,Apache OpenJPA,Committer,Oracle Corporation
+2596,sr2596,Srinivasa Segu,OpenJPA,NA,Oracle
+1649,sr1649,Srinivasa Segu,Apache OpenJPA,Committer,Oracle Corporation 
+1234,slewis,Stan Lewis,Apache Camel,Committer,Red Hat
+2153,slewis,Stan Lewis,Camel,NA,Red Hat
+218,slewis,Stan Lewis,Apache Camel,Committer,FuseSource 
+613,ssilvert,Stan Silvert,Apache MyFaces,Committer,JBoss/Blog/organization
+793,ssilvert,Stan Silvert,Apache Tobago,Committer,JBoss/Blog/organization
+1618,ssilvert,Stan Silvert,Apache MyFaces,committer,JBoss/Blog/organization
+2543,ssilvert,Stan Silvert,MyFaces,NA,JBoss/Blog/organization
+1805,ssilvert,Stan Silvert,Apache Tobago,Portlets Guru,JBoss/Blog/organization 
+2488,stefanegli,Stefan Egli,Jackrabbit,NA,Adobe
+1755,stefanegli,Stefan Egli,Apache Sling,Java Developer,Adobe 
+564,stefan,Stefan Guggisberg,Apache Jackrabbit,Committer,Adobe
+2487,stefan,Stefan Guggisberg,Jackrabbit,NA,Adobe
+1579,stefan,Stefan Guggisberg,Apache Jackrabbit,Committer,Adobe
+602,snicoll,Stephane Nicoll,Apache Maven,PMC Member,ASF
+1171,schu,Stephen Chu,Apache Bigtop,committer,Cloudera 
+2405,syuanjiang,Stephen Yuan Jiang,HBase,NA,Hortonworks
+128,stevel,Steve Loughran,Apache Axis,Committer,HP labs
+892,stevel,Steve Loughran,Apache Hama,Committer,Hortonworks
+893,stevel,Steve Loughran,Apache Hama,PMC,Hortonworks
+1016,stevel,Steve Loughran,Apache Accumulo,Contributor,Hortonworks
+1115,stevel,Steve Loughran,Apache Axis2,Committer,HP labs
+1899,stevel,Steve Loughran,Accumulo,NA,Hortonworks
+2355,stevel,Steve Loughran,Hadoop,NA,Hortonworks
+2373,stevel,Steve Loughran,hama,NA,Hortonworks
+1178,stevel,Steve Loughran,Apache Bigtop,committer,HP Laboratories 
+1190,stevel,Steve Loughran,Apache Bigtop,mentor,HP Laboratories 
+1449,stevel,Steve Loughran,Apache Hadoop,PMC,Hortonworks 
+1510,stevel,Steve Loughran,Apache Hadoop,Committer,Hortonworks 
+1611,sslavic,Stevo Slavi?,Apache Mahout,Committer,LinkedIn Profile 
+2011,subin,Subin Modeel,Ambari,NA,Red Hat
+2210,suhasv,Suhas Vasu,Falcon,NA,InMobi
+2563,sujen,Sujen Shah,Nutch,NA,NASA JPL
+131,sumedha,Sumedha Rubasinghe,Apache Axis,Committer,WSO2
+1118,sumedha,Sumedha Rubasinghe,Apache Axis2,Committer,WSO2
+2026,su2026,Sumit Gupta,Ambari,NA,Hortonworks
+2510,sumit,Sumit Gupta,Knox,NA,Hortonworks
+964,smohanty,Sumit Mohanty,Apache Ambari,PMC,Hortonworks
+2004,smohanty,Sumit Mohanty,Ambari,NA,Hortonworks
+2517,smohanty,Sumit Mohanty,Knox,NA,Hortonworks
+1610,smarthi,Suneel Marthi,Apache Mahout,PMC,VeriSign Inc. 
+2044,su2044,Sunitha Velpula,Ambari,NA,Hortonworks
+787,supun,Supun Kamburugamuva,Apache Synapse,Committer,WSO2
+1782,supun,Supun Kamburugamuva,Apache Synapse,Committer,WSO2
+2745,supun,Supun Kamburugamuva,Synapse,NA,WSO2
+1962,scnakandala,Supun Nakandala,Airavata,NA,Indiana University
+1963,smarru,Suresh Marru,Airavata,NA,Indiana University
+2041,su2041,Suresh Srinivas,Ambari,NA,Hortonworks
+464,suresh,Suresh Srinivas,Apache Hadoop,PMC,Hortonworks
+515,suresh,Suresh Srinivas,Apache Hadoop,Committer,Hortonworks
+2356,suresh,Suresh Srinivas,Hadoop,NA,Hortonworks
+1450,suresh,Suresh Srinivas,Apache Hadoop,PMC,Hortonworks 
+1511,suresh,Suresh Srinivas,Apache Hadoop,Committer,Hortonworks 
+2203,Suresh Thalamati,suresht,Db,NA,IBM
+876,khorgath,Sushanth Sowmyan,Apache HCatalog,Committer,Hortonworks
+877,khorgath,Sushanth Sowmyan,Apache HCatalog,PPMC,Hortonworks
+2429,khorgath,Sushanth Sowmyan,Hive,NA,Hortonworks
+1548,khorgath,Sushanth Sowmyan,Apache Hive,Committer,Hortonworks
+2012,swapan,Swapan Shridhar,Ambari,NA,Hortonworks
+2426,szehon,Szehon Ho,Hive,NA,Cloudera
+1900,ta1900,Takahiko Saito,Accumulo,NA,Hortonworks
+517,tanping,Tanping Wang,Apache Hadoop,Committer,Yahoo!
+1513,tanping,Tanping Wang,Apache Hadoop,Committer,Yahoo! 
+2779,dunning,Ted Dunning,Zookeeper,NA,MapR Technologies
+843,tdunning,Ted Dunning,Apache Zookeeper,PMC,MapR Technologies
+1874,tdunning,Ted Dunning,Apache Zookeeper,PMC,MapR Technologies
+1605,tdunning,Ted Dunning,Apache Mahout,PMC,MapR Technologies 
+2270,te2270,Ted Kirby,Geronimo,NA,IBM
+1360,te1360,Ted Kirby,Apache Geronimo,Committer,IBM 
+1901,te1901,Ted Malaska,Accumulo,NA,Cloudera
+2046,te2046,Ted Yu,Ambari,NA,Hortonworks
+435,tedyu,Ted Yu,Apache Hbase,Committer,Hortonworks
+1017,tedyu,Ted Yu,Apache Accumulo,Contributor,Hortonworks
+1902,tedyu,Ted Yu,Accumulo,NA,Hortonworks
+2406,tedyu,Ted Yu,HBase,NA,Hortonworks
+1414,tedyu,Ted Yu,Apache HBase,Committer,Hortonworks 
+2559,tejasp,Tejas Patil,Nutch,NA,Facebook
+1878,thawan,Thawan Kooburat,Apache Zookeeper,Committer,Facebook
+2787,thawan,Thawan Kooburat,Zookeeper,NA,Facebook
+2036,th2036,Thejas Nair,Ambari,NA,Hortonworks
+667,thejas,Thejas Nair,Apache Pig,PMC member,HortonWorks
+678,thejas,Thejas Nair,Apache Pig,Committer,HortonWorks
+2420,thejas,Thejas Nair,Hive,NA,Hortonworks
+2619,thejas,Thejas Nair,Pig,NA,HortonWorks
+1533,thejas,Thejas Nair,Apache Hive,PMC,Hortonworks
+1669,thejas,Thejas Nair,Apache PIG,PMC member,HortonWorks 
+97,thilina,Thilina Gunarathne,Apache Axiom,Committer,WSO2
+122,thilina,Thilina Gunarathne,Apache Axis,Committer,Lanka Software Foundation
+1083,thilina,Thilina Gunarathne,Apache Axiom,Committer,WSO2
+1109,thilina,Thilina Gunarathne,Apache Axis2,Committer,Lanka Software Foundation
+154,th0154,Thilini Gunawardhana,Apache Axis,Contributor,WSO2
+1141,th1141,Thilini Gunawardhana,Apache Axis2,Contributor,WSO2
+863,tbeerbower,Thomas Beerbower,Apache Ambari,Committer,Hortonworks
+967,tbeerbower,Thomas Beerbower,Apache Ambari,PMC,Hortonworks
+2013,tbeerbower,Thomas Beerbower,Ambari,NA,Hortonworks
+2518,tbeerbower,Thomas Beerbower,Knox,NA,Hortonworks
+1159,th1159,Thomas DeWeese,Apache Batik,Committer,Eastman Kodak Company
+2706,th2706,Thomas Dudziak,Spark,NA,Facebook
+466,tgraves,Thomas Graves,Apache Hadoop,PMC,Yahoo!
+518,tgraves,Thomas Graves,Apache Hadoop,Committer,Yahoo!
+1452,tgraves,Thomas Graves,Apache Hadoop,PMC,Yahoo! 
+1514,tgraves,Thomas Graves,Apache Hadoop,Committer,Yahoo! 
+695,mckierna,Thomas McKiernan,Apache Sandesha,Committer,IBM
+1680,mckierna,Thomas McKiernan,Apache Sandesha,Committer,IBM
+565,thomasm,Thomas Mueller,Apache Jackrabbit,Committer,Adobe
+2489,thomasm,Thomas Mueller,Jackrabbit,NA,Adobe
+1580,thomasm,Thomas Mueller,Apache Jackrabbit,Committer,Adobe
+1288,tn,Thomas Neidhart,Apache Commons Email,Committer,The Apache Software Foundation
+724,tterm,Thomas Termin,Apache ServiceMix,Committer,Blue Elephant Systems
+740,tterm,Thomas Termin,Apache ServiceMix,PMC,Blue Elephant Systems
+2689,tterm,Thomas Termin,ServiceMix,NA,Blue Elephant Systems
+1710,tterm,Thomas Termin,Apache ServiceMix,Committer,Blue Elephant Systems 
+1727,tterm,Thomas Termin,Apache ServiceMix,PMC,Blue Elephant Systems 
+819,tv,Thomas Vandahl,Apache Turbine,PMC Chair,TeWiSoft GmbH
+824,tv,Thomas Vandahl,Apache Torque,Committer,TeWiSoft GmbH
+1816,tv,Thomas Vandahl,Apache Torque,Java Developer,TeWiSoft GmbH
+2775,tv,Thomas Vandahl,Turbine,NA,TeWiSoft GmbH
+1821,tv,Thomas Vandahl,Apache Turbine,PMC Chair,TeWiSoft GmbH 
+2538,th2538,Thomas White,Mesos,NA,Cloudera
+802,tibor,Tibor Kiss,Apache Whirr,Committer,Omixon
+833,tibor,Tibor Kiss,Apache Whirr,PMC,Omixon
+1853,tibor,Tibor Kiss,Apache Whirr,committer,Omixon
+1862,tibor,Tibor Kiss,Apache Whirr,PMC,Omixon
+782,tijs,Tijs Rademakers,Apache Synapse,Committer,Atos Origin
+1777,tijs,Tijs Rademakers,Apache Synapse,Committer,Atos Origin
+2740,tijs,Tijs Rademakers,Synapse,NA,Atos Origin
+306,ti0306,Tim Anderson,Apache Commons Jelly,Contributor,Intalio, Inc.
+1308,ti1308,Tim Anderson,Apache Commons Jelly,Contributor,Intalio, Inc.
+362,ti0362,Tim McConnell,Apache Geronimo,PMC,IBM
+406,ti0406,Tim McConnell,Apache Geronimo,Committer,IBM
+651,ti0651,Tim McConnell,Apache OpenJPA,Committer,IBM Corporation
+2271,ti2271,Tim McConnell,Geronimo,NA,IBM
+2597,ti2597,Tim McConnell,OpenJPA,NA,IBM
+1361,ti1361,Tim McConnell,Apache Geronimo,Committer,IBM 
+1650,ti1650,Tim McConnell,Apache OpenJPA,Committer,IBM Corporation 
+296,tobrien,Tim O'Brien,Apache Commons JEXL,Committer,independent
+1297,tobrien,Tim O'Brien,Apache Commons JEXL,Committer,independent
+32,tabish,Timothy Bish,ActiveMQ,Committer,Fuse Source
+937,tabish,Timothy Bish,Apache ActiveMQ,Committer,Fuse Source
+1929,tabish,Timothy Bish,ActiveMQ,NA,Red Hat
+2537,ti2537,Timothy St Clair,Mesos,NA,Redhat
+566,tripod,Tobias Bocanegra,Apache Jackrabbit,Committer,Adobe
+2492,tripod,Tobias Bocanegra,Jackrabbit,NA,Adobe
+1582,tripod,Tobias Bocanegra,Apache Jackrabbit,Committer,Adobe
+1275,to1275,Todd Carmichael,Apache Commons DBCP,Contributor,toddc@concur.com
+436,todd,Todd Lipcon,Apache Hbase,Committer,Cloudera
+467,todd,Todd Lipcon,Apache Hadoop,PMC,Cloudera
+519,todd,Todd Lipcon,Apache Hadoop,Committer,Cloudera
+2358,todd,Todd Lipcon,Hadoop,NA,Cloudera
+2407,todd,Todd Lipcon,HBase,NA,Cloudera
+1415,todd,Todd Lipcon,Apache HBase,Committer,Cloudera 
+1453,todd,Todd Lipcon,Apache Hadoop,PMC,Cloudera 
+1515,todd,Todd Lipcon,Apache Hadoop,Committer,Cloudera 
+82,to0082,Todor Boev,Apache Aries,PMC,ProSyst
+1061,to1061,Todor Boev,Apache Aries,PMC,ProSyst
+2086,to2086,Todor Boev,Aries,NA,ProSyst
+679,to0679,Tom Hobbs,Apache River,Committer,TRH Tech Services Ltd
+2635,to2635,Tom Hobbs,River,NA,TRH Tech Services Ltd
+1670,to1670,Tom Hobbs,Apache River,Committer,TRH Tech Services Ltd
+2087,to2087,Tom Watson,Aries,NA,IBM
+2656,to2656,Tom White,Sentry,NA,Cloudera
+468,tomwhite,Tom White,Apache Hadoop,PMC,Cloudera
+520,tomwhite,Tom White,Apache Hadoop,Committer,Cloudera
+801,tomwhite,Tom White,Apache Whirr,Committer,Cloudera
+834,tomwhite,Tom White,Apache Whirr,PMC Chair,Cloudera
+1068,tomwhite,Tom White,Apache Avro,java,Cloudera
+1074,tomwhite,Tom White,Apache Avro,Committer,Cloudera
+1854,tomwhite,Tom White,Apache Whirr,committer,Cloudera
+1863,tomwhite,Tom White,Apache Whirr,PMC,Cloudera
+2095,tomwhite,Tom White,Avro,NA,Cloudera
+2180,tomwhite,Tom White,Crunch,NA,Cloudera
+2359,tomwhite,Tom White,Hadoop,NA,Cloudera
+1185,tomwhite,Tom White,Apache Bigtop,committer,Cloudera 
+1192,tomwhite,Tom White,Apache Bigtop,mentor,Cloudera 
+1454,tomwhite,Tom White,Apache Hadoop,PMC,Cloudera 
+1516,tomwhite,Tom White,Apache Hadoop,Committer,Cloudera 
+2490,tomekr,Tomek R?kawek,Jackrabbit,NA,Adobe
+888,tommaso,Tommaso Teofili,Apache Hama,PMC,Adobe
+889,tommaso,Tommaso Teofili,Apache Hama,Committer,Adobe
+2374,tommaso,Tommaso Teofili,hama,NA,Adobe
+2491,tommaso,Tommaso Teofili,Jackrabbit,NA,Adobe
+2567,tommaso,Tommaso Teofili,Oltu,NA,Adobe
+1581,tommaso,Tommaso Teofili,Apache Jackrabbit,Committer,Adobe
+605,tchemit,Tony Chemit,Apache Maven,Committer,CodeLutin
+2530,tchemit,Tony Chemit,Maven,NA,CodeLutin
+1615,tchemit,Tony Chemit,Apache Maven,Committer,CodeLutin 
+2625,tmajest,Tony Majestro,REEF,NA,Microsoft
+1240,tcurdt,Torsten Curdt,Apache Commons BCel,Committer,ASF
+1235,tjsnell,Tracy Snell,Apache Camel,Committer,Juice Labs
+2154,tjsnell,Tracy Snell,Camel,NA,Juice Labs
+219,tjsnell,Tracy Snell,Apache Camel,Committer,Juice Labs 
+885,travis,Travis Crawford,Apache HCatalog,Committer,Twitter
+1552,travis,Travis Crawford,Apache Hive,Committer,Twitter
+1173,traviscraw,Travis Crawford,Apache Bigtop,committer,Twitter 
+1294,tsavo,Travis Savo,Apache Commons JCS,Committer,IFilm
+2033,tr2033,Trevor McKay,Ambari,NA,Red Hat
+247,trygvis,Trygve Laugstol,Apache Continuum,PMC Member,ASF
+611,trygvis,Trygve Laugstol,Apache Maven,Emeritus,ASF
+465,szetszwo,Tsz Wo (Nicholas) Sze,Apache Hadoop,PMC,Hortonworks
+516,szetszwo,Tsz Wo (Nicholas) Sze,Apache Hadoop,Committer,Hortonworks
+2357,szetszwo,Tsz Wo (Nicholas) Sze,Hadoop,NA,Hortonworks
+1451,szetszwo,Tsz Wo (Nicholas) Sze,Apache Hadoop,PMC,Hortonworks 
+1512,szetszwo,Tsz Wo (Nicholas) Sze,Apache Hadoop,Committer,Hortonworks 
+2657,tu2657,Tuong Truong,Sentry,NA,IBM
+725,ulhasbhole,Ulhas Bhole,Apache ServiceMix,Committer,FuseSource
+2690,ulhasbhole,Ulhas Bhole,ServiceMix,NA,FuseSource
+1711,ulhasbhole,Ulhas Bhole,Apache ServiceMix,Committer,FuseSource 
+2099,umamahesh,Uma Maheswara Rao G,Bookkeeper,NA,Intel
+2361,umamahesh,Uma Maheswara Rao G,Hadoop,NA,Intel
+784,upul,Upul Godage,Apache Synapse,Committer,Apache
+1779,upul,Upul Godage,Apache Synapse,Committer,Apache
+2742,upul,Upul Godage,Synapse,NA,Apache
+2441,vgumashta,Vaibhav Gumashta,Hive,NA,Hortonworks
+363,va0363,Vamsavardhana Reddy Chillakuru,Apache Geronimo,PMC,IBM
+407,va0407,Vamsavardhana Reddy Chillakuru,Apache Geronimo,Committer,IBM
+2272,va2272,Vamsavardhana Reddy Chillakuru,Geronimo,NA,IBM
+1362,va1362,Vamsavardhana Reddy Chillakuru,Apache Geronimo,Committer,IBM 
+2658,va2658,Vamsee Yarlagadda,Sentry,NA,Cloudera
+883,avandana,Vandana Ayyalasomayajula,Apache HCatalog,Committer,Yahoo!
+884,avandana,Vandana Ayyalasomayajula,Apache HCatalog,PPMC,Yahoo!
+1551,avandana,Vandana Ayyalasomayajula,Apache Hive,Committer,Yahoo!
+861,reznor,Varun Kapoor,Apache Ambari,Committer,Hortonworks
+2363,vvasudev,Varun Vasudev,Hadoop,NA,Hortonworks
+2038,ve2038,Velmurugan Periasamy,Ambari,NA,Hortonworks
+2727,venkatnrangan,Venkat Ranganathan,Sqoop,NA,Hortonworks
+103,venkat,Venkat Reddy,Apache Axiom,Committer,Computer Associates
+135,venkat,Venkat Reddy,Apache Axis,Committer,Computer Associates
+1089,venkat,Venkat Reddy,Apache Axiom,Committer,Computer Associates
+1122,venkat,Venkat Reddy,Apache Axis2,Committer,Computer Associates
+2519,venkatesh,Venkatesh Seetharam,Knox,NA,Hortonworks
+378,vi0378,Viet Nguyen,Apache Geronimo,Committer,IBM
+2273,vi2273,Viet Nguyen,Geronimo,NA,IBM
+1363,vi1363,Viet Nguyen,Apache Geronimo,Committer,IBM 
+2463,catholicon,Vikas Saurabh,Jackrabbit,NA,Adobe
+864,vikram,Vikram Dixit,Apache Ambari,Committer,Hortonworks
+969,vikram,Vikram Dixit,Apache Ambari,PMC,Hortonworks
+2015,vikram,Vikram Dixit,Ambari,NA,Hortonworks
+2427,vikram,Vikram Dixit,Hive,NA,Hortonworks
+1886,vikrams,Vikram Srivastava,Accumulo,NA,Cloudera
+2525,vi2525,Vinay Shukla,Knox,NA,Hortonworks
+1163,vi1163,Vincent Hardy,Apache Batik,Committer,Sun Microsystems Inc.
+606,vmassol,Vincent Massol,Apache Maven,Committer,ASF
+603,vsiveton,Vincent Siveton,Apache Maven,PMC Member,ASF
+687,vi0687,Vinod Johnson,Apache River,Emeritus Committer,Sun Microsystems
+470,vinodkv,Vinod Kumar Vavilapalli,Apache Hadoop,PMC,Hortonworks
+522,vinodkv,Vinod Kumar Vavilapalli,Apache Hadoop,Committer,Hortonworks
+867,vinodkv,Vinod Kumar Vavilapalli,Apache Ambari,Committer,Hortonworks
+970,vinodkv,Vinod Kumar Vavilapalli,Apache Ambari,PMC,Hortonworks
+2016,vinodkv,Vinod Kumar Vavilapalli,Ambari,NA,Hortonworks
+2181,vinodkv,Vinod Kumar Vavilapalli,Crunch,NA,Hortonworks
+2362,vinodkv,Vinod Kumar Vavilapalli,Hadoop,NA,Hortonworks
+1456,vinodkv,Vinod Kumar Vavilapalli,Apache Hadoop,PMC,Hortonworks 
+1518,vinodkv,Vinod Kumar Vavilapalli,Apache Hadoop,Committer,Hortonworks 
+83,vi0083,Violeta Georgieva,Apache Aries,PMC,SAP
+1062,vi1062,Violeta Georgieva,Apache Aries,PMC,SAP
+2088,vi2088,Violeta Georgieva,Aries,NA,SAP
+968,vbrodetskyi,Vitaly Brodetskyi,Apache Ambari,Committer,Hortonworks
+2014,vbrodetskyi,Vitaly Brodetskyi,Ambari,NA,Hortonworks
+865,vgogate,Vitthal Suhas Gogate,Apache Ambari,Committer,Hortonworks
+866,vgogate,Vitthal Suhas Gogate,Apache Ambari,PMC,Hortonworks
+2042,vi2042,Vivek Ratnavel Subramanian,Ambari,NA,The Ohio State University
+2520,vtkhir,Vladimir Tkhir,Knox,NA,Hortonworks
+2365,wangda,Wangda Tan,Hadoop,NA,Hortonworks
+604,wfay,Wayne Fay,Apache Maven,PMC Member,ASF
+302,Bob McWhirter,werken,Apache Commons Jelly,Committer,The Werken Company
+161,wglass,Will Glass-Husain,Apache Velocity,PMC Chair,Forio Business Simulations
+166,wglass,Will Glass-Husain,Apache Velocity,Committer,Forio Business Simulations
+815,wglass,Will Glass-Husain,Apache Turbine,Committer,Forio Business Simulations
+821,wglass,Will Glass-Husain,Apache Turbine,PMC Member,Forio Business Simulations
+974,wglass,Will Glass-Husain,Apache Velocity Anakia,PMC Chair,Forio Business Simulations
+979,wglass,Will Glass-Husain,Apache Velocity Anakia,Java developer,Forio Business Simulations
+984,wglass,Will Glass-Husain,Apache Velocity Anakia,Committer,Forio Business Simulations
+2773,wglass,Will Glass-Husain,Turbine,NA,Forio Business Simulations
+2777,wglass,Will Glass-Husain,Velocity,NA,Forio Business Simulations
+1819,wglass,Will Glass-Husain,Apache Turbine,PMC Member,Forio Business Simulations 
+1825,wglass,Will Glass-Husain,Apache Turbine,Java Developer,Forio Business Simulations 
+1829,wglass,Will Glass-Husain,Apache Turbine,Committer,Forio Business Simulations 
+1832,wglass,Will Glass-Husain,Apache Velocity,PMC Chair,Forio Business Simulations 
+1837,wglass,Will Glass-Husain,Apache Velocity,Java developer,Forio Business Simulations 
+33,ningjiang,Willem Jiang,ActiveMQ,Committer,Fuse Source
+938,ningjiang,Willem Jiang,Apache ActiveMQ,Committer,Fuse Source
+1236,ningjiang,Willem Jiang,Apache Camel,Committer,Red Hat
+1930,ningjiang,Willem Jiang,ActiveMQ,NA,Red Hat
+2691,njiang,Willem Jiang,ServiceMix,NA,FuseSource
+753,wi0753,Willem Jiang,Apache ServiceMix,Contributor,FuseSource
+220,ningjiang,Willem Jiang,Apache Camel,Committer,FuseSource 
+1712,njiang,Willem Jiang,Apache ServiceMix,Committer,FuseSource
+1237,wtam,William Tam,Apache Camel,Committer,Progress Software
+2155,wtam,William Tam,Camel,NA,Progress Software
+221,wtam,William Tam,Apache Camel,Committer,Progress Software 
+324,wi0324,Winston Ojeda,Apache Commons Net,Contributor,Quad/Graphics, Inc.
+1314,wi1314,Winston Ojeda,Apache Commons Net,Contributor,Quad/Graphics, Inc.
+2233,whoschek,Wolfgang Hoschek,Flume,NA,Cloudera
+971,xiwang,Xi Wang,Apache Ambari,PMC,Hortonworks
+2017,xiwang,Xi Wang,Ambari,NA,Hortonworks
+2367,xyao,Xiaoyu Yao,Hadoop,NA,Hortonworks
+364,xu0364,Xuan Dai 'Delos',Apache Geronimo,PMC,IBM
+408,xu0408,Xuan Dai 'Delos',Apache Geronimo,Committer,IBM
+1364,xu1364,Xuan Dai 'Delos',Apache Geronimo,Committer,IBM 
+2274,xu2274,"Xuan Dai ""Delos""",Geronimo,NA,IBM
+2366,xgong,Xuan Gong,Hadoop,NA,Hortonworks
+2659,xu2659,Xuefu Zhang,Sentry,NA,Cloudera
+1546,xuefuz,Xuefu Zhang,Apache Hive,Committer,Cloudera
+2539,ya2539,Yan Xu,Mesos,NA,Twitter
+2375,yxjiang,Yexi Jiang,hama,NA,Facebook
+2369,yliu,Yi Liu,Hadoop,NA,Intel
+2769,yliu,Yi Liu,Tajo,NA,Intel
+2450,yhuai,Yin Huai,Hive,NA,The Ohio State University
+1545,yhuai,Yin Huai,Apache Hive,Committer,The Ohio State University
+2624,yingdachen,Yingda Chen,REEF,NA,Microsoft
+269,yoavs,Yoa Shapira,Apache Commons DBCP,Committer,Apache Software Foundation
+319,yoavs,Yoav Shapira,Apache Commons Modeler,Committer,Apache
+2368,yjzhangal,Yongjun Zhang,Hadoop,NA,Cloudera
+1527,heyongqiang,Yongqiang He,Apache Hive,PMC,Facebook 
+2454,ychena,Yongzhi Chen,Hive,NA,Cloudera
+2526,yu2526,Yu Gau,Knox,NA,IBM
+1964,yuma,Yu Ma,Airavata,NA,Indiana University
+379,yu0379,Yun Feng Ma,Apache Geronimo,Committer,IBM
+2275,yu2275,Yun Feng Ma,Geronimo,NA,IBM
+1365,yu1365,Yun Feng Ma,Apache Geronimo,Committer,IBM 
+868,yusaku,Yusaku Sako,Apache Ambari,Committer,Hortonworks
+869,yusaku,Yusaku Sako,Apache Ambari,PMC,Hortonworks
+972,yusaku,Yusaku Sako,Apache Ambari,PMC,Hortonworks
+2018,yusaku,Yusaku Sako,Ambari,NA,Hortonworks
+2521,zblanko,Zachary Blanko,Knox,NA,Hortonworks
+2047,zh2047,Zhan Zhang,Ambari,NA,Hortonworks
+2370,zhz,Zhe Zhang,Hadoop,NA,Cloudera
+471,zshao,Zheng Shao,Apache Hadoop,PMC,Facebook
+523,zshao,Zheng Shao,Apache Hadoop,Committer,Facebook
+525,zshao,Zheng Shao,Apache Hive,Committer,Facebook
+2372,zshao,Zheng Shao,Hadoop,NA,Facebook
+1457,zshao,Zheng Shao,Apache Hadoop,PMC,Facebook 
+1521,zshao,Zheng Shao,Apache Hadoop,Committer,Facebook 
+2371,zjshen,Zhijie Shen,Hadoop,NA,Hortonworks
+1520,zjshen,Zhijie Shen,Apache Hadoop,Committer,Hortonworks 
+

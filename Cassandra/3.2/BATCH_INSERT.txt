@@ -1,0 +1,145 @@
+BEGIN BATCH
+
+-- Users
+INSERT INTO users (username , email , nome, time_stamp) VALUES('alfa', 'mail@ua', 'Alfa', toTimestamp(now()) );
+INSERT INTO users (username , email , nome, time_stamp) VALUES('beta', 'mail@ua', 'Beta', toTimestamp(now()) );
+INSERT INTO users (username , email , nome, time_stamp) VALUES('joao', 'mail@ua', 'Zeta', toTimestamp(now()) );
+INSERT INTO users (username , email , nome, time_stamp) VALUES('ze', 'mail@ua', 'R', toTimestamp(now()) );
+INSERT INTO users (username , email , nome, time_stamp) VALUES('tiago', 'mail@ua', 'Mana', toTimestamp(now()) );
+INSERT INTO users (username , email , nome, time_stamp) VALUES('nao', 'mail@ua', 'Zoma', toTimestamp(now()) );
+INSERT INTO users (username , email , nome, time_stamp) VALUES('estou', 'mail@ua', 'Pat', toTimestamp(now()) );
+INSERT INTO users (username , email , nome, time_stamp) VALUES('feliz', 'mail@ua', 'TL', toTimestamp(now()) );
+INSERT INTO users (username , email , nome, time_stamp) VALUES('cbd', 'mail@ua', 'ZMD', toTimestamp(now()) );
+INSERT INTO users (username , email , nome, time_stamp) VALUES('cenas', 'mail@ua', 'RabbitMQ', toTimestamp(now()) );
+
+
+
+-- Videos
+INSERT INTO videos (    id,    vid_publish_time,    vid_author,    vid_caption,    vid_name,    vid_tags) VALUES (1, toTimestamp(now()), 'cenas', 'um video', 'epic win', {'Aveiro', 'Tag'});
+INSERT INTO videos (    id,    vid_publish_time,    vid_author,    vid_caption,    vid_name,    vid_tags) VALUES (2, toTimestamp(now()), 'nao', 'um video', 'like', {'Tag'});
+INSERT INTO videos (    id,    vid_publish_time,    vid_author,    vid_caption,    vid_name,    vid_tags) VALUES (3, toTimestamp(now()), 'feliz', 'um video', 'neutral', {'Tag'});
+INSERT INTO videos (    id,    vid_publish_time,    vid_author,    vid_caption,    vid_name,    vid_tags) VALUES (4, toTimestamp(now()), 'estou', 'um video', 'epic fail', {'Tag'});
+
+
+
+-- Videos_by_tag
+INSERT INTO videos_by_tag ( tag, ids ) VALUES ( 'Tag' , {1,2,3,4});
+INSERT INTO videos_by_tag ( tag, ids ) VALUES ( 'Aveiro' , {1});
+
+
+
+-- Videos_by_author
+INSERT INTO videos_by_author (
+    vid_author,
+    id,
+    vid_caption,
+    vid_name,
+    vid_publish_time,
+    vid_tags
+) VALUES ('cenas', 1, 'um video', 'epic win', toTimestamp(now()), {'Aveiro', 'Tag'});
+INSERT INTO videos_by_author (
+    vid_author,
+    id,
+    vid_caption,
+    vid_name,
+    vid_publish_time,
+    vid_tags
+) VALUES ('nao', 2, 'um video', 'like', toTimestamp(now()), {'Tag'});
+INSERT INTO videos_by_author (
+    vid_author,
+    id,
+    vid_caption,
+    vid_name,
+    vid_publish_time,
+    vid_tags
+) VALUES ('feliz', 3, 'um video', 'neutral', toTimestamp(now()), {'Tag'});
+INSERT INTO videos_by_author (
+    vid_author,
+    id,
+    vid_caption,
+    vid_name,
+    vid_publish_time,
+    vid_tags
+) VALUES ('estou', 4, 'um video', 'epic fail', toTimestamp(now()), {'Tag'});
+
+
+
+-- Comments_by_vid
+INSERT INTO comments_by_vid (
+    video_id,
+    time_stamp,
+    comment_id,
+    author,
+    content
+) VALUES ( 1, toTimestamp(now()), 1, 'nao', 'um comentario');
+INSERT INTO comments_by_vid (
+    video_id,
+    time_stamp,
+    comment_id,
+    author,
+    content
+) VALUES ( 2, toTimestamp(now()), 2, 'nao', 'um comentario');
+INSERT INTO comments_by_vid (
+    video_id,
+    time_stamp,
+    comment_id,
+    author,
+    content
+) VALUES ( 3, toTimestamp(now()), 3, 'nao', 'um comentario');
+INSERT INTO comments_by_vid (
+    video_id,
+    time_stamp,
+    comment_id,
+    author,
+    content
+) VALUES ( 4, toTimestamp(now()), 4, 'nao', 'um comentario');
+
+
+
+-- Comments_by_author
+INSERT INTO comments_by_author (author, time_stamp, comment_id, content, video_id) VALUES ( 'nao', toTimestamp(now()), 1, 'um comentario', 1);
+INSERT INTO comments_by_author (author, time_stamp, comment_id, content, video_id) VALUES ( 'nao', toTimestamp(now()), 2, 'um comentario', 2);
+INSERT INTO comments_by_author (author, time_stamp, comment_id, content, video_id) VALUES ( 'nao', toTimestamp(now()), 3, 'um comentario', 3);
+INSERT INTO comments_by_author (author, time_stamp, comment_id, content, video_id) VALUES ( 'nao', toTimestamp(now()), 4, 'um comentario', 4);
+
+
+
+-- Video_followers
+INSERT INTO video_followers ( video_id, followers ) VALUES ( 1, {'cenas', 'nao'});
+INSERT INTO video_followers ( video_id, followers ) VALUES ( 2, {'feliz', 'nao'});
+INSERT INTO video_followers ( video_id, followers ) VALUES ( 3, {'cenas', 'nao'});
+INSERT INTO video_followers ( video_id, followers ) VALUES ( 4, {'cenas', 'nao'});
+
+
+
+-- Following
+INSERT INTO following ( user, following_vids, comments ) VALUES ( 'cenas', {1,3,4}, ['um comentario', 'um comentario', 'um comentario']);
+INSERT INTO following ( user, following_vids, comments ) VALUES ( 'nao', {1,2,3,4}, ['um comentario', 'um comentario', 'um comentario', 'um comentario']);
+INSERT INTO following ( user, following_vids, comments ) VALUES ( 'feliz', {2}, ['um comentario']);
+
+
+
+-- Events
+INSERT INTO events (user, video_id, time_stamp, event, segundos_passados) VALUES ('cbd', 1, toTimestamp(now()), 'VOLUME_UP', 12);
+INSERT INTO events (user, video_id, time_stamp, event, segundos_passados) VALUES ('tiago', 1, toTimestamp(now()), 'VOLUME_UP', 122);
+INSERT INTO events (user, video_id, time_stamp, event, segundos_passados) VALUES ('joao', 2, toTimestamp(now()), 'PAUSE', 165);
+INSERT INTO events (user, video_id, time_stamp, event, segundos_passados) VALUES ('ze', 4, toTimestamp(now()), 'PAUSE', 282);
+INSERT INTO events (user, video_id, time_stamp, event, segundos_passados) VALUES ('nao', 3, toTimestamp(now()), 'VOLUME_DOWN', 366);
+INSERT INTO events (user, video_id, time_stamp, event, segundos_passados) VALUES ('estou', 4, toTimestamp(now()), 'VOLUME_UP', 180);
+INSERT INTO events (user, video_id, time_stamp, event, segundos_passados) VALUES ('tiago', 1, toTimestamp(now()), 'VOLUME_UP', 11);
+
+
+
+-- Ratings
+INSERT INTO ratings (video_id, count, rating) VALUES (1, 23, 100);
+INSERT INTO ratings (video_id, count, rating) VALUES (2, 12, 39);
+INSERT INTO ratings (video_id, count, rating) VALUES (3, 2, 7);
+INSERT INTO ratings (video_id, count, rating) VALUES (4, 100, 465);
+
+
+-- Vid_tag_num
+INSERT INTO vid_tag_num ( tag, number_of_tags ) VALUES ( 'Tag', 4 );
+INSERT INTO vid_tag_num ( tag, number_of_tags ) VALUES ( 'Aveiro', 1 );
+
+
+APPLY BATCH;

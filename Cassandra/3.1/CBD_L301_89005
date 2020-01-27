@@ -1,0 +1,119 @@
+create keyspace keyspace kspc -- Criaçao de um Keyspace kspc
+;
+create keyspace keyspace kspc ;
+create keyspace kspc ;
+CREATE KEYSPACE “KeySpace Name”
+WITH replication = {'class': ‘Strategy name’, 'replication_factor' : ‘No.Of   replicas’}
+CREATE KEYSPACE "KeySpace Name"
+WITH replication = {'class': ‘Strategy name’, 'replication_factor' : ‘No.Of   replicas’}
+CREATE KEYSPACE "KeySpace Name"
+WITH replication = {'class': 'Strategy name', 'replication_factor' : 'No.Of   replicas'}
+;
+CREATE KEYSPACE "KeySpace Name" WITH replication = {'class': 'Strategy name', 'replication_factor' : 'No.Of   replicas'} ;
+CREATE KEYSPACE tutorialspoint
+WITH replication = {'class':'SimpleStrategy', 'replication_factor' : 3};
+
+CREATE KEYSPACE tutorialspoint WITH replication = {'class':'SimpleStrategy', 'replication_factor' : 3}; -- Estrategia de replicaçao de dados 3 vezes dentro de um mesmo datacenter
+
+describe tutorialspoint
+describe tutorialspoint; -- Tabelas pertencentes ao keyspace tutorialspoint
+SELECT * FROM system.schema_keyspaces; -- Todas as tabelas do sistema
+select * from system;
+use tutorialspoint ;
+describe tutorialspoint
+drop keyspace tutorialspoint ;
+describe tutorialspoint;
+create keyspace cbd with replication = {'class': 'SimpleStrategy', 'replication_factor': '3'}  AND durable_writes = true;
+use cbd ;
+CREATE TABLE emp(
+   emp_id int PRIMARY KEY,
+   emp_name text,
+   emp_city text,
+   emp_sal varint,
+   emp_phone varint
+   ); -- Criaçao de tabela emp
+
+CREATE TABLE emp(    emp_id int PRIMARY KEY,    emp_name text,    emp_city text,    emp_sal varint,    emp_phone varint    );
+select * from emp 
+;
+select * from emp  ;
+alter table emp add emp_email text;
+select * from emp  ;
+alter table emp
+drop column emp_email;
+alter table emp drop column emp_email;
+alter table emp drop emp_email;
+select * from emp;
+INSERT INTO emp (emp_id, emp_name, emp_city,
+   emp_phone, emp_sal) VALUES(1,'ram', 'Hyderabad', 9848022338, 50000); -- Inserçao de dados
+INSERT INTO emp (emp_id, emp_name, emp_city,    emp_phone, emp_sal) VALUES(1,'ram', 'Hyderabad', 9848022338, 50000);
+select * from emp;
+INSERT INTO emp (emp_id, emp_name, emp_city,
+   emp_phone, emp_sal) VALUES(2,'robin', 'Hyderabad', 9848022339, 40000);
+INSERT INTO emp (emp_id, emp_name, emp_city,    emp_phone, emp_sal) VALUES(2,'robin', 'Hyderabad', 9848022339, 40000);
+select * from emp;
+UPDATE emp SET emp_city='Delhi',emp_sal=50000
+   WHERE emp_id=2;
+UPDATE emp SET emp_city='Delhi',emp_sal=50000    WHERE emp_id=2;
+select * from emp;
+alter table emp drop emp_sal ;
+alter table emp add emp_sal;
+alter table emp add emp_sal varint;
+select * from emp;
+update emp set emp_sal=50000 where emp_id=2;
+update emp set emp_sal=50000 where emp_id=1;
+select * from emp;
+quit
+use cbd
+;
+use cbd ;
+drop table emp ;
+create table frutas( nome text primary_key, cor text, sementes boolean);
+create table frutas( nome text PRIMARY KEY, cor text, sementes boolean);
+select * from frutas
+;
+select * from frutas ;
+insert into frutas(nome, cor, sementes) values("Banana", "amarela", False);
+insert into frutas(nome, cor, sementes) values('Banana', 'amarela', False);
+select * from frutas;
+insert into frutas(nome, cor, sementes) values('maca', 'verde', True);
+select * from frutas;
+insert into frutas(nome, cor, sementes) values('melancia', 'verde', True);
+select * from frutas;
+select * from frutas where cor='verde';
+select * from frutas where nome='verde';
+select * from frutas where nome='maca';
+select * from frutas where cor='verde' ALLOW FILTERING
+;
+select * from frutas where cor='verde' ALLOW FILTERING ;
+alter table frutas add regiao
+;
+alter table frutas add regiao ;
+alter table frutas add regiao text;
+alter table frutas drop regiao;
+alter table frutas add regiao set;
+alter table frutas add regiao set<text>;
+alter table frutas add regioes set<text>;
+select * from frutas 
+;
+select * from frutas  ;
+update frutas set regioes {'tropical', 'europeia'} where nome=maca
+;
+update frutas set regioes {'tropical', 'europeia'} where nome=maca ;
+update frutas set regioes {'tropical', 'europeia'} where nome='maca' ;
+update frutas set regioes ['tropical', 'europeia'] where nome='maca' ;
+update frutas set regioes={'tropical', 'europeia'} where nome='maca' ;
+select * from frutas  ;
+update frutas set regioes={'tropical', 'europeia'} where nome='banana' ;
+update frutas set regioes={'tropical'} where nome='melancia' ;
+select * from frutas  ;
+delete from frutas where nome='banana'
+;
+delete from frutas where nome='banana' ;
+update frutas set regioes={'tropical'} where nome='Banana';
+select * from frutas  ;
+drop table frutas ;
+create table users(username text PRIMARY KEY, nome text, email text, time_stamp timestamp);
+select * from users 
+;
+select * from users  ;

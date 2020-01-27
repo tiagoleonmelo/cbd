@@ -1,0 +1,6 @@
+ {"user": "nao", "video_id": 3, "time_stamp": "2019-11-27 15:55:58.809Z", "event": "VOLUME_DOWN", "segundos_passados": 366}
+ {"user": "tiago", "video_id": 1, "time_stamp": "2019-11-27 15:55:58.809Z", "event": "VOLUME_UP", "segundos_passados": 122}
+        {"user": "ze", "video_id": 4, "time_stamp": "2019-11-27 15:55:58.809Z", "event": "PAUSE", "segundos_passados": 282}
+      {"user": "joao", "video_id": 2, "time_stamp": "2019-11-27 15:55:58.809Z", "event": "PAUSE", "segundos_passados": 165}
+    {"user": "cbd", "video_id": 1, "time_stamp": "2019-11-27 15:55:58.809Z", "event": "VOLUME_UP", "segundos_passados": 12}
+ {"user": "estou", "video_id": 4, "time_stamp": "2019-11-27 15:55:58.809Z", "event": "VOLUME_UP", "segundos_passados": 180}

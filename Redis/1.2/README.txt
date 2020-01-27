@@ -1,0 +1,1 @@
+redis-cli < initials4redis.txt

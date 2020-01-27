@@ -1,0 +1,213 @@
+-- DDL
+
+CREATE KEYSPACE corporations WITH replication = {'class':'SimpleStrategy', 'replication_factor' : 3};
+USE corporations;
+
+
+CREATE TABLE companies ( nome text, stock_name text, ceo int, employees set<int>, industry text, valuation int,
+                                PRIMARY KEY (nome) );
+
+CREATE TABLE employees ( id int, name text, income int, familia map<text, text>,
+                                PRIMARY KEY (id) );
+
+CREATE TABLE ceos ( id int, name text, friends list<text>, income int,
+                                PRIMARY KEY (id) );
+
+CREATE TABLE product ( id int, nome text, company text,
+                                PRIMARY KEY (id, company) ) WITH CLUSTERING ORDER BY company;
+
+CREATE TABLE products_by_company ( company_name text, products set<int>,
+                                PRIMARY KEY (company_name) );
+
+
+
+
+
+-- DML
+
+-- Companies
+
+INSERT INTO companies (nome, stock_name, ceo, employees, industry, valuation)
+VALUES ('Tesla Inc.', 'TSLA', 1, {1,2}, 'Automobiles', 1400000);
+INSERT INTO companies (nome, stock_name, ceo, employees, industry, valuation)
+VALUES ('Mercedes', 'MCDS', 2, {3,4}, 'Automobiles', 2000000);
+INSERT INTO companies (nome, stock_name, ceo, employees, industry, valuation)
+VALUES ('Amazon', 'AMZN', 3, {5,6}, 'Web Services', 10000000);
+INSERT INTO companies (nome, stock_name, ceo, employees, industry, valuation)
+VALUES ('Uber Inc.', 'UBER', 4, {7,8}, 'Tech', 1400000);
+INSERT INTO companies (nome, stock_name, ceo, employees, industry, valuation)
+VALUES ('Facebook Inc.', 'FB', 5, {9,10}, 'Social Networks', 1400000);
+INSERT INTO companies (nome, stock_name, ceo, employees, industry, valuation)
+VALUES ('Nike', 'NIKE', 6, {11,12}, 'Clothing', 1400000);
+
+
+
+-- CEOs
+
+INSERT INTO ceos (id, name, friends, income)
+VALUES (1, 'Elon Musk', ['Marques Brownlee'], 12000);
+INSERT INTO ceos (id, name, friends, income)
+VALUES (2, 'Dieter Zetsche', ['Nikola Tesla'], 18000);
+INSERT INTO ceos (id, name, friends, income)
+VALUES (3, 'Jeff Bezos', ['Barack Obama'], 34800);
+INSERT INTO ceos (id, name, friends, income)
+VALUES (4, 'Dara Khosrowshahi', ['António Costa', 'Fernando Pessoa'], 10000);
+INSERT INTO ceos (id, name, friends, income)
+VALUES (5, 'Mark Zuckerberg', ['Marques Brownlee'], 129000);
+INSERT INTO ceos (id, name, friends, income)
+VALUES (6, 'Mark Parker', ['Arnold Schwarzenegger'], 1000000);
+
+
+
+-- Employees
+
+INSERT INTO employees (id, name, income, familia)
+VALUES (1, 'Joao', 120, {'Ana':'Mae', 'Joao':'Pai'});
+INSERT INTO employees (id, name, income, familia)
+VALUES (2, 'Ze', 1000, {'Ana':'Mae', 'Joao':'Pai'});
+INSERT INTO employees (id, name, income, familia)
+VALUES (3, 'Tiago', 800, {'Ana':'Mae', 'Joao':'Pai'});
+INSERT INTO employees (id, name, income, familia)
+VALUES (4, 'Pedro', 8594, {'Ana':'Mae', 'Joao':'Pai'});
+INSERT INTO employees (id, name, income, familia)
+VALUES (5, 'Rita', 320, {'Ana':'Mae', 'Joao':'Pai'});
+INSERT INTO employees (id, name, income, familia)
+VALUES (6, 'Ricardo', 210, {'Ana':'Mae', 'Joao':'Pai'});
+INSERT INTO employees (id, name, income, familia)
+VALUES (7, 'Al', 2000, {'Ana':'Mae', 'Joao':'Pai'});
+INSERT INTO employees (id, name, income, familia)
+VALUES (8, 'Jose', 1300, {'Ana':'Mae', 'Joao':'Pai'});
+INSERT INTO employees (id, name, income, familia)
+VALUES (9, 'Lucas', 1289, {'Ana':'Mae', 'Joao':'Pai'});
+INSERT INTO employees (id, name, income, familia)
+VALUES (10, 'Jacob', 124, {'Ana':'Mae', 'Joao':'Pai'});
+INSERT INTO employees (id, name, income, familia)
+VALUES (11, 'Miguel', 1220, {'Ana':'Mae', 'Joao':'Pai'});
+INSERT INTO employees (id, name, income, familia)
+VALUES (12, 'Bill', 10, {'Ana':'Mae', 'Joao':'Pai'});
+
+
+
+-- Product
+
+INSERT INTO product ( id, nome, company )
+VALUES (1, 'Pólo', 'Nike');
+INSERT INTO product ( id, nome, company )
+VALUES (2, 'Jeans', 'Nike');
+
+INSERT INTO product ( id, nome, company )
+VALUES (1, 'Roadster', 'Tesla Inc.');
+INSERT INTO product ( id, nome, company )
+VALUES (2, 'Cybertruck', 'Tesla Inc.');
+
+INSERT INTO product ( id, nome, company )
+VALUES (1, 'AWS', 'Amazon');
+INSERT INTO product ( id, nome, company )
+VALUES (2, 'Books', 'Amazon');
+
+INSERT INTO product ( id, nome, company )
+VALUES (1, 'i5', 'Mercedes');
+INSERT INTO product ( id, nome, company )
+VALUES (2, 'Class C', 'Mercedes');
+
+INSERT INTO product ( id, nome, company )
+VALUES (1, 'Facebook', 'Facebook Inc.');
+INSERT INTO product ( id, nome, company )
+VALUES (2, 'Libra', 'Facebook Inc.');
+
+INSERT INTO product ( id, nome, company )
+VALUES (1, 'Uber', 'Uber Inc.');
+INSERT INTO product ( id, nome, company )
+VALUES (2, 'Uber Eats', 'Uber Inc.');
+
+
+
+-- Products_by_company
+
+INSERT INTO products_by_company ( company_name, products )
+VALUES ('Nike', {1, 2});
+INSERT INTO products_by_company ( company_name, products )
+VALUES ('Tesla Inc.', {1, 2});
+INSERT INTO products_by_company ( company_name, products )
+VALUES ('Facebook Inc.', {1, 2});
+INSERT INTO products_by_company ( company_name, products )
+VALUES ('Uber Inc.', {1, 2});
+INSERT INTO products_by_company ( company_name, products )
+VALUES ('Mercedes', {1, 2});
+INSERT INTO products_by_company ( company_name, products )
+VALUES ('Amazon', {1, 2});
+
+
+
+
+-- Indexes
+CREATE INDEX product_name ON product(nome);
+CREATE INDEX ceo_name ON ceos(name);
+CREATE INDEX income ON employees(income);
+
+-- QUERIES
+
+-- UPDATE
+-- Mandatory update porque faz mais sentido assim (key - Grau de Parentesco, value - Nome)
+UPDATE employees SET familia={'Mae':'Ana', 'Pai':'Joao'} WHERE id=1;
+UPDATE employees SET familia={'Mae':'Rita', 'Pai':'Ricardo'} WHERE id=2;
+UPDATE employees SET familia={'Mae':'Rute', 'Pai':'Tiago'} WHERE id=3;
+UPDATE employees SET familia={'Mae':'Maria', 'Pai':'Joao'} WHERE id=4;
+UPDATE employees SET familia={'Mae':'Margarida', 'Pai':'Joao'} WHERE id=5;
+UPDATE employees SET familia={'Mae':'Filipa', 'Pai':'Joao'} WHERE id=6;
+UPDATE employees SET familia={'Mae':'Rosa', 'Pai':'Joao'} WHERE id=7;
+UPDATE employees SET familia={'Mae':'Nela', 'Pai':'Joao'} WHERE id=8;
+UPDATE employees SET familia={'Mae':'Fernanda', 'Pai':'Joao'} WHERE id=9;
+UPDATE employees SET familia={'Mae':'Eduarda', 'Pai':'Francisco'} WHERE id=10;
+UPDATE employees SET familia={'Mae':'Bianca', 'Pai':'Rui'} WHERE id=11;
+UPDATE employees SET familia={'Mae':'B', 'Pai':'anana'} WHERE id=12;
+
+# Employee #8 now does a part time at Facebook
+UPDATE companies SET employees = employees + {8} WHERE nome = 'Facebook Inc.';
+UPDATE employees SET income = 1500 WHERE id=8;
+
+# Employee #1's mother doesnt want to be associated with the company
+UPDATE employees SET familia = familia - {'Mae'} WHERE id=1;
+
+-- DELETE
+DELETE FROM companies WHERE nome='Nike';
+DELETE FROM ceos WHERE id=6;
+DELETE FROM product WHERE id=1 and company='Nike';
+DELETE FROM product WHERE id=2 and company='Nike';
+DELETE FROM products_by_company WHERE company_name='Nike';
+DELETE FROM employees WHERE id=11;
+DELETE FROM employees WHERE id=12;
+
+
+-- READ QUERIES
+
+# Getting useful data for stock picking
+SELECT stock_name, valuation FROM companies WHERE name='Tesla Inc.';
+
+# Getting every company
+SELECT * FROM companies;
+
+# Getting the first product of each company
+SELECT * FROM product WHERE id=1 ORDER BY company;
+
+# Fetching Elon Musk's friends
+select friends from ceos where name='Elon Musk';
+
+# Querying which company contains the employee of id 1
+create index company_emps ON companies (employees);
+select * from companies where employees CONTAINS 1;
+
+# Querying which employees are getting $1000 salary
+select * from employees where income = 1000;
+
+# Querying all the amazon products
+select products from products_by_company where company_name = 'Amazon';
+
+# Tesla Industry
+select industry from companies where nome = 'Tesla Inc.';
+
+# Get 3 products
+select * from product limit 3;
+
+# Employee families
+select name, familia from employees;
